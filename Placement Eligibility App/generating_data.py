@@ -1,28 +1,37 @@
 from faker import Faker
+from faker import Faker
 import random
 import mysql.connector
-from datetime import datetime,timedelta
+from datetime import datetime, timedelta
 
-faker=Faker()
-connection=mysql.connector.connect(
+faker = Faker()
+connection = mysql.connector.connect(
     host='localhost',
     user='root',
     password='root',
     database='placement_app'
 )
 
-cursor=connection.cursor()
+cursor = connection.cursor()
+cursor.execute('SET FOREIGN_KEY_CHECKS = 0')
+cursor.execute('TRUNCATE TABLE placements')
+cursor.execute('TRUNCATE TABLE soft_skills')
+cursor.execute('TRUNCATE TABLE programming')
+cursor.execute('TRUNCATE TABLE students')
+cursor.execute('SET FOREIGN_KEY_CHECKS = 1')
+connection.commit()
+print("✅ Tables truncated")
 
 students_data=[]
 
-for _ in range(100):
+for _ in range(250):
     name=faker.name()
     age=random.randint(18,28)
     gender=random.choice(['Male','Female','Other'])
-    email=faker.email()
-    phone=faker.phone_number()
+    email=faker.unique.email()
+    phone=faker.unique.phone_number()
     enrollment_year=random.randint(2015,2021)
-    batch_num=f'Batch - {random.randint(1,5)}'
+    batch_num=random.randint(1,5)
     course_batch=f'Batch - {str(batch_num)}'
     city=faker.city()
     graduation_year=enrollment_year +4
