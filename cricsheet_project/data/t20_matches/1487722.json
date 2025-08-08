@@ -1,0 +1,2467 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-06-12",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kigali City",
+    "dates": [
+      "2025-06-11"
+    ],
+    "event": {
+      "name": "Kwibuka Women's Twenty20 Tournament",
+      "match_number": 30
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2358,
+    "officials": {
+      "match_referees": [
+        "ET Dube"
+      ],
+      "reserve_umpires": [
+        "Gaston Niyibizi"
+      ],
+      "umpires": [
+        "F Mutizwa",
+        "S Kintu"
+      ]
+    },
+    "outcome": {
+      "winner": "Tanzania",
+      "by": {
+        "wickets": 7
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "AS Qwele"
+    ],
+    "players": {
+      "Rwanda": [
+        "MD Bimenyimana",
+        "M Uwase",
+        "C Uwase",
+        "S Niyomuhoza",
+        "H Ishimwe",
+        "A Ikuzwe",
+        "B Murekatete",
+        "Geovanis Uwase",
+        "R Shimwamana",
+        "Sylvia Usabyimana",
+        "Rosine Irera"
+      ],
+      "Tanzania": [
+        "FO Kibasu",
+        "NJ Pius",
+        "S Mtae",
+        "HM Omary",
+        "JG Kimaro",
+        "GL Mushi",
+        "SH Mohamedi",
+        "AS Qwele",
+        "NN Saidi",
+        "PZ Kamunya",
+        "MH Ushanga"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Ikuzwe": "6762a445",
+        "AS Qwele": "26b3df21",
+        "B Murekatete": "2d4317da",
+        "C Uwase": "808bb510",
+        "ET Dube": "4c0891bc",
+        "F Mutizwa": "d3e83eef",
+        "FO Kibasu": "1c726c76",
+        "GL Mushi": "fae59566",
+        "Gaston Niyibizi": "eb99c84c",
+        "Geovanis Uwase": "088f22fd",
+        "H Ishimwe": "ffa296f7",
+        "HM Omary": "2cbe5db1",
+        "JG Kimaro": "3f0be08f",
+        "M Uwase": "7d6ce83f",
+        "MD Bimenyimana": "c1a0cebe",
+        "MH Ushanga": "0286eabe",
+        "NJ Pius": "f4270fc7",
+        "NN Saidi": "16610c7b",
+        "PZ Kamunya": "6e60bbe2",
+        "R Shimwamana": "03fb10bd",
+        "Rosine Irera": "b84718fd",
+        "S Kintu": "ff387f93",
+        "S Mtae": "bb641155",
+        "S Niyomuhoza": "a5424013",
+        "SH Mohamedi": "10ab6a37",
+        "Sylvia Usabyimana": "7a7e2be6"
+      }
+    },
+    "season": "2025",
+    "team_type": "international",
+    "teams": [
+      "Rwanda",
+      "Tanzania"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Rwanda"
+    },
+    "venue": "Gahanga B Ground, Rwanda"
+  },
+  "innings": [
+    {
+      "team": "Rwanda",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "PZ Kamunya",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "PZ Kamunya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "PZ Kamunya",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "PZ Kamunya",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "PZ Kamunya",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "PZ Kamunya",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "PZ Kamunya",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "AS Qwele",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "AS Qwele",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "AS Qwele",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "AS Qwele",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "AS Qwele",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "AS Qwele",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "M Uwase",
+              "bowler": "PZ Kamunya",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "PZ Kamunya",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "PZ Kamunya",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "PZ Kamunya",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "PZ Kamunya",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "PZ Kamunya",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "M Uwase",
+              "bowler": "AS Qwele",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "AS Qwele",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "AS Qwele",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "AS Qwele",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "AS Qwele",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "AS Qwele",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "M Uwase",
+              "bowler": "PZ Kamunya",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "PZ Kamunya",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "PZ Kamunya",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "PZ Kamunya",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "PZ Kamunya",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "PZ Kamunya",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "PZ Kamunya",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "M Uwase",
+              "bowler": "NN Saidi",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "NN Saidi",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "NN Saidi",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "NN Saidi",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "NN Saidi",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "NN Saidi",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "MH Ushanga",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "MH Ushanga",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "MH Ushanga",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "MH Ushanga",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "MH Ushanga",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "MH Ushanga",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "M Uwase",
+              "bowler": "NN Saidi",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "NN Saidi",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "NN Saidi",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "NN Saidi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "NN Saidi",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "NN Saidi",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "NN Saidi",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "MH Ushanga",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "MH Ushanga",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "MH Ushanga",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "MH Ushanga",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MD Bimenyimana",
+                  "fielders": [
+                    {
+                      "name": "FO Kibasu"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "C Uwase",
+              "bowler": "MH Ushanga",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Uwase",
+              "bowler": "MH Ushanga",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "M Uwase",
+              "bowler": "NJ Pius",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "NJ Pius",
+              "non_striker": "C Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "NJ Pius",
+              "non_striker": "C Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "NJ Pius",
+              "non_striker": "C Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "NJ Pius",
+              "non_striker": "C Uwase",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "NJ Pius",
+              "non_striker": "C Uwase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Uwase",
+              "bowler": "NJ Pius",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "C Uwase",
+              "bowler": "MH Ushanga",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Uwase",
+                  "fielders": [
+                    {
+                      "name": "NN Saidi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "S Niyomuhoza",
+              "bowler": "MH Ushanga",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "MH Ushanga",
+              "non_striker": "S Niyomuhoza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Niyomuhoza",
+              "bowler": "MH Ushanga",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "MH Ushanga",
+              "non_striker": "S Niyomuhoza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "MH Ushanga",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Niyomuhoza",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "MH Ushanga",
+              "non_striker": "S Niyomuhoza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "S Niyomuhoza",
+              "bowler": "NJ Pius",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Niyomuhoza",
+              "bowler": "NJ Pius",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "NJ Pius",
+              "non_striker": "S Niyomuhoza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "NJ Pius",
+              "non_striker": "S Niyomuhoza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Niyomuhoza",
+              "bowler": "NJ Pius",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Niyomuhoza",
+              "bowler": "NJ Pius",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Niyomuhoza",
+              "bowler": "NJ Pius",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "M Uwase",
+              "bowler": "MH Ushanga",
+              "non_striker": "S Niyomuhoza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Uwase",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "H Ishimwe",
+              "bowler": "MH Ushanga",
+              "non_striker": "S Niyomuhoza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Ishimwe",
+              "bowler": "MH Ushanga",
+              "non_striker": "S Niyomuhoza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Ishimwe",
+              "bowler": "MH Ushanga",
+              "non_striker": "S Niyomuhoza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Ishimwe",
+              "bowler": "MH Ushanga",
+              "non_striker": "S Niyomuhoza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Ishimwe",
+              "bowler": "MH Ushanga",
+              "non_striker": "S Niyomuhoza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "S Niyomuhoza",
+              "bowler": "NJ Pius",
+              "non_striker": "H Ishimwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "H Ishimwe",
+              "bowler": "NJ Pius",
+              "non_striker": "S Niyomuhoza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Ishimwe",
+              "bowler": "NJ Pius",
+              "non_striker": "S Niyomuhoza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Ishimwe",
+              "bowler": "NJ Pius",
+              "non_striker": "S Niyomuhoza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "H Ishimwe",
+              "bowler": "NJ Pius",
+              "non_striker": "S Niyomuhoza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Niyomuhoza",
+              "bowler": "NJ Pius",
+              "non_striker": "H Ishimwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "H Ishimwe",
+              "bowler": "FO Kibasu",
+              "non_striker": "S Niyomuhoza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "H Ishimwe",
+                  "fielders": [
+                    {
+                      "name": "SH Mohamedi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "A Ikuzwe",
+              "bowler": "FO Kibasu",
+              "non_striker": "S Niyomuhoza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Ikuzwe",
+              "bowler": "FO Kibasu",
+              "non_striker": "S Niyomuhoza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Niyomuhoza",
+              "bowler": "FO Kibasu",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "A Ikuzwe",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Ikuzwe",
+              "bowler": "FO Kibasu",
+              "non_striker": "S Niyomuhoza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Niyomuhoza",
+              "bowler": "FO Kibasu",
+              "non_striker": "A Ikuzwe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Niyomuhoza",
+              "bowler": "FO Kibasu",
+              "non_striker": "A Ikuzwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "S Niyomuhoza",
+              "bowler": "NJ Pius",
+              "non_striker": "A Ikuzwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Ikuzwe",
+              "bowler": "NJ Pius",
+              "non_striker": "S Niyomuhoza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Ikuzwe",
+              "bowler": "NJ Pius",
+              "non_striker": "S Niyomuhoza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Niyomuhoza",
+              "bowler": "NJ Pius",
+              "non_striker": "A Ikuzwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Niyomuhoza",
+              "bowler": "NJ Pius",
+              "non_striker": "A Ikuzwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Niyomuhoza",
+                  "fielders": [
+                    {
+                      "name": "SH Mohamedi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "B Murekatete",
+              "bowler": "NJ Pius",
+              "non_striker": "A Ikuzwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "A Ikuzwe",
+              "bowler": "PZ Kamunya",
+              "non_striker": "B Murekatete",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Murekatete",
+              "bowler": "PZ Kamunya",
+              "non_striker": "A Ikuzwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Murekatete",
+              "bowler": "PZ Kamunya",
+              "non_striker": "A Ikuzwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Murekatete",
+              "bowler": "PZ Kamunya",
+              "non_striker": "A Ikuzwe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Murekatete",
+                  "fielders": [
+                    {
+                      "name": "SH Mohamedi"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "Geovanis Uwase",
+              "bowler": "PZ Kamunya",
+              "non_striker": "A Ikuzwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Ikuzwe",
+              "bowler": "PZ Kamunya",
+              "non_striker": "Geovanis Uwase",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "Geovanis Uwase",
+              "bowler": "AS Qwele",
+              "non_striker": "A Ikuzwe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Ikuzwe",
+              "bowler": "AS Qwele",
+              "non_striker": "Geovanis Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Ikuzwe",
+              "bowler": "AS Qwele",
+              "non_striker": "Geovanis Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Ikuzwe",
+              "bowler": "AS Qwele",
+              "non_striker": "Geovanis Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Ikuzwe",
+                  "fielders": [
+                    {
+                      "name": "FO Kibasu"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "R Shimwamana",
+              "bowler": "AS Qwele",
+              "non_striker": "Geovanis Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Shimwamana",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Sylvia Usabyimana",
+              "bowler": "AS Qwele",
+              "non_striker": "Geovanis Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Geovanis Uwase",
+              "bowler": "NN Saidi",
+              "non_striker": "Sylvia Usabyimana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Sylvia Usabyimana",
+              "bowler": "NN Saidi",
+              "non_striker": "Geovanis Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sylvia Usabyimana",
+              "bowler": "NN Saidi",
+              "non_striker": "Geovanis Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sylvia Usabyimana",
+              "bowler": "NN Saidi",
+              "non_striker": "Geovanis Uwase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Geovanis Uwase",
+              "bowler": "NN Saidi",
+              "non_striker": "Sylvia Usabyimana",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Geovanis Uwase",
+              "bowler": "NN Saidi",
+              "non_striker": "Sylvia Usabyimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "Sylvia Usabyimana",
+              "bowler": "AS Qwele",
+              "non_striker": "Geovanis Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Sylvia Usabyimana",
+              "bowler": "AS Qwele",
+              "non_striker": "Geovanis Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Sylvia Usabyimana",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Rosine Irera",
+              "bowler": "AS Qwele",
+              "non_striker": "Geovanis Uwase",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Rosine Irera",
+              "bowler": "AS Qwele",
+              "non_striker": "Geovanis Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Rosine Irera",
+              "bowler": "AS Qwele",
+              "non_striker": "Geovanis Uwase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Geovanis Uwase",
+              "bowler": "AS Qwele",
+              "non_striker": "Rosine Irera",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Geovanis Uwase",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Tanzania",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "FO Kibasu",
+              "bowler": "B Murekatete",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "B Murekatete",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "B Murekatete",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "B Murekatete",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "B Murekatete",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "B Murekatete",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "B Murekatete",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "B Murekatete",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "NJ Pius",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "FO Kibasu",
+              "bowler": "Rosine Irera",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "Rosine Irera",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "Rosine Irera",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "Rosine Irera",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "Rosine Irera",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "Rosine Irera",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "FO Kibasu",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "MD Bimenyimana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "FO Kibasu",
+              "bowler": "Rosine Irera",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "Rosine Irera",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "Rosine Irera",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "Rosine Irera",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "Rosine Irera",
+              "non_striker": "NJ Pius",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NJ Pius",
+              "bowler": "Rosine Irera",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "NJ Pius",
+                  "fielders": [
+                    {
+                      "name": "H Ishimwe"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "FO Kibasu",
+              "bowler": "A Ikuzwe",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "A Ikuzwe",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "A Ikuzwe",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "A Ikuzwe",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "A Ikuzwe",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "A Ikuzwe",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "FO Kibasu",
+              "bowler": "Rosine Irera",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "Rosine Irera",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "Rosine Irera",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "Rosine Irera",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "Rosine Irera",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "Rosine Irera",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "S Mtae",
+              "bowler": "H Ishimwe",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "H Ishimwe",
+              "non_striker": "S Mtae",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Mtae",
+              "bowler": "H Ishimwe",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Mtae",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "HM Omary",
+              "bowler": "H Ishimwe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HM Omary",
+              "bowler": "H Ishimwe",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HM Omary",
+              "bowler": "H Ishimwe",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HM Omary",
+              "bowler": "H Ishimwe",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "HM Omary",
+              "bowler": "Sylvia Usabyimana",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HM Omary",
+              "bowler": "Sylvia Usabyimana",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HM Omary",
+              "bowler": "Sylvia Usabyimana",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "HM Omary",
+              "bowler": "Sylvia Usabyimana",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "Sylvia Usabyimana",
+              "non_striker": "HM Omary",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "Sylvia Usabyimana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "HM Omary",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "Sylvia Usabyimana",
+              "non_striker": "HM Omary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "FO Kibasu",
+              "bowler": "H Ishimwe",
+              "non_striker": "HM Omary",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "H Ishimwe",
+              "non_striker": "HM Omary",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HM Omary",
+              "bowler": "H Ishimwe",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HM Omary",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "JG Kimaro",
+              "bowler": "H Ishimwe",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JG Kimaro",
+              "bowler": "H Ishimwe",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JG Kimaro",
+              "bowler": "H Ishimwe",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "FO Kibasu",
+              "bowler": "Sylvia Usabyimana",
+              "non_striker": "JG Kimaro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "Sylvia Usabyimana",
+              "non_striker": "JG Kimaro",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "Sylvia Usabyimana",
+              "non_striker": "JG Kimaro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "Sylvia Usabyimana",
+              "non_striker": "JG Kimaro",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "Sylvia Usabyimana",
+              "non_striker": "JG Kimaro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "FO Kibasu",
+              "bowler": "Sylvia Usabyimana",
+              "non_striker": "JG Kimaro",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "JG Kimaro",
+              "bowler": "H Ishimwe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JG Kimaro",
+              "bowler": "H Ishimwe",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JG Kimaro",
+              "bowler": "H Ishimwe",
+              "non_striker": "FO Kibasu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 75
+      }
+    }
+  ]
+}

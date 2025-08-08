@@ -1,0 +1,3066 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-07-23",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Dublin",
+    "dates": [
+      "2025-07-22"
+    ],
+    "event": {
+      "name": "Zimbabwe Women tour of Ireland",
+      "match_number": 2
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2416,
+    "officials": {
+      "match_referees": [
+        "Philip Thompson"
+      ],
+      "reserve_umpires": [
+        "M Hawthorne"
+      ],
+      "umpires": [
+        "Jonathan Kennedy",
+        "Kim Cotton"
+      ]
+    },
+    "outcome": {
+      "winner": "Ireland",
+      "by": {
+        "runs": 65
+      }
+    },
+    "overs": 20,
+    "players": {
+      "Ireland": [
+        "A Hunter",
+        "GH Lewis",
+        "O Prendergast",
+        "L Paul",
+        "R Stokell",
+        "L Delany",
+        "L Little",
+        "J Maguire",
+        "AN Kelly",
+        "C Murray",
+        "LA McBride"
+      ],
+      "Zimbabwe": [
+        "M Mupachikwa",
+        "K Ndlovu",
+        "CS Mugeri-Tiripano",
+        "B Biza",
+        "L Tshuma",
+        "CT Dhururu",
+        "N Gwanzura",
+        "F Chipare",
+        "L Mabhero",
+        "K Chigora",
+        "T Makusha"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Hunter": "e8fa03ed",
+        "AN Kelly": "397369e0",
+        "B Biza": "8a522c6c",
+        "C Murray": "5a50471c",
+        "CS Mugeri-Tiripano": "99c86133",
+        "CT Dhururu": "8d7fba79",
+        "F Chipare": "c0dc015b",
+        "GH Lewis": "1b9d1579",
+        "J Maguire": "1b1c23bb",
+        "Jonathan Kennedy": "f7ad4494",
+        "K Chigora": "5f311f1a",
+        "K Ndlovu": "8d25271a",
+        "Kim Cotton": "67a7c2ee",
+        "L Delany": "b4f73b44",
+        "L Little": "4f86926b",
+        "L Mabhero": "37f9eb59",
+        "L Paul": "07248d8e",
+        "L Tshuma": "f281dd00",
+        "LA McBride": "9bd0d19d",
+        "M Hawthorne": "ea123ee4",
+        "M Mupachikwa": "6657b319",
+        "N Gwanzura": "9c2e3040",
+        "O Prendergast": "d8f20ba5",
+        "Philip Thompson": "0c677650",
+        "R Stokell": "def7b1bb",
+        "T Makusha": "df15677b"
+      }
+    },
+    "season": "2025",
+    "team_type": "international",
+    "teams": [
+      "Ireland",
+      "Zimbabwe"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Zimbabwe"
+    },
+    "venue": "Pembroke Cricket Club, Sandymount, Dublin"
+  },
+  "innings": [
+    {
+      "team": "Ireland",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "A Hunter",
+              "bowler": "K Chigora",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "K Chigora",
+              "non_striker": "A Hunter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "K Chigora",
+              "non_striker": "A Hunter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "K Chigora",
+              "non_striker": "A Hunter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "K Chigora",
+              "non_striker": "A Hunter",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "K Chigora",
+              "non_striker": "A Hunter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "GH Lewis",
+              "bowler": "T Makusha",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Hunter",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "T Makusha",
+              "non_striker": "A Hunter",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "T Makusha",
+              "non_striker": "A Hunter",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "T Makusha",
+              "non_striker": "A Hunter",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Hunter",
+              "bowler": "T Makusha",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Hunter",
+              "bowler": "T Makusha",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Hunter",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "O Prendergast",
+              "bowler": "T Makusha",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "GH Lewis",
+              "bowler": "K Chigora",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "K Chigora",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "K Chigora",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "K Chigora",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "K Chigora",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "K Chigora",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "K Chigora",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "K Chigora",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "O Prendergast",
+              "bowler": "T Makusha",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "O Prendergast",
+              "bowler": "T Makusha",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Prendergast",
+              "bowler": "T Makusha",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Prendergast",
+              "bowler": "T Makusha",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Prendergast",
+              "bowler": "T Makusha",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Prendergast",
+              "bowler": "T Makusha",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Prendergast",
+              "bowler": "T Makusha",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "GH Lewis",
+              "bowler": "F Chipare",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "F Chipare",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "F Chipare",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "F Chipare",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "F Chipare",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "F Chipare",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "O Prendergast",
+              "bowler": "L Mabhero",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "L Mabhero",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "O Prendergast",
+              "bowler": "L Mabhero",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "O Prendergast",
+              "bowler": "L Mabhero",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Prendergast",
+              "bowler": "L Mabhero",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Prendergast",
+              "bowler": "L Mabhero",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "GH Lewis",
+              "bowler": "K Ndlovu",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "O Prendergast",
+              "bowler": "K Ndlovu",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "O Prendergast",
+              "bowler": "K Ndlovu",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "K Ndlovu",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "K Ndlovu",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "K Ndlovu",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "GH Lewis",
+              "bowler": "L Mabhero",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "O Prendergast",
+              "bowler": "L Mabhero",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Prendergast",
+              "bowler": "L Mabhero",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "O Prendergast",
+              "bowler": "L Mabhero",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Prendergast",
+              "bowler": "L Mabhero",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "L Mabhero",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "O Prendergast",
+              "bowler": "K Ndlovu",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "K Ndlovu",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "K Ndlovu",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "O Prendergast",
+              "bowler": "K Ndlovu",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "O Prendergast",
+              "bowler": "K Ndlovu",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "K Ndlovu",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "K Ndlovu",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "O Prendergast",
+              "bowler": "B Biza",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "O Prendergast",
+              "bowler": "B Biza",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Prendergast",
+              "bowler": "B Biza",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "B Biza",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "O Prendergast",
+              "bowler": "B Biza",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "O Prendergast",
+              "bowler": "B Biza",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "GH Lewis",
+              "bowler": "K Ndlovu",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "O Prendergast",
+              "bowler": "K Ndlovu",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "K Ndlovu",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "K Ndlovu",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "O Prendergast",
+              "bowler": "K Ndlovu",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "K Ndlovu",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "O Prendergast",
+              "bowler": "B Biza",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "O Prendergast",
+              "bowler": "B Biza",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "O Prendergast",
+              "bowler": "B Biza",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "O Prendergast",
+              "bowler": "B Biza",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "O Prendergast",
+              "bowler": "B Biza",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "B Biza",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "O Prendergast",
+              "bowler": "F Chipare",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Prendergast",
+              "bowler": "F Chipare",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "O Prendergast",
+              "bowler": "F Chipare",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "F Chipare",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "O Prendergast",
+              "bowler": "F Chipare",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "F Chipare",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "GH Lewis",
+              "bowler": "L Tshuma",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "O Prendergast",
+              "bowler": "L Tshuma",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "L Tshuma",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "O Prendergast",
+              "bowler": "L Tshuma",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "O Prendergast",
+              "bowler": "L Tshuma",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "L Tshuma",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "O Prendergast",
+              "bowler": "F Chipare",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "F Chipare",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "F Chipare",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "F Chipare",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "O Prendergast",
+              "bowler": "F Chipare",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Prendergast",
+              "bowler": "F Chipare",
+              "non_striker": "GH Lewis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "GH Lewis",
+              "bowler": "T Makusha",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "T Makusha",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "T Makusha",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "T Makusha",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GH Lewis",
+              "bowler": "T Makusha",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "GH Lewis",
+                  "fielders": [
+                    {
+                      "name": "B Biza"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "L Paul",
+              "bowler": "T Makusha",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "L Paul",
+              "bowler": "K Ndlovu",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Paul",
+              "bowler": "K Ndlovu",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Paul",
+              "bowler": "K Ndlovu",
+              "non_striker": "O Prendergast",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "O Prendergast",
+              "bowler": "K Ndlovu",
+              "non_striker": "L Paul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Prendergast",
+              "bowler": "K Ndlovu",
+              "non_striker": "L Paul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "O Prendergast",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "R Stokell",
+              "bowler": "K Ndlovu",
+              "non_striker": "L Paul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "R Stokell",
+              "bowler": "T Makusha",
+              "non_striker": "L Paul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Paul",
+              "bowler": "T Makusha",
+              "non_striker": "R Stokell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Stokell",
+              "bowler": "T Makusha",
+              "non_striker": "L Paul",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Stokell",
+              "bowler": "T Makusha",
+              "non_striker": "L Paul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Paul",
+              "bowler": "T Makusha",
+              "non_striker": "R Stokell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Stokell",
+              "bowler": "T Makusha",
+              "non_striker": "L Paul",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "L Paul",
+              "bowler": "K Chigora",
+              "non_striker": "R Stokell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Stokell",
+              "bowler": "K Chigora",
+              "non_striker": "L Paul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Paul",
+              "bowler": "K Chigora",
+              "non_striker": "R Stokell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Stokell",
+              "bowler": "K Chigora",
+              "non_striker": "L Paul",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Stokell",
+              "bowler": "K Chigora",
+              "non_striker": "L Paul",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Paul",
+              "bowler": "K Chigora",
+              "non_striker": "R Stokell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "L Paul",
+              "bowler": "F Chipare",
+              "non_striker": "R Stokell",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Paul",
+              "bowler": "F Chipare",
+              "non_striker": "R Stokell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Paul",
+              "bowler": "F Chipare",
+              "non_striker": "R Stokell",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Paul",
+              "bowler": "F Chipare",
+              "non_striker": "R Stokell",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Paul",
+              "bowler": "F Chipare",
+              "non_striker": "R Stokell",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Stokell",
+              "bowler": "F Chipare",
+              "non_striker": "L Paul",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Paul",
+                  "fielders": [
+                    {
+                      "name": "F Chipare"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Zimbabwe",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "M Mupachikwa",
+              "bowler": "O Prendergast",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Mupachikwa",
+              "bowler": "O Prendergast",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Mupachikwa",
+              "bowler": "O Prendergast",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Mupachikwa",
+              "bowler": "O Prendergast",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Mupachikwa",
+              "bowler": "O Prendergast",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Mupachikwa",
+              "bowler": "O Prendergast",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Mupachikwa",
+              "bowler": "O Prendergast",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "K Ndlovu",
+              "bowler": "J Maguire",
+              "non_striker": "M Mupachikwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Ndlovu",
+              "bowler": "J Maguire",
+              "non_striker": "M Mupachikwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Ndlovu",
+              "bowler": "J Maguire",
+              "non_striker": "M Mupachikwa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Ndlovu",
+              "bowler": "J Maguire",
+              "non_striker": "M Mupachikwa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Ndlovu",
+              "bowler": "J Maguire",
+              "non_striker": "M Mupachikwa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Ndlovu",
+              "bowler": "J Maguire",
+              "non_striker": "M Mupachikwa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "M Mupachikwa",
+              "bowler": "O Prendergast",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Mupachikwa",
+              "bowler": "O Prendergast",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Mupachikwa",
+              "bowler": "O Prendergast",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Mupachikwa",
+              "bowler": "O Prendergast",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Mupachikwa",
+              "bowler": "O Prendergast",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Mupachikwa",
+              "bowler": "O Prendergast",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Mupachikwa",
+              "bowler": "O Prendergast",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Mupachikwa",
+                  "fielders": [
+                    {
+                      "name": "A Hunter"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "K Ndlovu",
+              "bowler": "J Maguire",
+              "non_striker": "CS Mugeri-Tiripano",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Ndlovu",
+              "bowler": "J Maguire",
+              "non_striker": "CS Mugeri-Tiripano",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CS Mugeri-Tiripano",
+              "bowler": "J Maguire",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CS Mugeri-Tiripano",
+              "bowler": "J Maguire",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CS Mugeri-Tiripano",
+              "bowler": "J Maguire",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CS Mugeri-Tiripano",
+              "bowler": "J Maguire",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "K Ndlovu",
+              "bowler": "LA McBride",
+              "non_striker": "CS Mugeri-Tiripano",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "K Ndlovu",
+              "bowler": "LA McBride",
+              "non_striker": "CS Mugeri-Tiripano",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Ndlovu",
+              "bowler": "LA McBride",
+              "non_striker": "CS Mugeri-Tiripano",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Ndlovu",
+              "bowler": "LA McBride",
+              "non_striker": "CS Mugeri-Tiripano",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CS Mugeri-Tiripano",
+              "bowler": "LA McBride",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CS Mugeri-Tiripano",
+              "bowler": "LA McBride",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Ndlovu",
+              "bowler": "LA McBride",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CS Mugeri-Tiripano",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Ndlovu",
+              "bowler": "LA McBride",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CS Mugeri-Tiripano",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Ndlovu",
+              "bowler": "LA McBride",
+              "non_striker": "CS Mugeri-Tiripano",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "K Ndlovu",
+              "bowler": "AN Kelly",
+              "non_striker": "CS Mugeri-Tiripano",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CS Mugeri-Tiripano",
+              "bowler": "AN Kelly",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Ndlovu",
+              "bowler": "AN Kelly",
+              "non_striker": "CS Mugeri-Tiripano",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Ndlovu",
+              "bowler": "AN Kelly",
+              "non_striker": "CS Mugeri-Tiripano",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Ndlovu",
+              "bowler": "AN Kelly",
+              "non_striker": "CS Mugeri-Tiripano",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Ndlovu",
+              "bowler": "AN Kelly",
+              "non_striker": "CS Mugeri-Tiripano",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "K Ndlovu",
+              "bowler": "LA McBride",
+              "non_striker": "CS Mugeri-Tiripano",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CS Mugeri-Tiripano",
+              "bowler": "LA McBride",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Ndlovu",
+              "bowler": "LA McBride",
+              "non_striker": "CS Mugeri-Tiripano",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CS Mugeri-Tiripano",
+              "bowler": "LA McBride",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Ndlovu",
+              "bowler": "LA McBride",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CS Mugeri-Tiripano",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Ndlovu",
+              "bowler": "LA McBride",
+              "non_striker": "CS Mugeri-Tiripano",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CS Mugeri-Tiripano",
+              "bowler": "LA McBride",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "CS Mugeri-Tiripano",
+              "bowler": "AN Kelly",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Ndlovu",
+              "bowler": "AN Kelly",
+              "non_striker": "CS Mugeri-Tiripano",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CS Mugeri-Tiripano",
+              "bowler": "AN Kelly",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Ndlovu",
+              "bowler": "AN Kelly",
+              "non_striker": "CS Mugeri-Tiripano",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CS Mugeri-Tiripano",
+              "bowler": "AN Kelly",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Ndlovu",
+              "bowler": "AN Kelly",
+              "non_striker": "CS Mugeri-Tiripano",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "CS Mugeri-Tiripano",
+              "bowler": "LA McBride",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CS Mugeri-Tiripano",
+              "bowler": "LA McBride",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Ndlovu",
+              "bowler": "LA McBride",
+              "non_striker": "CS Mugeri-Tiripano",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CS Mugeri-Tiripano",
+              "bowler": "LA McBride",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CS Mugeri-Tiripano",
+                  "fielders": [
+                    {
+                      "name": "GH Lewis"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "B Biza",
+              "bowler": "LA McBride",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Ndlovu",
+              "bowler": "LA McBride",
+              "non_striker": "B Biza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "K Ndlovu",
+              "bowler": "L Delany",
+              "non_striker": "B Biza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Ndlovu",
+              "bowler": "L Delany",
+              "non_striker": "B Biza",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "K Ndlovu",
+              "bowler": "L Delany",
+              "non_striker": "B Biza",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Ndlovu",
+              "bowler": "L Delany",
+              "non_striker": "B Biza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Biza",
+              "bowler": "L Delany",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Biza",
+              "bowler": "L Delany",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "K Ndlovu",
+              "bowler": "LA McBride",
+              "non_striker": "B Biza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Ndlovu",
+              "bowler": "LA McBride",
+              "non_striker": "B Biza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Biza",
+              "bowler": "LA McBride",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Biza",
+              "bowler": "LA McBride",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Ndlovu",
+              "bowler": "LA McBride",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "B Biza",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Ndlovu",
+              "bowler": "LA McBride",
+              "non_striker": "B Biza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Ndlovu",
+              "bowler": "LA McBride",
+              "non_striker": "B Biza",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "B Biza",
+              "bowler": "C Murray",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Ndlovu",
+              "bowler": "C Murray",
+              "non_striker": "B Biza",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Biza",
+              "bowler": "C Murray",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Biza",
+                  "fielders": [
+                    {
+                      "name": "A Hunter"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "L Tshuma",
+              "bowler": "C Murray",
+              "non_striker": "K Ndlovu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Ndlovu",
+              "bowler": "C Murray",
+              "non_striker": "L Tshuma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Ndlovu",
+              "bowler": "C Murray",
+              "non_striker": "L Tshuma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "K Ndlovu",
+              "bowler": "O Prendergast",
+              "non_striker": "L Tshuma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Ndlovu",
+              "bowler": "O Prendergast",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Tshuma",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "K Ndlovu",
+              "bowler": "O Prendergast",
+              "non_striker": "L Tshuma",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "K Ndlovu",
+              "bowler": "O Prendergast",
+              "non_striker": "L Tshuma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Ndlovu",
+                  "fielders": [
+                    {
+                      "name": "L Paul"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "CT Dhururu",
+              "bowler": "O Prendergast",
+              "non_striker": "L Tshuma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CT Dhururu",
+              "bowler": "O Prendergast",
+              "non_striker": "L Tshuma",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CT Dhururu",
+              "bowler": "O Prendergast",
+              "non_striker": "L Tshuma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "L Tshuma",
+              "bowler": "C Murray",
+              "non_striker": "CT Dhururu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Tshuma",
+                  "fielders": [
+                    {
+                      "name": "A Hunter"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "N Gwanzura",
+              "bowler": "C Murray",
+              "non_striker": "CT Dhururu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Gwanzura",
+              "bowler": "C Murray",
+              "non_striker": "CT Dhururu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Gwanzura",
+              "bowler": "C Murray",
+              "non_striker": "CT Dhururu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Gwanzura",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "F Chipare",
+              "bowler": "C Murray",
+              "non_striker": "CT Dhururu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Chipare",
+              "bowler": "C Murray",
+              "non_striker": "CT Dhururu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "F Chipare",
+              "bowler": "L Paul",
+              "non_striker": "CT Dhururu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "F Chipare",
+              "bowler": "L Paul",
+              "non_striker": "CT Dhururu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Chipare",
+              "bowler": "L Paul",
+              "non_striker": "CT Dhururu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "F Chipare",
+                  "fielders": [
+                    {
+                      "name": "C Murray"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "L Mabhero",
+              "bowler": "L Paul",
+              "non_striker": "CT Dhururu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Mabhero",
+              "bowler": "L Paul",
+              "non_striker": "CT Dhururu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Mabhero",
+              "bowler": "L Paul",
+              "non_striker": "CT Dhururu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "CT Dhururu",
+              "bowler": "C Murray",
+              "non_striker": "L Mabhero",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CT Dhururu",
+              "bowler": "C Murray",
+              "non_striker": "L Mabhero",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Mabhero",
+              "bowler": "C Murray",
+              "non_striker": "CT Dhururu",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Mabhero",
+              "bowler": "C Murray",
+              "non_striker": "CT Dhururu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Mabhero",
+              "bowler": "C Murray",
+              "non_striker": "CT Dhururu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CT Dhururu",
+              "bowler": "C Murray",
+              "non_striker": "L Mabhero",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "L Mabhero",
+              "bowler": "L Paul",
+              "non_striker": "CT Dhururu",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Mabhero",
+              "bowler": "L Paul",
+              "non_striker": "CT Dhururu",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Mabhero",
+              "bowler": "L Paul",
+              "non_striker": "CT Dhururu",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "CT Dhururu",
+                  "fielders": [
+                    {
+                      "name": "A Hunter"
+                    },
+                    {
+                      "name": "L Little"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "K Chigora",
+              "bowler": "L Paul",
+              "non_striker": "L Mabhero",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "K Chigora",
+              "bowler": "L Paul",
+              "non_striker": "L Mabhero",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Chigora",
+              "bowler": "L Paul",
+              "non_striker": "L Mabhero",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "K Chigora",
+                  "fielders": [
+                    {
+                      "name": "A Hunter"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "L Mabhero",
+              "bowler": "C Murray",
+              "non_striker": "T Makusha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Mabhero",
+              "bowler": "C Murray",
+              "non_striker": "T Makusha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Makusha",
+              "bowler": "C Murray",
+              "non_striker": "L Mabhero",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Makusha",
+              "bowler": "C Murray",
+              "non_striker": "L Mabhero",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Makusha",
+              "bowler": "C Murray",
+              "non_striker": "L Mabhero",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Makusha",
+              "bowler": "C Murray",
+              "non_striker": "L Mabhero",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "T Makusha",
+              "bowler": "O Prendergast",
+              "non_striker": "L Mabhero",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Makusha",
+              "bowler": "O Prendergast",
+              "non_striker": "L Mabhero",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Makusha",
+              "bowler": "O Prendergast",
+              "non_striker": "L Mabhero",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Makusha",
+              "bowler": "O Prendergast",
+              "non_striker": "L Mabhero",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Mabhero",
+              "bowler": "O Prendergast",
+              "non_striker": "T Makusha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Makusha",
+              "bowler": "O Prendergast",
+              "non_striker": "L Mabhero",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "L Mabhero",
+              "bowler": "J Maguire",
+              "non_striker": "T Makusha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Mabhero",
+              "bowler": "J Maguire",
+              "non_striker": "T Makusha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Makusha",
+              "bowler": "J Maguire",
+              "non_striker": "L Mabhero",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Makusha",
+              "bowler": "J Maguire",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Mabhero",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Makusha",
+              "bowler": "J Maguire",
+              "non_striker": "L Mabhero",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Makusha",
+              "bowler": "J Maguire",
+              "non_striker": "L Mabhero",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Makusha",
+              "bowler": "J Maguire",
+              "non_striker": "L Mabhero",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Makusha",
+                  "fielders": [
+                    {
+                      "name": "O Prendergast"
+                    },
+                    {
+                      "name": "J Maguire"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 177
+      }
+    }
+  ]
+}

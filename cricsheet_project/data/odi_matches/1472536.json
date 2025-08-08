@@ -1,0 +1,5348 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-06-19",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Cave Hill",
+    "dates": [
+      "2025-06-17"
+    ],
+    "event": {
+      "name": "South Africa Women tour of West Indies",
+      "match_number": 3
+    },
+    "gender": "female",
+    "match_type": "ODI",
+    "match_type_number": 1471,
+    "officials": {
+      "match_referees": [
+        "Akhtar Ahmad"
+      ],
+      "reserve_umpires": [
+        "C La Borde"
+      ],
+      "tv_umpires": [
+        "M Abbott"
+      ],
+      "umpires": [
+        "JM Williams",
+        "N Perera"
+      ]
+    },
+    "outcome": {
+      "winner": "South Africa",
+      "by": {
+        "runs": 166
+      },
+      "method": "D/L"
+    },
+    "overs": 50,
+    "player_of_match": [
+      "T Brits"
+    ],
+    "players": {
+      "South Africa": [
+        "L Wolvaardt",
+        "T Brits",
+        "N Shangase",
+        "S Luus",
+        "M Kapp",
+        "S Jafta",
+        "A Dercksen",
+        "CL Tryon",
+        "TS Sekhukhune",
+        "N Mlaba",
+        "M Klaas"
+      ],
+      "West Indies": [
+        "HK Matthews",
+        "Q Joseph",
+        "Z James",
+        "CA Henry",
+        "SA Campbelle",
+        "J Glasgow",
+        "AA Alleyne",
+        "JKC Claxton",
+        "ASS Fletcher",
+        "K Ramharack",
+        "SR Taylor"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Dercksen": "d2b1f515",
+        "AA Alleyne": "4b0e3049",
+        "ASS Fletcher": "42d9dd09",
+        "Akhtar Ahmad": "29859e71",
+        "C La Borde": "32157f67",
+        "CA Henry": "75820733",
+        "CL Tryon": "4d4605e6",
+        "HK Matthews": "d32cf49a",
+        "J Glasgow": "a2632c7c",
+        "JKC Claxton": "e22f8ec1",
+        "JM Williams": "b61d9d70",
+        "K Ramharack": "321c980e",
+        "L Wolvaardt": "e60f81c9",
+        "M Abbott": "3e5f0c04",
+        "M Kapp": "63e3b6b3",
+        "M Klaas": "ce85fcaf",
+        "N Mlaba": "686362af",
+        "N Perera": "129709f9",
+        "N Shangase": "b17a4a93",
+        "Q Joseph": "d6164dc0",
+        "S Jafta": "34304210",
+        "S Luus": "6d76bc23",
+        "SA Campbelle": "a7cd72b2",
+        "SR Taylor": "92cf79a8",
+        "T Brits": "06659caa",
+        "TS Sekhukhune": "6e28e586",
+        "Z James": "816af623"
+      }
+    },
+    "season": "2025",
+    "team_type": "international",
+    "teams": [
+      "South Africa",
+      "West Indies"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "West Indies"
+    },
+    "venue": "Three Ws Oval, Cave Hill, Barbados"
+  },
+  "innings": [
+    {
+      "team": "South Africa",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "Z James",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "Z James",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "Z James",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "Z James",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "Z James",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "Z James",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "J Glasgow",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "J Glasgow",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "J Glasgow",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "J Glasgow",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "J Glasgow",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "J Glasgow",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "T Brits",
+              "bowler": "Z James",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "Z James",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "Z James",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "Z James",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "Z James",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "Z James",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "T Brits",
+              "bowler": "J Glasgow",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "J Glasgow",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "J Glasgow",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "J Glasgow",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "J Glasgow",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "J Glasgow",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "J Glasgow",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "J Glasgow",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "J Glasgow",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "T Brits",
+              "bowler": "JKC Claxton",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "JKC Claxton",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "JKC Claxton",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "JKC Claxton",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "JKC Claxton",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "JKC Claxton",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "JKC Claxton",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "JKC Claxton",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "JKC Claxton",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "JKC Claxton",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "T Brits",
+              "bowler": "HK Matthews",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "HK Matthews",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "HK Matthews",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "HK Matthews",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "HK Matthews",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "HK Matthews",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "T Brits",
+              "bowler": "JKC Claxton",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "JKC Claxton",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "JKC Claxton",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "JKC Claxton",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "JKC Claxton",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "JKC Claxton",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "HK Matthews",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "HK Matthews",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "HK Matthews",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "HK Matthews",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "HK Matthews",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "HK Matthews",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "JKC Claxton",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "JKC Claxton",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "JKC Claxton",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "JKC Claxton",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "JKC Claxton",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "JKC Claxton",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "HK Matthews",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "HK Matthews",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "HK Matthews",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "HK Matthews",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "HK Matthews",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "HK Matthews",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "JKC Claxton",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "JKC Claxton",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "JKC Claxton",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "JKC Claxton",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "JKC Claxton",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "JKC Claxton",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "T Brits",
+              "bowler": "HK Matthews",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "HK Matthews",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "HK Matthews",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "HK Matthews",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "HK Matthews",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "HK Matthews",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "ASS Fletcher",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "ASS Fletcher",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "ASS Fletcher",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "ASS Fletcher",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "ASS Fletcher",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "ASS Fletcher",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "HK Matthews",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "HK Matthews",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "HK Matthews",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "HK Matthews",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "HK Matthews",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "HK Matthews",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "T Brits",
+              "bowler": "ASS Fletcher",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "ASS Fletcher",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "ASS Fletcher",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "ASS Fletcher",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "ASS Fletcher",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "ASS Fletcher",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "K Ramharack",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "K Ramharack",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "K Ramharack",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "K Ramharack",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "K Ramharack",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "K Ramharack",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "ASS Fletcher",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "ASS Fletcher",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "ASS Fletcher",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "ASS Fletcher",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "ASS Fletcher",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "ASS Fletcher",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "T Brits",
+              "bowler": "K Ramharack",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "K Ramharack",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "K Ramharack",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "K Ramharack",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "K Ramharack",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "K Ramharack",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "T Brits",
+              "bowler": "ASS Fletcher",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "ASS Fletcher",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "ASS Fletcher",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "ASS Fletcher",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "ASS Fletcher",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "ASS Fletcher",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "T Brits",
+              "bowler": "K Ramharack",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "K Ramharack",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "K Ramharack",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "K Ramharack",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "K Ramharack",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "K Ramharack",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "T Brits",
+              "bowler": "ASS Fletcher",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "ASS Fletcher",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "ASS Fletcher",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "ASS Fletcher",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "ASS Fletcher",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "ASS Fletcher",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "T Brits",
+              "bowler": "K Ramharack",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "K Ramharack",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "K Ramharack",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "K Ramharack",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "K Ramharack",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "K Ramharack",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "ASS Fletcher",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "ASS Fletcher",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "ASS Fletcher",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "ASS Fletcher",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "ASS Fletcher",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "ASS Fletcher",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "HK Matthews",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "HK Matthews",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "HK Matthews",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "HK Matthews",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "HK Matthews",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "HK Matthews",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "ASS Fletcher",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "ASS Fletcher",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "ASS Fletcher",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "ASS Fletcher",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "ASS Fletcher",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "ASS Fletcher",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "T Brits",
+              "bowler": "AA Alleyne",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "AA Alleyne",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "AA Alleyne",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "AA Alleyne",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "AA Alleyne",
+              "non_striker": "T Brits",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Brits",
+              "bowler": "AA Alleyne",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "T Brits",
+              "bowler": "ASS Fletcher",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Brits",
+                  "fielders": [
+                    {
+                      "name": "HK Matthews"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "N Shangase",
+              "bowler": "ASS Fletcher",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Shangase",
+              "bowler": "ASS Fletcher",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Shangase",
+              "bowler": "ASS Fletcher",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Shangase",
+              "bowler": "ASS Fletcher",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Shangase",
+              "bowler": "ASS Fletcher",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "K Ramharack",
+              "non_striker": "N Shangase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Shangase",
+              "bowler": "K Ramharack",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Shangase",
+              "bowler": "K Ramharack",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "K Ramharack",
+              "non_striker": "N Shangase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "K Ramharack",
+              "non_striker": "N Shangase",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "N Shangase",
+              "bowler": "K Ramharack",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 28,
+          "deliveries": [
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "ASS Fletcher",
+              "non_striker": "N Shangase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "ASS Fletcher",
+              "non_striker": "N Shangase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Shangase",
+              "bowler": "ASS Fletcher",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "N Shangase",
+              "bowler": "ASS Fletcher",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Shangase",
+              "bowler": "ASS Fletcher",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Shangase",
+              "bowler": "ASS Fletcher",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 29,
+          "deliveries": [
+            {
+              "batter": "N Shangase",
+              "bowler": "K Ramharack",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Shangase",
+              "bowler": "K Ramharack",
+              "non_striker": "L Wolvaardt",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "K Ramharack",
+              "non_striker": "N Shangase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "K Ramharack",
+              "non_striker": "N Shangase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "K Ramharack",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Shangase",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "K Ramharack",
+              "non_striker": "N Shangase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "K Ramharack",
+              "non_striker": "N Shangase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 30,
+          "deliveries": [
+            {
+              "batter": "L Wolvaardt",
+              "bowler": "ASS Fletcher",
+              "non_striker": "N Shangase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Wolvaardt",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "ASS Fletcher",
+              "non_striker": "N Shangase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "ASS Fletcher",
+              "non_striker": "N Shangase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "ASS Fletcher",
+              "non_striker": "N Shangase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Shangase",
+              "bowler": "ASS Fletcher",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Shangase",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "ASS Fletcher",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 31,
+          "deliveries": [
+            {
+              "batter": "S Luus",
+              "bowler": "K Ramharack",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "K Ramharack",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "K Ramharack",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "K Ramharack",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "K Ramharack",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "K Ramharack",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "K Ramharack",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 32,
+          "deliveries": [
+            {
+              "batter": "S Luus",
+              "bowler": "HK Matthews",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "HK Matthews",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "HK Matthews",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "HK Matthews",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "HK Matthews",
+              "non_striker": "S Luus",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Luus",
+              "bowler": "HK Matthews",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Luus",
+                  "kind": "caught and bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 33,
+          "deliveries": [
+            {
+              "batter": "M Kapp",
+              "bowler": "K Ramharack",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "K Ramharack",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "K Ramharack",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Jafta",
+              "bowler": "K Ramharack",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jafta",
+              "bowler": "K Ramharack",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Jafta",
+              "bowler": "K Ramharack",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "K Ramharack",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 34,
+          "deliveries": [
+            {
+              "batter": "M Kapp",
+              "bowler": "HK Matthews",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Jafta",
+              "bowler": "HK Matthews",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jafta",
+              "bowler": "HK Matthews",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jafta",
+              "bowler": "HK Matthews",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jafta",
+              "bowler": "HK Matthews",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Jafta",
+              "bowler": "HK Matthews",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 35,
+          "deliveries": [
+            {
+              "batter": "M Kapp",
+              "bowler": "K Ramharack",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "K Ramharack",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "K Ramharack",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Jafta",
+              "bowler": "K Ramharack",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "K Ramharack",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "K Ramharack",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 36,
+          "deliveries": [
+            {
+              "batter": "S Jafta",
+              "bowler": "JKC Claxton",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jafta",
+              "bowler": "JKC Claxton",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "JKC Claxton",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "JKC Claxton",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Jafta",
+              "bowler": "JKC Claxton",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jafta",
+              "bowler": "JKC Claxton",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 37,
+          "deliveries": [
+            {
+              "batter": "S Jafta",
+              "bowler": "K Ramharack",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jafta",
+              "bowler": "K Ramharack",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jafta",
+              "bowler": "K Ramharack",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Jafta",
+              "bowler": "K Ramharack",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Jafta",
+              "bowler": "K Ramharack",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "K Ramharack",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 38,
+          "deliveries": [
+            {
+              "batter": "M Kapp",
+              "bowler": "JKC Claxton",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "JKC Claxton",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "JKC Claxton",
+              "non_striker": "S Jafta",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Jafta",
+              "bowler": "JKC Claxton",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Jafta",
+                  "fielders": [
+                    {
+                      "name": "HK Matthews"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "A Dercksen",
+              "bowler": "JKC Claxton",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dercksen",
+              "bowler": "JKC Claxton",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dercksen",
+              "bowler": "JKC Claxton",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 39,
+          "deliveries": [
+            {
+              "batter": "M Kapp",
+              "bowler": "AA Alleyne",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Dercksen",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "AA Alleyne",
+              "non_striker": "A Dercksen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "AA Alleyne",
+              "non_striker": "A Dercksen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "AA Alleyne",
+              "non_striker": "A Dercksen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dercksen",
+              "bowler": "AA Alleyne",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dercksen",
+              "bowler": "AA Alleyne",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Dercksen",
+              "bowler": "AA Alleyne",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 40,
+          "deliveries": [
+            {
+              "batter": "A Dercksen",
+              "bowler": "JKC Claxton",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "JKC Claxton",
+              "non_striker": "A Dercksen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "JKC Claxton",
+              "non_striker": "A Dercksen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dercksen",
+              "bowler": "JKC Claxton",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dercksen",
+              "bowler": "JKC Claxton",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "JKC Claxton",
+              "non_striker": "A Dercksen",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 41,
+          "deliveries": [
+            {
+              "batter": "A Dercksen",
+              "bowler": "AA Alleyne",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "AA Alleyne",
+              "non_striker": "A Dercksen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dercksen",
+              "bowler": "AA Alleyne",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dercksen",
+              "bowler": "AA Alleyne",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dercksen",
+              "bowler": "AA Alleyne",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "AA Alleyne",
+              "non_striker": "A Dercksen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "AA Alleyne",
+              "non_striker": "A Dercksen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dercksen",
+              "bowler": "AA Alleyne",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 42,
+          "deliveries": [
+            {
+              "batter": "M Kapp",
+              "bowler": "HK Matthews",
+              "non_striker": "A Dercksen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dercksen",
+              "bowler": "HK Matthews",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "HK Matthews",
+              "non_striker": "A Dercksen",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "HK Matthews",
+              "non_striker": "A Dercksen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dercksen",
+              "bowler": "HK Matthews",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "HK Matthews",
+              "non_striker": "A Dercksen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 43,
+          "deliveries": [
+            {
+              "batter": "M Kapp",
+              "bowler": "AA Alleyne",
+              "non_striker": "A Dercksen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dercksen",
+              "bowler": "AA Alleyne",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dercksen",
+              "bowler": "AA Alleyne",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Dercksen",
+              "bowler": "AA Alleyne",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "AA Alleyne",
+              "non_striker": "A Dercksen",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "AA Alleyne",
+              "non_striker": "A Dercksen",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Dercksen",
+              "bowler": "AA Alleyne",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Dercksen",
+                  "fielders": [
+                    {
+                      "name": "J Glasgow"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 44,
+          "deliveries": [
+            {
+              "batter": "M Kapp",
+              "bowler": "HK Matthews",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "HK Matthews",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "HK Matthews",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "HK Matthews",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "HK Matthews",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "HK Matthews",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 45,
+          "deliveries": [
+            {
+              "batter": "CL Tryon",
+              "bowler": "AA Alleyne",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "AA Alleyne",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "AA Alleyne",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Kapp",
+              "bowler": "AA Alleyne",
+              "non_striker": "CL Tryon",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CL Tryon",
+              "bowler": "AA Alleyne",
+              "non_striker": "M Kapp",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 9.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "West Indies",
+      "absent_hurt": [
+        "SR Taylor"
+      ],
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "HK Matthews",
+              "bowler": "M Kapp",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "M Kapp",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "M Kapp",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "M Kapp",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "M Kapp",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "M Kapp",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "Q Joseph",
+              "bowler": "M Klaas",
+              "non_striker": "HK Matthews",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "M Klaas",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "HK Matthews",
+              "bowler": "M Klaas",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HK Matthews",
+                  "fielders": [
+                    {
+                      "name": "N Shangase"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Z James",
+              "bowler": "M Klaas",
+              "non_striker": "Q Joseph",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Q Joseph",
+              "bowler": "M Klaas",
+              "non_striker": "Z James",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Q Joseph",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "CA Henry",
+              "bowler": "M Klaas",
+              "non_striker": "Z James",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "Z James",
+              "bowler": "M Kapp",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Z James",
+              "bowler": "M Kapp",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Z James",
+              "bowler": "M Kapp",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Z James",
+              "bowler": "M Kapp",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Z James",
+              "bowler": "M Kapp",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Z James",
+                  "fielders": [
+                    {
+                      "name": "S Luus"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "M Kapp",
+              "non_striker": "CA Henry",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "CA Henry",
+              "bowler": "M Klaas",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CA Henry",
+              "bowler": "M Klaas",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CA Henry",
+                  "fielders": [
+                    {
+                      "name": "S Jafta"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "M Klaas",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "M Klaas",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "M Klaas",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "M Klaas",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "J Glasgow",
+              "bowler": "M Kapp",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "M Kapp",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "M Kapp",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "M Kapp",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "M Kapp",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "M Kapp",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "SA Campbelle",
+              "bowler": "M Klaas",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "J Glasgow",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "M Klaas",
+              "non_striker": "J Glasgow",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "M Klaas",
+              "non_striker": "J Glasgow",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "M Klaas",
+              "non_striker": "J Glasgow",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "M Klaas",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "M Klaas",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "SA Campbelle",
+              "bowler": "M Kapp",
+              "non_striker": "J Glasgow",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "M Kapp",
+              "non_striker": "J Glasgow",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "M Kapp",
+              "non_striker": "J Glasgow",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "M Kapp",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "M Kapp",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "M Kapp",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "SA Campbelle",
+              "bowler": "M Klaas",
+              "non_striker": "J Glasgow",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "M Klaas",
+              "non_striker": "J Glasgow",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "M Klaas",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "M Klaas",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "M Klaas",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "M Klaas",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "M Klaas",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "SA Campbelle",
+              "bowler": "S Luus",
+              "non_striker": "J Glasgow",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "S Luus",
+              "non_striker": "J Glasgow",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "S Luus",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "S Luus",
+              "non_striker": "J Glasgow",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "S Luus",
+              "non_striker": "J Glasgow",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "S Luus",
+              "non_striker": "J Glasgow",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "J Glasgow",
+              "bowler": "N Mlaba",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "N Mlaba",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "N Mlaba",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "N Mlaba",
+              "non_striker": "J Glasgow",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "N Mlaba",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "N Mlaba",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "SA Campbelle",
+              "bowler": "S Luus",
+              "non_striker": "J Glasgow",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "S Luus",
+              "non_striker": "J Glasgow",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "S Luus",
+              "non_striker": "J Glasgow",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "S Luus",
+              "non_striker": "J Glasgow",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "S Luus",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "S Luus",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "J Glasgow",
+              "bowler": "N Mlaba",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "N Mlaba",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "J Glasgow",
+              "bowler": "N Mlaba",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "J Glasgow",
+                  "fielders": [
+                    {
+                      "name": "T Brits"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "N Mlaba",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "N Mlaba",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "N Mlaba",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "SA Campbelle",
+              "bowler": "S Luus",
+              "non_striker": "AA Alleyne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "S Luus",
+              "non_striker": "AA Alleyne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "S Luus",
+              "non_striker": "AA Alleyne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "S Luus",
+              "non_striker": "AA Alleyne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "S Luus",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "S Luus",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "SA Campbelle",
+              "bowler": "N Mlaba",
+              "non_striker": "AA Alleyne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "N Mlaba",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "N Mlaba",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "N Mlaba",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "N Mlaba",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "N Mlaba",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "SA Campbelle",
+              "bowler": "S Luus",
+              "non_striker": "AA Alleyne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "S Luus",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "S Luus",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "S Luus",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "S Luus",
+              "non_striker": "SA Campbelle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "S Luus",
+              "non_striker": "AA Alleyne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "SA Campbelle",
+              "bowler": "N Mlaba",
+              "non_striker": "AA Alleyne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SA Campbelle",
+              "bowler": "N Mlaba",
+              "non_striker": "AA Alleyne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SA Campbelle",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "JKC Claxton",
+              "bowler": "N Mlaba",
+              "non_striker": "AA Alleyne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JKC Claxton",
+              "bowler": "N Mlaba",
+              "non_striker": "AA Alleyne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "N Mlaba",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "N Mlaba",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JKC Claxton",
+              "bowler": "N Mlaba",
+              "non_striker": "AA Alleyne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "AA Alleyne",
+              "bowler": "S Luus",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "S Luus",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "S Luus",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JKC Claxton",
+              "bowler": "S Luus",
+              "non_striker": "AA Alleyne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "S Luus",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "S Luus",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "AA Alleyne",
+              "bowler": "N Mlaba",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JKC Claxton",
+              "bowler": "N Mlaba",
+              "non_striker": "AA Alleyne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JKC Claxton",
+              "bowler": "N Mlaba",
+              "non_striker": "AA Alleyne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "N Mlaba",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JKC Claxton",
+              "bowler": "N Mlaba",
+              "non_striker": "AA Alleyne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JKC Claxton",
+              "bowler": "N Mlaba",
+              "non_striker": "AA Alleyne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "AA Alleyne",
+              "bowler": "S Luus",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "S Luus",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "S Luus",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "S Luus",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "S Luus",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "S Luus",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "AA Alleyne",
+              "bowler": "N Mlaba",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "N Mlaba",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "N Mlaba",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "N Mlaba",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JKC Claxton",
+              "bowler": "N Mlaba",
+              "non_striker": "AA Alleyne",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JKC Claxton",
+              "bowler": "N Mlaba",
+              "non_striker": "AA Alleyne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 20,
+          "deliveries": [
+            {
+              "batter": "JKC Claxton",
+              "bowler": "TS Sekhukhune",
+              "non_striker": "AA Alleyne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "TS Sekhukhune",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "TS Sekhukhune",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "TS Sekhukhune",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "TS Sekhukhune",
+              "extras": {
+                "wides": 3
+              },
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 0,
+                "extras": 3,
+                "total": 3
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "TS Sekhukhune",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JKC Claxton",
+              "bowler": "TS Sekhukhune",
+              "non_striker": "AA Alleyne",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 21,
+          "deliveries": [
+            {
+              "batter": "AA Alleyne",
+              "bowler": "N Mlaba",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "N Mlaba",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JKC Claxton",
+              "bowler": "N Mlaba",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "AA Alleyne",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "N Mlaba",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "N Mlaba",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "N Mlaba",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 22,
+          "deliveries": [
+            {
+              "batter": "JKC Claxton",
+              "bowler": "TS Sekhukhune",
+              "non_striker": "AA Alleyne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "TS Sekhukhune",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JKC Claxton",
+              "bowler": "TS Sekhukhune",
+              "non_striker": "AA Alleyne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JKC Claxton",
+              "bowler": "TS Sekhukhune",
+              "non_striker": "AA Alleyne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JKC Claxton",
+              "bowler": "TS Sekhukhune",
+              "non_striker": "AA Alleyne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "TS Sekhukhune",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 23,
+          "deliveries": [
+            {
+              "batter": "JKC Claxton",
+              "bowler": "M Klaas",
+              "non_striker": "AA Alleyne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JKC Claxton",
+              "bowler": "M Klaas",
+              "non_striker": "AA Alleyne",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JKC Claxton",
+              "bowler": "M Klaas",
+              "non_striker": "AA Alleyne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JKC Claxton",
+              "bowler": "M Klaas",
+              "non_striker": "AA Alleyne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "M Klaas",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "M Klaas",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 24,
+          "deliveries": [
+            {
+              "batter": "JKC Claxton",
+              "bowler": "TS Sekhukhune",
+              "non_striker": "AA Alleyne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JKC Claxton",
+              "bowler": "TS Sekhukhune",
+              "non_striker": "AA Alleyne",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JKC Claxton",
+              "bowler": "TS Sekhukhune",
+              "non_striker": "AA Alleyne",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JKC Claxton",
+              "bowler": "TS Sekhukhune",
+              "non_striker": "AA Alleyne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JKC Claxton",
+              "bowler": "TS Sekhukhune",
+              "non_striker": "AA Alleyne",
+              "runs": {
+                "batter": 6,
+                "extras": 0,
+                "total": 6
+              }
+            },
+            {
+              "batter": "JKC Claxton",
+              "bowler": "TS Sekhukhune",
+              "non_striker": "AA Alleyne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 25,
+          "deliveries": [
+            {
+              "batter": "JKC Claxton",
+              "bowler": "M Klaas",
+              "non_striker": "AA Alleyne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "M Klaas",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "M Klaas",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "M Klaas",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AA Alleyne",
+              "bowler": "M Klaas",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AA Alleyne",
+                  "fielders": [
+                    {
+                      "name": "S Jafta"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "ASS Fletcher",
+              "bowler": "M Klaas",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 26,
+          "deliveries": [
+            {
+              "batter": "ASS Fletcher",
+              "bowler": "TS Sekhukhune",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JKC Claxton",
+              "bowler": "TS Sekhukhune",
+              "non_striker": "ASS Fletcher",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "JKC Claxton",
+              "bowler": "TS Sekhukhune",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "ASS Fletcher",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ASS Fletcher",
+              "bowler": "TS Sekhukhune",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "ASS Fletcher",
+              "bowler": "TS Sekhukhune",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ASS Fletcher",
+              "bowler": "TS Sekhukhune",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JKC Claxton",
+              "bowler": "TS Sekhukhune",
+              "non_striker": "ASS Fletcher",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 27,
+          "deliveries": [
+            {
+              "batter": "ASS Fletcher",
+              "bowler": "A Dercksen",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "ASS Fletcher",
+              "bowler": "A Dercksen",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "ASS Fletcher",
+                  "fielders": [
+                    {
+                      "name": "M Kapp"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "K Ramharack",
+              "bowler": "A Dercksen",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "K Ramharack",
+              "bowler": "A Dercksen",
+              "non_striker": "JKC Claxton",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JKC Claxton",
+              "bowler": "A Dercksen",
+              "non_striker": "K Ramharack",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JKC Claxton",
+                  "fielders": [
+                    {
+                      "name": "S Jafta"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 8.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 39,
+        "runs": 288
+      }
+    }
+  ]
+}

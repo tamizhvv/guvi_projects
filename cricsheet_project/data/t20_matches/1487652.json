@@ -1,0 +1,1608 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-06-10",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Utrecht",
+    "dates": [
+      "2025-06-09",
+      "2025-06-10"
+    ],
+    "event": {
+      "name": "United States of America Women tour of Netherlands",
+      "match_number": 2
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2353,
+    "officials": {
+      "match_referees": [
+        "Adriaan van den Dries"
+      ],
+      "reserve_umpires": [
+        "J Westerberg"
+      ],
+      "umpires": [
+        "M Prabhudesa",
+        "WPM van Liemt"
+      ]
+    },
+    "outcome": {
+      "winner": "Netherlands",
+      "by": {
+        "runs": 16
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "B de Leede"
+    ],
+    "players": {
+      "Netherlands": [
+        "HDJ Siegers",
+        "SL Kalis",
+        "B de Leede",
+        "R Rijke",
+        "P Molkenboer",
+        "IJR Zwilling",
+        "I van der Woning",
+        "L Hamilton",
+        "S Siegers",
+        "S Khurana",
+        "MIW van den Raad"
+      ],
+      "United States of America": [
+        "D Dhingra",
+        "CR Pagydyala",
+        "RP Singh",
+        "GC Bhogle",
+        "G Kodali",
+        "Pooja Ganesh",
+        "AI Chudasama",
+        "Maahi Madhavan",
+        "L Shetty",
+        "S Immadi",
+        "SR Thadani"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AI Chudasama": "9414a81c",
+        "Adriaan van den Dries": "94b5ec3b",
+        "B de Leede": "b3020075",
+        "CR Pagydyala": "d7c02672",
+        "D Dhingra": "b0dc5d0d",
+        "G Kodali": "f606177e",
+        "GC Bhogle": "a1965ce2",
+        "HDJ Siegers": "6d48df01",
+        "I van der Woning": "5aa8574b",
+        "IJR Zwilling": "47b32a5a",
+        "J Westerberg": "eaad0353",
+        "L Hamilton": "4fbe9e03",
+        "L Shetty": "f0a0ed1d",
+        "M Prabhudesa": "c36bcd1e",
+        "MIW van den Raad": "dead3b10",
+        "Maahi Madhavan": "c6002ece",
+        "P Molkenboer": "fa9db243",
+        "Pooja Ganesh": "a186b627",
+        "R Rijke": "42e4b276",
+        "RP Singh": "0ab3c788",
+        "S Immadi": "a6dd06d6",
+        "S Khurana": "9a9a056d",
+        "S Siegers": "9a58f2c8",
+        "SL Kalis": "2b150c6b",
+        "SR Thadani": "76bda023",
+        "WPM van Liemt": "2bd48588"
+      }
+    },
+    "season": "2025",
+    "team_type": "international",
+    "teams": [
+      "Netherlands",
+      "United States of America"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "United States of America"
+    },
+    "venue": "Sportpark Maarschalkerweerd, Utrecht"
+  },
+  "innings": [
+    {
+      "team": "Netherlands",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "HDJ Siegers",
+              "bowler": "AI Chudasama",
+              "non_striker": "SL Kalis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "HDJ Siegers",
+                  "fielders": [
+                    {
+                      "name": "D Dhingra"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "B de Leede",
+              "bowler": "AI Chudasama",
+              "non_striker": "SL Kalis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B de Leede",
+              "bowler": "AI Chudasama",
+              "non_striker": "SL Kalis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "B de Leede",
+              "bowler": "AI Chudasama",
+              "non_striker": "SL Kalis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B de Leede",
+              "bowler": "AI Chudasama",
+              "non_striker": "SL Kalis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "B de Leede",
+              "bowler": "AI Chudasama",
+              "non_striker": "SL Kalis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "B de Leede",
+              "bowler": "L Shetty",
+              "non_striker": "SL Kalis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SL Kalis",
+              "bowler": "L Shetty",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SL Kalis",
+              "bowler": "L Shetty",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B de Leede",
+              "bowler": "L Shetty",
+              "non_striker": "SL Kalis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B de Leede",
+              "bowler": "L Shetty",
+              "non_striker": "SL Kalis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SL Kalis",
+              "bowler": "L Shetty",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "B de Leede",
+              "bowler": "G Kodali",
+              "non_striker": "SL Kalis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "B de Leede",
+              "bowler": "G Kodali",
+              "non_striker": "SL Kalis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B de Leede",
+              "bowler": "G Kodali",
+              "non_striker": "SL Kalis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "B de Leede",
+              "bowler": "G Kodali",
+              "non_striker": "SL Kalis",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "SL Kalis",
+              "bowler": "G Kodali",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SL Kalis",
+              "bowler": "G Kodali",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "SL Kalis",
+              "bowler": "Maahi Madhavan",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B de Leede",
+              "bowler": "Maahi Madhavan",
+              "non_striker": "SL Kalis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B de Leede",
+              "bowler": "Maahi Madhavan",
+              "non_striker": "SL Kalis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SL Kalis",
+              "bowler": "Maahi Madhavan",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SL Kalis",
+              "bowler": "Maahi Madhavan",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "SL Kalis",
+              "bowler": "Maahi Madhavan",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "B de Leede",
+              "bowler": "AI Chudasama",
+              "non_striker": "SL Kalis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B de Leede",
+              "bowler": "AI Chudasama",
+              "non_striker": "SL Kalis",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "B de Leede",
+              "bowler": "AI Chudasama",
+              "non_striker": "SL Kalis",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "B de Leede",
+              "bowler": "AI Chudasama",
+              "non_striker": "SL Kalis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SL Kalis",
+              "bowler": "AI Chudasama",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B de Leede",
+              "bowler": "AI Chudasama",
+              "non_striker": "SL Kalis",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "SL Kalis",
+              "bowler": "S Immadi",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B de Leede",
+              "bowler": "S Immadi",
+              "non_striker": "SL Kalis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SL Kalis",
+              "bowler": "S Immadi",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B de Leede",
+              "bowler": "S Immadi",
+              "non_striker": "SL Kalis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SL Kalis",
+              "bowler": "S Immadi",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "SL Kalis",
+              "bowler": "S Immadi",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "SL Kalis",
+              "bowler": "SR Thadani",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "SL Kalis",
+              "bowler": "SR Thadani",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B de Leede",
+              "bowler": "SR Thadani",
+              "non_striker": "SL Kalis",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "SL Kalis",
+              "bowler": "SR Thadani",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "SL Kalis",
+                  "fielders": [
+                    {
+                      "name": "Pooja Ganesh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "R Rijke",
+              "bowler": "SR Thadani",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Rijke",
+              "bowler": "SR Thadani",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "B de Leede",
+              "bowler": "L Shetty",
+              "non_striker": "R Rijke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Rijke",
+              "bowler": "L Shetty",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Rijke",
+              "bowler": "L Shetty",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Rijke",
+              "bowler": "L Shetty",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Rijke",
+              "bowler": "L Shetty",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B de Leede",
+              "bowler": "L Shetty",
+              "non_striker": "R Rijke",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "B de Leede",
+              "bowler": "L Shetty",
+              "non_striker": "R Rijke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B de Leede",
+              "bowler": "L Shetty",
+              "non_striker": "R Rijke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "B de Leede",
+              "bowler": "SR Thadani",
+              "non_striker": "R Rijke",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "B de Leede",
+              "bowler": "SR Thadani",
+              "non_striker": "R Rijke",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "B de Leede",
+              "bowler": "SR Thadani",
+              "non_striker": "R Rijke",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "B de Leede",
+              "bowler": "SR Thadani",
+              "non_striker": "R Rijke",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Rijke",
+              "bowler": "SR Thadani",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Rijke",
+              "bowler": "SR Thadani",
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "R Rijke",
+              "bowler": "Maahi Madhavan",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "B de Leede",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B de Leede",
+              "bowler": "Maahi Madhavan",
+              "non_striker": "R Rijke",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "B de Leede",
+              "bowler": "Maahi Madhavan",
+              "non_striker": "R Rijke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B de Leede",
+              "bowler": "Maahi Madhavan",
+              "non_striker": "R Rijke",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "B de Leede",
+              "bowler": "Maahi Madhavan",
+              "non_striker": "R Rijke",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "B de Leede",
+              "bowler": "Maahi Madhavan",
+              "non_striker": "R Rijke",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 2.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "United States of America",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "D Dhingra",
+              "bowler": "IJR Zwilling",
+              "non_striker": "CR Pagydyala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Dhingra",
+              "bowler": "IJR Zwilling",
+              "non_striker": "CR Pagydyala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Dhingra",
+              "bowler": "IJR Zwilling",
+              "non_striker": "CR Pagydyala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CR Pagydyala",
+              "bowler": "IJR Zwilling",
+              "non_striker": "D Dhingra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CR Pagydyala",
+              "bowler": "IJR Zwilling",
+              "non_striker": "D Dhingra",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "CR Pagydyala",
+              "bowler": "IJR Zwilling",
+              "non_striker": "D Dhingra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "D Dhingra",
+              "bowler": "L Hamilton",
+              "non_striker": "CR Pagydyala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CR Pagydyala",
+              "bowler": "L Hamilton",
+              "non_striker": "D Dhingra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Dhingra",
+              "bowler": "L Hamilton",
+              "non_striker": "CR Pagydyala",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Dhingra",
+              "bowler": "L Hamilton",
+              "non_striker": "CR Pagydyala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Dhingra",
+              "bowler": "L Hamilton",
+              "non_striker": "CR Pagydyala",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CR Pagydyala",
+              "bowler": "L Hamilton",
+              "non_striker": "D Dhingra",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "D Dhingra",
+              "bowler": "IJR Zwilling",
+              "non_striker": "CR Pagydyala",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Dhingra",
+              "bowler": "IJR Zwilling",
+              "non_striker": "CR Pagydyala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Dhingra",
+              "bowler": "IJR Zwilling",
+              "non_striker": "CR Pagydyala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Dhingra",
+              "bowler": "IJR Zwilling",
+              "non_striker": "CR Pagydyala",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "CR Pagydyala",
+              "bowler": "IJR Zwilling",
+              "non_striker": "D Dhingra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CR Pagydyala",
+              "bowler": "IJR Zwilling",
+              "non_striker": "D Dhingra",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "D Dhingra",
+              "bowler": "I van der Woning",
+              "non_striker": "CR Pagydyala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Dhingra",
+              "bowler": "I van der Woning",
+              "non_striker": "CR Pagydyala",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Dhingra",
+              "bowler": "I van der Woning",
+              "non_striker": "CR Pagydyala",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Dhingra",
+              "bowler": "I van der Woning",
+              "non_striker": "CR Pagydyala",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Dhingra",
+              "bowler": "I van der Woning",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CR Pagydyala",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Dhingra",
+              "bowler": "I van der Woning",
+              "non_striker": "CR Pagydyala",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Dhingra",
+              "bowler": "I van der Woning",
+              "non_striker": "CR Pagydyala",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "CR Pagydyala",
+              "bowler": "S Siegers",
+              "non_striker": "D Dhingra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CR Pagydyala",
+                  "fielders": [
+                    {
+                      "name": "HDJ Siegers"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "RP Singh",
+              "bowler": "S Siegers",
+              "non_striker": "D Dhingra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RP Singh",
+              "bowler": "S Siegers",
+              "non_striker": "D Dhingra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RP Singh",
+              "bowler": "S Siegers",
+              "non_striker": "D Dhingra",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "RP Singh",
+              "bowler": "S Siegers",
+              "non_striker": "D Dhingra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RP Singh",
+              "bowler": "S Siegers",
+              "non_striker": "D Dhingra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RP Singh",
+                  "fielders": [
+                    {
+                      "name": "SL Kalis"
+                    },
+                    {
+                      "name": "S Siegers"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "GC Bhogle",
+              "bowler": "HDJ Siegers",
+              "non_striker": "D Dhingra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Dhingra",
+              "bowler": "HDJ Siegers",
+              "non_striker": "GC Bhogle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Dhingra",
+              "bowler": "HDJ Siegers",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GC Bhogle",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Dhingra",
+              "bowler": "HDJ Siegers",
+              "extras": {
+                "byes": 2
+              },
+              "non_striker": "GC Bhogle",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Dhingra",
+              "bowler": "HDJ Siegers",
+              "non_striker": "GC Bhogle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Dhingra",
+              "bowler": "HDJ Siegers",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GC Bhogle",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Dhingra",
+              "bowler": "HDJ Siegers",
+              "non_striker": "GC Bhogle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GC Bhogle",
+              "bowler": "HDJ Siegers",
+              "non_striker": "D Dhingra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "D Dhingra",
+              "bowler": "I van der Woning",
+              "non_striker": "GC Bhogle",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "D Dhingra",
+              "bowler": "I van der Woning",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GC Bhogle",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Dhingra",
+              "bowler": "I van der Woning",
+              "non_striker": "GC Bhogle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Dhingra",
+              "bowler": "I van der Woning",
+              "non_striker": "GC Bhogle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GC Bhogle",
+              "bowler": "I van der Woning",
+              "non_striker": "D Dhingra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Dhingra",
+              "bowler": "I van der Woning",
+              "non_striker": "GC Bhogle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GC Bhogle",
+              "bowler": "I van der Woning",
+              "non_striker": "D Dhingra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "GC Bhogle",
+              "bowler": "HDJ Siegers",
+              "non_striker": "D Dhingra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GC Bhogle",
+              "bowler": "HDJ Siegers",
+              "non_striker": "D Dhingra",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GC Bhogle",
+              "bowler": "HDJ Siegers",
+              "non_striker": "D Dhingra",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GC Bhogle",
+              "bowler": "HDJ Siegers",
+              "non_striker": "D Dhingra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Dhingra",
+              "bowler": "HDJ Siegers",
+              "non_striker": "GC Bhogle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GC Bhogle",
+              "bowler": "HDJ Siegers",
+              "non_striker": "D Dhingra",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "D Dhingra",
+                  "fielders": [
+                    {
+                      "name": "HDJ Siegers"
+                    },
+                    {
+                      "name": "R Rijke"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "G Kodali",
+              "bowler": "MIW van den Raad",
+              "non_striker": "GC Bhogle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GC Bhogle",
+              "bowler": "MIW van den Raad",
+              "non_striker": "G Kodali",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Kodali",
+              "bowler": "MIW van den Raad",
+              "non_striker": "GC Bhogle",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "G Kodali",
+              "bowler": "MIW van den Raad",
+              "non_striker": "GC Bhogle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "G Kodali",
+                  "fielders": [
+                    {
+                      "name": "HDJ Siegers"
+                    },
+                    {
+                      "name": "B de Leede"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "Pooja Ganesh",
+              "bowler": "MIW van den Raad",
+              "non_striker": "GC Bhogle",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Pooja Ganesh",
+              "bowler": "MIW van den Raad",
+              "non_striker": "GC Bhogle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "Pooja Ganesh",
+              "bowler": "S Siegers",
+              "non_striker": "GC Bhogle",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Pooja Ganesh",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "AI Chudasama",
+              "bowler": "S Siegers",
+              "non_striker": "GC Bhogle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GC Bhogle",
+              "bowler": "S Siegers",
+              "non_striker": "AI Chudasama",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GC Bhogle",
+              "bowler": "S Siegers",
+              "non_striker": "AI Chudasama",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GC Bhogle",
+              "bowler": "S Siegers",
+              "non_striker": "AI Chudasama",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AI Chudasama",
+              "bowler": "S Siegers",
+              "non_striker": "GC Bhogle",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 2.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 10,
+        "runs": 88
+      }
+    }
+  ]
+}

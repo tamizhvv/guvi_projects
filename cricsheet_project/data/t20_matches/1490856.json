@@ -1,0 +1,3534 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-07-12",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Sofia",
+    "dates": [
+      "2025-07-07"
+    ],
+    "event": {
+      "name": "Women's T20 Quadrangular Series (in Bulgaria)",
+      "match_number": 3
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2392,
+    "missing": [
+      "umpires"
+    ],
+    "outcome": {
+      "winner": "Turkey",
+      "by": {
+        "runs": 63
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "G Keles"
+    ],
+    "players": {
+      "Turkey": [
+        "M Bayram",
+        "R Cenik",
+        "Z Akpinar",
+        "Ezgi Nur Kilic",
+        "G Keles",
+        "Suzan Turan",
+        "G Ayan",
+        "S Yildirim",
+        "D Tekyildirim",
+        "H Celik",
+        "S Ozkunduz"
+      ],
+      "Serbia": [
+        "A Mesarovic",
+        "M Perisic",
+        "T Trajkovic",
+        "M Nikolic",
+        "S Matijevic",
+        "D Demic",
+        "B Ercegovcevic",
+        "N Nojic",
+        "M Trajkovi",
+        "M Jevdjenovic",
+        "E Prokic"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Mesarovic": "15404b57",
+        "B Ercegovcevic": "be5b6d0d",
+        "D Demic": "618327de",
+        "D Tekyildirim": "ae5f7b63",
+        "E Prokic": "6153ce0d",
+        "Ezgi Nur Kilic": "ec8132b2",
+        "G Ayan": "66d258e2",
+        "G Keles": "3e84a803",
+        "H Celik": "266f372c",
+        "M Bayram": "4867ffbf",
+        "M Jevdjenovic": "3be2b0a3",
+        "M Nikolic": "852f74c8",
+        "M Perisic": "81599c08",
+        "M Trajkovi": "2f208ab6",
+        "N Nojic": "ef537c2e",
+        "R Cenik": "050009d9",
+        "S Matijevic": "eae6959b",
+        "S Ozkunduz": "25850e31",
+        "S Yildirim": "aae9b47b",
+        "Suzan Turan": "fec8377a",
+        "T Trajkovic": "1e630426",
+        "Z Akpinar": "e2619bcc"
+      }
+    },
+    "season": "2025",
+    "team_type": "international",
+    "teams": [
+      "Turkey",
+      "Serbia"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Turkey"
+    },
+    "venue": "Vassil Levski National Sports Academy, Sofia"
+  },
+  "innings": [
+    {
+      "team": "Turkey",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "M Bayram",
+              "bowler": "N Nojic",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "R Cenik",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Cenik",
+              "bowler": "N Nojic",
+              "non_striker": "M Bayram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Cenik",
+              "bowler": "N Nojic",
+              "non_striker": "M Bayram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Cenik",
+              "bowler": "N Nojic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Bayram",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Cenik",
+              "bowler": "N Nojic",
+              "non_striker": "M Bayram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Bayram",
+              "bowler": "N Nojic",
+              "non_striker": "R Cenik",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Bayram",
+              "bowler": "N Nojic",
+              "non_striker": "R Cenik",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Bayram",
+              "bowler": "N Nojic",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "R Cenik",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "M Bayram",
+              "bowler": "N Nojic",
+              "non_striker": "R Cenik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "R Cenik",
+              "bowler": "M Jevdjenovic",
+              "non_striker": "M Bayram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Cenik",
+              "bowler": "M Jevdjenovic",
+              "non_striker": "M Bayram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Cenik",
+              "bowler": "M Jevdjenovic",
+              "non_striker": "M Bayram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Bayram",
+              "bowler": "M Jevdjenovic",
+              "non_striker": "R Cenik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Bayram",
+              "bowler": "M Jevdjenovic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Cenik",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Bayram",
+              "bowler": "M Jevdjenovic",
+              "non_striker": "R Cenik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Bayram",
+              "bowler": "M Jevdjenovic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Cenik",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Bayram",
+              "bowler": "M Jevdjenovic",
+              "non_striker": "R Cenik",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "R Cenik",
+              "bowler": "N Nojic",
+              "non_striker": "M Bayram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Bayram",
+              "bowler": "N Nojic",
+              "non_striker": "R Cenik",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Bayram",
+              "bowler": "N Nojic",
+              "non_striker": "R Cenik",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Bayram",
+              "bowler": "N Nojic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "R Cenik",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Bayram",
+              "bowler": "N Nojic",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "R Cenik",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "R Cenik",
+              "bowler": "N Nojic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Bayram",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Cenik",
+              "bowler": "N Nojic",
+              "non_striker": "M Bayram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Cenik",
+              "bowler": "N Nojic",
+              "non_striker": "M Bayram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Cenik",
+              "bowler": "N Nojic",
+              "non_striker": "M Bayram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "R Cenik",
+              "bowler": "M Jevdjenovic",
+              "non_striker": "M Bayram",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "R Cenik",
+              "bowler": "M Jevdjenovic",
+              "non_striker": "M Bayram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Cenik",
+              "bowler": "M Jevdjenovic",
+              "non_striker": "M Bayram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Cenik",
+              "bowler": "M Jevdjenovic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Bayram",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Cenik",
+              "bowler": "M Jevdjenovic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Bayram",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Cenik",
+              "bowler": "M Jevdjenovic",
+              "non_striker": "M Bayram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Cenik",
+              "bowler": "M Jevdjenovic",
+              "non_striker": "M Bayram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Cenik",
+              "bowler": "M Jevdjenovic",
+              "non_striker": "M Bayram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "M Bayram",
+              "bowler": "M Trajkovi",
+              "non_striker": "R Cenik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Cenik",
+              "bowler": "M Trajkovi",
+              "non_striker": "M Bayram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Bayram",
+              "bowler": "M Trajkovi",
+              "non_striker": "R Cenik",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Cenik",
+              "bowler": "M Trajkovi",
+              "non_striker": "M Bayram",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Cenik",
+                  "fielders": [
+                    {
+                      "name": "D Demic"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Z Akpinar",
+              "bowler": "M Trajkovi",
+              "non_striker": "M Bayram",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Bayram",
+              "bowler": "M Trajkovi",
+              "non_striker": "Z Akpinar",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "M Bayram",
+              "bowler": "A Mesarovic",
+              "non_striker": "Z Akpinar",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Bayram",
+              "bowler": "A Mesarovic",
+              "non_striker": "Z Akpinar",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Bayram",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Ezgi Nur Kilic",
+              "bowler": "A Mesarovic",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Z Akpinar",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Z Akpinar",
+              "bowler": "A Mesarovic",
+              "non_striker": "Ezgi Nur Kilic",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Z Akpinar",
+              "bowler": "A Mesarovic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ezgi Nur Kilic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Z Akpinar",
+              "bowler": "A Mesarovic",
+              "non_striker": "Ezgi Nur Kilic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Z Akpinar",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "A Mesarovic",
+              "non_striker": "Ezgi Nur Kilic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "G Keles",
+              "bowler": "E Prokic",
+              "non_striker": "Ezgi Nur Kilic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ezgi Nur Kilic",
+              "bowler": "E Prokic",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "E Prokic",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Ezgi Nur Kilic",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "E Prokic",
+              "non_striker": "Ezgi Nur Kilic",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "E Prokic",
+              "non_striker": "Ezgi Nur Kilic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ezgi Nur Kilic",
+              "bowler": "E Prokic",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ezgi Nur Kilic",
+              "bowler": "E Prokic",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "G Keles",
+              "bowler": "A Mesarovic",
+              "non_striker": "Ezgi Nur Kilic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ezgi Nur Kilic",
+              "bowler": "A Mesarovic",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ezgi Nur Kilic",
+              "bowler": "A Mesarovic",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "A Mesarovic",
+              "non_striker": "Ezgi Nur Kilic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ezgi Nur Kilic",
+              "bowler": "A Mesarovic",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ezgi Nur Kilic",
+              "bowler": "A Mesarovic",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ezgi Nur Kilic",
+              "bowler": "A Mesarovic",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "G Keles",
+              "bowler": "M Trajkovi",
+              "non_striker": "Ezgi Nur Kilic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "M Trajkovi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ezgi Nur Kilic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "M Trajkovi",
+              "non_striker": "Ezgi Nur Kilic",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "M Trajkovi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ezgi Nur Kilic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "M Trajkovi",
+              "non_striker": "Ezgi Nur Kilic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ezgi Nur Kilic",
+              "bowler": "M Trajkovi",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ezgi Nur Kilic",
+              "bowler": "M Trajkovi",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ezgi Nur Kilic",
+              "bowler": "M Trajkovi",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "G Keles",
+              "bowler": "A Mesarovic",
+              "non_striker": "Ezgi Nur Kilic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "A Mesarovic",
+              "non_striker": "Ezgi Nur Kilic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "A Mesarovic",
+              "non_striker": "Ezgi Nur Kilic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "A Mesarovic",
+              "non_striker": "Ezgi Nur Kilic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ezgi Nur Kilic",
+              "bowler": "A Mesarovic",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "A Mesarovic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ezgi Nur Kilic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "A Mesarovic",
+              "non_striker": "Ezgi Nur Kilic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "G Keles",
+              "bowler": "S Matijevic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Ezgi Nur Kilic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "S Matijevic",
+              "non_striker": "Ezgi Nur Kilic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ezgi Nur Kilic",
+              "bowler": "S Matijevic",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ezgi Nur Kilic",
+              "bowler": "S Matijevic",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "S Matijevic",
+              "non_striker": "Ezgi Nur Kilic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ezgi Nur Kilic",
+              "bowler": "S Matijevic",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "S Matijevic",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Ezgi Nur Kilic",
+              "runs": {
+                "batter": 2,
+                "extras": 1,
+                "total": 3
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "S Matijevic",
+              "non_striker": "Ezgi Nur Kilic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "Ezgi Nur Kilic",
+              "bowler": "M Jevdjenovic",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ezgi Nur Kilic",
+              "bowler": "M Jevdjenovic",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Ezgi Nur Kilic",
+              "bowler": "M Jevdjenovic",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ezgi Nur Kilic",
+              "bowler": "M Jevdjenovic",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "M Jevdjenovic",
+              "non_striker": "Ezgi Nur Kilic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ezgi Nur Kilic",
+              "bowler": "M Jevdjenovic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ezgi Nur Kilic",
+              "bowler": "M Jevdjenovic",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "G Keles",
+              "bowler": "S Matijevic",
+              "non_striker": "Ezgi Nur Kilic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ezgi Nur Kilic",
+              "bowler": "S Matijevic",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Ezgi Nur Kilic",
+              "bowler": "S Matijevic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Ezgi Nur Kilic",
+              "bowler": "S Matijevic",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ezgi Nur Kilic",
+              "bowler": "S Matijevic",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Ezgi Nur Kilic",
+              "bowler": "S Matijevic",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ezgi Nur Kilic",
+                  "fielders": [
+                    {
+                      "name": "A Mesarovic"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Suzan Turan",
+              "bowler": "S Matijevic",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "G Keles",
+              "bowler": "M Jevdjenovic",
+              "non_striker": "Suzan Turan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "M Jevdjenovic",
+              "non_striker": "Suzan Turan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "M Jevdjenovic",
+              "non_striker": "Suzan Turan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Suzan Turan",
+              "bowler": "M Jevdjenovic",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "M Jevdjenovic",
+              "non_striker": "Suzan Turan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "M Jevdjenovic",
+              "non_striker": "Suzan Turan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "Suzan Turan",
+              "bowler": "S Matijevic",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "S Matijevic",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Suzan Turan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Suzan Turan",
+              "bowler": "S Matijevic",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "S Matijevic",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Suzan Turan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Suzan Turan",
+              "bowler": "S Matijevic",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "S Matijevic",
+              "non_striker": "Suzan Turan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "G Keles",
+              "bowler": "T Trajkovic",
+              "non_striker": "Suzan Turan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Suzan Turan",
+              "bowler": "T Trajkovic",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 2,
+                "extras": 1,
+                "total": 3
+              }
+            },
+            {
+              "batter": "Suzan Turan",
+              "bowler": "T Trajkovic",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Suzan Turan",
+              "bowler": "T Trajkovic",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "T Trajkovic",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "Suzan Turan",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Suzan Turan",
+              "bowler": "T Trajkovic",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "T Trajkovic",
+              "non_striker": "Suzan Turan",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "T Trajkovic",
+              "non_striker": "Suzan Turan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "T Trajkovic",
+              "non_striker": "Suzan Turan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "G Keles",
+              "bowler": "N Nojic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Suzan Turan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "N Nojic",
+              "non_striker": "Suzan Turan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "N Nojic",
+              "non_striker": "Suzan Turan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "N Nojic",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "Suzan Turan",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Suzan Turan",
+              "bowler": "N Nojic",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Suzan Turan",
+              "bowler": "N Nojic",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "N Nojic",
+              "non_striker": "Suzan Turan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "N Nojic",
+              "non_striker": "Suzan Turan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "G Keles",
+              "bowler": "S Matijevic",
+              "non_striker": "Suzan Turan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Suzan Turan",
+              "bowler": "S Matijevic",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "S Matijevic",
+              "non_striker": "Suzan Turan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Suzan Turan",
+              "bowler": "S Matijevic",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Suzan Turan",
+              "bowler": "S Matijevic",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "S Matijevic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Suzan Turan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "S Matijevic",
+              "non_striker": "Suzan Turan",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "Suzan Turan",
+              "bowler": "E Prokic",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Suzan Turan",
+              "bowler": "E Prokic",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Suzan Turan",
+              "bowler": "E Prokic",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Suzan Turan",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "G Ayan",
+              "bowler": "E Prokic",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "E Prokic",
+              "extras": {
+                "byes": 1,
+                "noballs": 1
+              },
+              "non_striker": "G Ayan",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "G Ayan",
+              "bowler": "E Prokic",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "E Prokic",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "G Ayan",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "E Prokic",
+              "non_striker": "G Ayan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "G Keles",
+              "bowler": "N Nojic",
+              "non_striker": "G Ayan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Ayan",
+              "bowler": "N Nojic",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "N Nojic",
+              "non_striker": "G Ayan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Ayan",
+              "bowler": "N Nojic",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Keles",
+              "bowler": "N Nojic",
+              "non_striker": "G Ayan",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Ayan",
+              "bowler": "N Nojic",
+              "non_striker": "G Keles",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Serbia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "A Mesarovic",
+              "bowler": "Ezgi Nur Kilic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Perisic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mesarovic",
+              "bowler": "Ezgi Nur Kilic",
+              "non_striker": "M Perisic",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Mesarovic",
+              "bowler": "Ezgi Nur Kilic",
+              "non_striker": "M Perisic",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Mesarovic",
+              "bowler": "Ezgi Nur Kilic",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "M Perisic",
+              "runs": {
+                "batter": 2,
+                "extras": 1,
+                "total": 3
+              }
+            },
+            {
+              "batter": "A Mesarovic",
+              "bowler": "Ezgi Nur Kilic",
+              "non_striker": "M Perisic",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Mesarovic",
+              "bowler": "Ezgi Nur Kilic",
+              "non_striker": "M Perisic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mesarovic",
+              "bowler": "Ezgi Nur Kilic",
+              "non_striker": "M Perisic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mesarovic",
+              "bowler": "Ezgi Nur Kilic",
+              "non_striker": "M Perisic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "M Perisic",
+              "bowler": "S Ozkunduz",
+              "non_striker": "A Mesarovic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Perisic",
+              "bowler": "S Ozkunduz",
+              "non_striker": "A Mesarovic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Perisic",
+              "bowler": "S Ozkunduz",
+              "extras": {
+                "byes": 4,
+                "noballs": 1
+              },
+              "non_striker": "A Mesarovic",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "M Perisic",
+              "bowler": "S Ozkunduz",
+              "non_striker": "A Mesarovic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Perisic",
+              "bowler": "S Ozkunduz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Mesarovic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Perisic",
+              "bowler": "S Ozkunduz",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "A Mesarovic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Perisic",
+              "bowler": "S Ozkunduz",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Mesarovic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Perisic",
+              "bowler": "S Ozkunduz",
+              "non_striker": "A Mesarovic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mesarovic",
+              "bowler": "S Ozkunduz",
+              "non_striker": "M Perisic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Perisic",
+              "bowler": "S Ozkunduz",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "A Mesarovic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Perisic",
+              "bowler": "S Ozkunduz",
+              "non_striker": "A Mesarovic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "M Perisic",
+              "bowler": "Ezgi Nur Kilic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Mesarovic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Perisic",
+              "bowler": "Ezgi Nur Kilic",
+              "non_striker": "A Mesarovic",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Perisic",
+              "bowler": "Ezgi Nur Kilic",
+              "non_striker": "A Mesarovic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mesarovic",
+              "bowler": "Ezgi Nur Kilic",
+              "non_striker": "M Perisic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mesarovic",
+              "bowler": "Ezgi Nur Kilic",
+              "non_striker": "M Perisic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mesarovic",
+              "bowler": "Ezgi Nur Kilic",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "M Perisic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Perisic",
+              "bowler": "Ezgi Nur Kilic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Mesarovic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Perisic",
+              "bowler": "Ezgi Nur Kilic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Mesarovic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Perisic",
+              "bowler": "Ezgi Nur Kilic",
+              "non_striker": "A Mesarovic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "A Mesarovic",
+              "bowler": "G Ayan",
+              "non_striker": "M Perisic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Perisic",
+              "bowler": "G Ayan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Mesarovic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Perisic",
+              "bowler": "G Ayan",
+              "non_striker": "A Mesarovic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Perisic",
+              "bowler": "G Ayan",
+              "non_striker": "A Mesarovic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Perisic",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "T Trajkovic",
+              "bowler": "G Ayan",
+              "non_striker": "A Mesarovic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Trajkovic",
+              "bowler": "G Ayan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Mesarovic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Trajkovic",
+              "bowler": "G Ayan",
+              "non_striker": "A Mesarovic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mesarovic",
+              "bowler": "G Ayan",
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "A Mesarovic",
+              "bowler": "D Tekyildirim",
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "A Mesarovic",
+              "bowler": "D Tekyildirim",
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mesarovic",
+              "bowler": "D Tekyildirim",
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mesarovic",
+              "bowler": "D Tekyildirim",
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Trajkovic",
+              "bowler": "D Tekyildirim",
+              "non_striker": "A Mesarovic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mesarovic",
+              "bowler": "D Tekyildirim",
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "A Mesarovic",
+              "bowler": "G Ayan",
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Trajkovic",
+              "bowler": "G Ayan",
+              "non_striker": "A Mesarovic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Trajkovic",
+              "bowler": "G Ayan",
+              "non_striker": "A Mesarovic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mesarovic",
+              "bowler": "G Ayan",
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Mesarovic",
+              "bowler": "G Ayan",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Trajkovic",
+              "bowler": "G Ayan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Mesarovic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Trajkovic",
+              "bowler": "G Ayan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Mesarovic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Trajkovic",
+              "bowler": "G Ayan",
+              "non_striker": "A Mesarovic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Trajkovic",
+              "bowler": "G Ayan",
+              "non_striker": "A Mesarovic",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "A Mesarovic",
+              "bowler": "D Tekyildirim",
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mesarovic",
+              "bowler": "D Tekyildirim",
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Trajkovic",
+              "bowler": "D Tekyildirim",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Mesarovic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Trajkovic",
+              "bowler": "D Tekyildirim",
+              "non_striker": "A Mesarovic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mesarovic",
+              "bowler": "D Tekyildirim",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Trajkovic",
+              "bowler": "D Tekyildirim",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "A Mesarovic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Trajkovic",
+              "bowler": "D Tekyildirim",
+              "non_striker": "A Mesarovic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Mesarovic",
+                  "fielders": [
+                    {
+                      "name": "R Cenik"
+                    },
+                    {
+                      "name": "D Tekyildirim"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "T Trajkovic",
+              "bowler": "D Tekyildirim",
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Nikolic",
+              "bowler": "D Tekyildirim",
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "T Trajkovic",
+              "bowler": "H Celik",
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Nikolic",
+              "bowler": "H Celik",
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Nikolic",
+              "bowler": "H Celik",
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Nikolic",
+              "bowler": "H Celik",
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Nikolic",
+              "bowler": "H Celik",
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Trajkovic",
+              "bowler": "H Celik",
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "M Nikolic",
+              "bowler": "Suzan Turan",
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Nikolic",
+              "bowler": "Suzan Turan",
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Nikolic",
+              "bowler": "Suzan Turan",
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Nikolic",
+              "bowler": "Suzan Turan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Nikolic",
+              "bowler": "Suzan Turan",
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Nikolic",
+              "bowler": "Suzan Turan",
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Nikolic",
+              "bowler": "Suzan Turan",
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "T Trajkovic",
+              "bowler": "H Celik",
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Trajkovic",
+              "bowler": "H Celik",
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Nikolic",
+              "bowler": "H Celik",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Nikolic",
+              "bowler": "H Celik",
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Nikolic",
+              "bowler": "H Celik",
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Nikolic",
+              "bowler": "H Celik",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Nikolic",
+              "bowler": "H Celik",
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Trajkovic",
+              "bowler": "H Celik",
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "T Trajkovic",
+              "bowler": "G Ayan",
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Nikolic",
+              "bowler": "G Ayan",
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Trajkovic",
+              "bowler": "G Ayan",
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Trajkovic",
+              "bowler": "G Ayan",
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Trajkovic",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "S Matijevic",
+              "bowler": "G Ayan",
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Nikolic",
+              "bowler": "G Ayan",
+              "non_striker": "S Matijevic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "S Matijevic",
+              "bowler": "Suzan Turan",
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Nikolic",
+              "bowler": "Suzan Turan",
+              "non_striker": "S Matijevic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Matijevic",
+              "bowler": "Suzan Turan",
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Matijevic",
+              "bowler": "Suzan Turan",
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Matijevic",
+              "bowler": "Suzan Turan",
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Matijevic",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "D Demic",
+              "bowler": "Suzan Turan",
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "D Demic",
+              "bowler": "H Celik",
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Demic",
+              "bowler": "H Celik",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Nikolic",
+              "bowler": "H Celik",
+              "non_striker": "D Demic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Nikolic",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "B Ercegovcevic",
+              "bowler": "H Celik",
+              "non_striker": "D Demic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Ercegovcevic",
+              "bowler": "H Celik",
+              "non_striker": "D Demic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Ercegovcevic",
+              "bowler": "H Celik",
+              "non_striker": "D Demic",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "D Demic",
+              "bowler": "Suzan Turan",
+              "non_striker": "B Ercegovcevic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Demic",
+              "bowler": "Suzan Turan",
+              "non_striker": "B Ercegovcevic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Ercegovcevic",
+              "bowler": "Suzan Turan",
+              "non_striker": "D Demic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Demic",
+              "bowler": "Suzan Turan",
+              "non_striker": "B Ercegovcevic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Ercegovcevic",
+              "bowler": "Suzan Turan",
+              "non_striker": "D Demic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Ercegovcevic",
+              "bowler": "Suzan Turan",
+              "non_striker": "D Demic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Ercegovcevic",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "D Demic",
+              "bowler": "D Tekyildirim",
+              "non_striker": "N Nojic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Demic",
+              "bowler": "D Tekyildirim",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Nojic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Demic",
+              "bowler": "D Tekyildirim",
+              "non_striker": "N Nojic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Nojic",
+              "bowler": "D Tekyildirim",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "D Demic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Nojic",
+              "bowler": "D Tekyildirim",
+              "non_striker": "D Demic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Demic",
+              "bowler": "D Tekyildirim",
+              "non_striker": "N Nojic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Demic",
+              "bowler": "D Tekyildirim",
+              "non_striker": "N Nojic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Demic",
+              "bowler": "D Tekyildirim",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Nojic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Demic",
+              "bowler": "D Tekyildirim",
+              "non_striker": "N Nojic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Demic",
+                  "fielders": [
+                    {
+                      "name": "S Ozkunduz"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "M Trajkovi",
+              "bowler": "G Ayan",
+              "non_striker": "N Nojic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Trajkovi",
+              "bowler": "G Ayan",
+              "non_striker": "N Nojic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Trajkovi",
+              "bowler": "G Ayan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Nojic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Trajkovi",
+              "bowler": "G Ayan",
+              "non_striker": "N Nojic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Trajkovi",
+              "bowler": "G Ayan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "N Nojic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Trajkovi",
+              "bowler": "G Ayan",
+              "non_striker": "N Nojic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Trajkovi",
+              "bowler": "G Ayan",
+              "non_striker": "N Nojic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Nojic",
+              "bowler": "G Ayan",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "M Trajkovi",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Trajkovi",
+              "bowler": "G Ayan",
+              "non_striker": "N Nojic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "M Trajkovi",
+              "bowler": "D Tekyildirim",
+              "non_striker": "N Nojic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Trajkovi",
+              "bowler": "D Tekyildirim",
+              "non_striker": "N Nojic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "N Nojic",
+              "bowler": "D Tekyildirim",
+              "non_striker": "M Trajkovi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "N Nojic",
+              "bowler": "D Tekyildirim",
+              "non_striker": "M Trajkovi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "N Nojic",
+                  "fielders": [
+                    {
+                      "name": "H Celik"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "M Jevdjenovic",
+              "bowler": "D Tekyildirim",
+              "non_striker": "M Trajkovi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Jevdjenovic",
+              "bowler": "D Tekyildirim",
+              "non_striker": "M Trajkovi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Jevdjenovic",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "M Trajkovi",
+              "bowler": "Suzan Turan",
+              "non_striker": "E Prokic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Prokic",
+              "bowler": "Suzan Turan",
+              "non_striker": "M Trajkovi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Prokic",
+              "bowler": "Suzan Turan",
+              "non_striker": "M Trajkovi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Trajkovi",
+              "bowler": "Suzan Turan",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Prokic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Trajkovi",
+              "bowler": "Suzan Turan",
+              "non_striker": "E Prokic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Prokic",
+              "bowler": "Suzan Turan",
+              "non_striker": "M Trajkovi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Trajkovi",
+              "bowler": "Suzan Turan",
+              "non_striker": "E Prokic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "E Prokic",
+              "bowler": "H Celik",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Trajkovi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Prokic",
+              "bowler": "H Celik",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Trajkovi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Prokic",
+              "bowler": "H Celik",
+              "non_striker": "M Trajkovi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Prokic",
+              "bowler": "H Celik",
+              "non_striker": "M Trajkovi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Prokic",
+              "bowler": "H Celik",
+              "non_striker": "M Trajkovi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Trajkovi",
+                  "fielders": [
+                    {
+                      "name": "R Cenik"
+                    },
+                    {
+                      "name": "S Ozkunduz"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.9,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 181
+      }
+    }
+  ]
+}

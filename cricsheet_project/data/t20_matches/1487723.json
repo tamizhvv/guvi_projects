@@ -1,0 +1,2655 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-06-12",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kigali City",
+    "dates": [
+      "2025-06-11"
+    ],
+    "event": {
+      "name": "Kwibuka Women's Twenty20 Tournament",
+      "match_number": 31
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2361,
+    "officials": {
+      "match_referees": [
+        "ET Dube"
+      ],
+      "reserve_umpires": [
+        "F Mutizwa"
+      ],
+      "umpires": [
+        "Gaston Niyibizi",
+        "Vicky Prajapati"
+      ]
+    },
+    "outcome": {
+      "winner": "Brazil",
+      "by": {
+        "runs": 112
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "AC Sabino"
+    ],
+    "players": {
+      "Brazil": [
+        "LV Boas",
+        "L Agatha",
+        "AC Sabino",
+        "RMAM Avery",
+        "EC Muller",
+        "M Artur",
+        "L Cardoso",
+        "L Moises",
+        "M Ribeiro",
+        "MB dos Santos",
+        "CS Nascimento"
+      ],
+      "Cameroon": [
+        "MLN Sissako",
+        "B Waluma",
+        "MSN Ekani",
+        "CSN Mbelel",
+        "EGS Kana",
+        "BMA Mbida",
+        "JAN Ngono",
+        "MFD Douma",
+        "E Guehoada",
+        "AAM Eliane",
+        "O Ranedoumoun"
+      ]
+    },
+    "registry": {
+      "people": {
+        "AAM Eliane": "ecc4562b",
+        "AC Sabino": "dd45b04b",
+        "B Waluma": "fb56dda6",
+        "BMA Mbida": "e3c23cef",
+        "CS Nascimento": "df997334",
+        "CSN Mbelel": "1669ba8a",
+        "E Guehoada": "8c03f3b8",
+        "EC Muller": "e1461e39",
+        "EGS Kana": "8a91d0f1",
+        "ET Dube": "4c0891bc",
+        "F Mutizwa": "d3e83eef",
+        "Gaston Niyibizi": "eb99c84c",
+        "JAN Ngono": "0bc162c4",
+        "L Agatha": "1aebb2fa",
+        "L Cardoso": "5777d460",
+        "L Moises": "b27f9716",
+        "LV Boas": "3a00d34f",
+        "M Artur": "400b36cd",
+        "M Ribeiro": "38424a4d",
+        "MB dos Santos": "8ba8dd7a",
+        "MFD Douma": "88bcd8da",
+        "MLG Silva": "3b62a6b4",
+        "MLN Sissako": "52a0e81d",
+        "MSN Ekani": "46c81920",
+        "O Ranedoumoun": "71ee8c8d",
+        "RMAM Avery": "4cf645c9",
+        "Vicky Prajapati": "8926ed4e"
+      }
+    },
+    "season": "2025",
+    "team_type": "international",
+    "teams": [
+      "Brazil",
+      "Cameroon"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Cameroon"
+    },
+    "venue": "Gahanga International Cricket Stadium, Rwanda"
+  },
+  "innings": [
+    {
+      "team": "Brazil",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "LV Boas",
+              "bowler": "O Ranedoumoun",
+              "non_striker": "L Agatha",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "O Ranedoumoun",
+              "non_striker": "L Agatha",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Agatha",
+              "bowler": "O Ranedoumoun",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Agatha",
+              "bowler": "O Ranedoumoun",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Agatha",
+                  "fielders": [
+                    {
+                      "name": "JAN Ngono"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "AC Sabino",
+              "bowler": "O Ranedoumoun",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AC Sabino",
+              "bowler": "O Ranedoumoun",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "LV Boas",
+              "bowler": "MSN Ekani",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AC Sabino",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "MSN Ekani",
+              "non_striker": "AC Sabino",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Sabino",
+              "bowler": "MSN Ekani",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Sabino",
+              "bowler": "MSN Ekani",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AC Sabino",
+              "bowler": "MSN Ekani",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Sabino",
+              "bowler": "MSN Ekani",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Sabino",
+              "bowler": "MSN Ekani",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AC Sabino",
+              "bowler": "MSN Ekani",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "LV Boas",
+              "bowler": "E Guehoada",
+              "non_striker": "AC Sabino",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "E Guehoada",
+              "non_striker": "AC Sabino",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Sabino",
+              "bowler": "E Guehoada",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Sabino",
+              "bowler": "E Guehoada",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AC Sabino",
+              "bowler": "E Guehoada",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Sabino",
+              "bowler": "E Guehoada",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "AC Sabino",
+              "bowler": "MSN Ekani",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Sabino",
+              "bowler": "MSN Ekani",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AC Sabino",
+              "bowler": "MSN Ekani",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AC Sabino",
+              "bowler": "MSN Ekani",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AC Sabino",
+              "bowler": "MSN Ekani",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Sabino",
+              "bowler": "MSN Ekani",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "AC Sabino",
+              "bowler": "O Ranedoumoun",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Sabino",
+              "bowler": "O Ranedoumoun",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Sabino",
+              "bowler": "O Ranedoumoun",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Sabino",
+              "bowler": "O Ranedoumoun",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AC Sabino",
+              "bowler": "O Ranedoumoun",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "O Ranedoumoun",
+              "non_striker": "AC Sabino",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Sabino",
+              "bowler": "O Ranedoumoun",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "AC Sabino",
+              "bowler": "MFD Douma",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Sabino",
+              "bowler": "MFD Douma",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Sabino",
+              "bowler": "MFD Douma",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "MFD Douma",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "AC Sabino",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "MFD Douma",
+              "non_striker": "AC Sabino",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "MFD Douma",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AC Sabino",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "MFD Douma",
+              "non_striker": "AC Sabino",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "AC Sabino",
+              "bowler": "BMA Mbida",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Sabino",
+              "bowler": "BMA Mbida",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Sabino",
+              "bowler": "BMA Mbida",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AC Sabino",
+              "bowler": "BMA Mbida",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "BMA Mbida",
+              "non_striker": "AC Sabino",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "BMA Mbida",
+              "non_striker": "AC Sabino",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "BMA Mbida",
+              "non_striker": "AC Sabino",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "LV Boas",
+              "bowler": "MFD Douma",
+              "non_striker": "AC Sabino",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "MFD Douma",
+              "non_striker": "AC Sabino",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AC Sabino",
+              "bowler": "MFD Douma",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AC Sabino",
+              "bowler": "MFD Douma",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "AC Sabino",
+              "bowler": "MFD Douma",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "AC Sabino",
+              "bowler": "MFD Douma",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AC Sabino",
+                  "kind": "lbw"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "LV Boas",
+              "bowler": "BMA Mbida",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "BMA Mbida",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "BMA Mbida",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "BMA Mbida",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "BMA Mbida",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "BMA Mbida",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "RMAM Avery",
+              "bowler": "E Guehoada",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "E Guehoada",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "E Guehoada",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "E Guehoada",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "E Guehoada",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "E Guehoada",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "LV Boas",
+              "bowler": "AAM Eliane",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "AAM Eliane",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "AAM Eliane",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "AAM Eliane",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "AAM Eliane",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "AAM Eliane",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "AAM Eliane",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "AAM Eliane",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "RMAM Avery",
+              "bowler": "E Guehoada",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "E Guehoada",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "E Guehoada",
+              "non_striker": "RMAM Avery",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "E Guehoada",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RMAM Avery",
+              "bowler": "E Guehoada",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RMAM Avery",
+                  "fielders": [
+                    {
+                      "name": "MLN Sissako"
+                    },
+                    {
+                      "name": "AAM Eliane"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "EC Muller",
+              "bowler": "E Guehoada",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "EC Muller",
+              "bowler": "AAM Eliane",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "EC Muller",
+              "bowler": "AAM Eliane",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "EC Muller",
+              "bowler": "AAM Eliane",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "EC Muller",
+              "bowler": "AAM Eliane",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "EC Muller",
+                  "fielders": [
+                    {
+                      "name": "MLN Sissako"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "M Artur",
+              "bowler": "AAM Eliane",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Artur",
+              "bowler": "AAM Eliane",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "LV Boas",
+              "bowler": "O Ranedoumoun",
+              "non_striker": "M Artur",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "O Ranedoumoun",
+              "non_striker": "M Artur",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Artur",
+              "bowler": "O Ranedoumoun",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Artur",
+              "bowler": "O Ranedoumoun",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Artur",
+              "bowler": "O Ranedoumoun",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "O Ranedoumoun",
+              "non_striker": "M Artur",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "LV Boas",
+              "bowler": "BMA Mbida",
+              "non_striker": "M Artur",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "BMA Mbida",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Artur",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "BMA Mbida",
+              "non_striker": "M Artur",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "BMA Mbida",
+              "non_striker": "M Artur",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "BMA Mbida",
+              "non_striker": "M Artur",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "BMA Mbida",
+              "non_striker": "M Artur",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "BMA Mbida",
+              "non_striker": "M Artur",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "LV Boas",
+              "bowler": "E Guehoada",
+              "non_striker": "M Artur",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Artur",
+              "bowler": "E Guehoada",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Artur",
+              "bowler": "E Guehoada",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "E Guehoada",
+              "non_striker": "M Artur",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "E Guehoada",
+              "non_striker": "M Artur",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Artur",
+              "bowler": "E Guehoada",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Artur",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "LV Boas",
+              "bowler": "MSN Ekani",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "MSN Ekani",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "MSN Ekani",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "MSN Ekani",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "MSN Ekani",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "MSN Ekani",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "L Cardoso",
+              "bowler": "MFD Douma",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "MFD Douma",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "MFD Douma",
+              "non_striker": "LV Boas",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "LV Boas",
+              "bowler": "MFD Douma",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "LV Boas",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "L Moises",
+              "bowler": "MFD Douma",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Moises",
+              "bowler": "MFD Douma",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "L Cardoso",
+              "bowler": "AAM Eliane",
+              "non_striker": "L Moises",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "AAM Eliane",
+              "non_striker": "L Moises",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Moises",
+              "bowler": "AAM Eliane",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "AAM Eliane",
+              "non_striker": "L Moises",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Moises",
+              "bowler": "AAM Eliane",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "L Moises",
+              "bowler": "AAM Eliane",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "L Moises",
+              "bowler": "MLN Sissako",
+              "non_striker": "L Cardoso",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "MLN Sissako",
+              "non_striker": "L Moises",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "MLN Sissako",
+              "non_striker": "L Moises",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "MLN Sissako",
+              "non_striker": "L Moises",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "MLN Sissako",
+              "non_striker": "L Moises",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Cardoso",
+              "bowler": "MLN Sissako",
+              "non_striker": "L Moises",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Cardoso",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.7,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Cameroon",
+      "absent_hurt": [
+        "O Ranedoumoun"
+      ],
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "MLN Sissako",
+              "bowler": "M Ribeiro",
+              "non_striker": "B Waluma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MLN Sissako",
+              "bowler": "M Ribeiro",
+              "non_striker": "B Waluma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MLN Sissako",
+              "bowler": "M Ribeiro",
+              "non_striker": "B Waluma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MLN Sissako",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "MSN Ekani",
+              "bowler": "M Ribeiro",
+              "non_striker": "B Waluma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MSN Ekani",
+              "bowler": "M Ribeiro",
+              "non_striker": "B Waluma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MSN Ekani",
+              "bowler": "M Ribeiro",
+              "non_striker": "B Waluma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "B Waluma",
+              "bowler": "L Moises",
+              "non_striker": "MSN Ekani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Waluma",
+              "bowler": "L Moises",
+              "non_striker": "MSN Ekani",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "B Waluma",
+              "bowler": "L Moises",
+              "non_striker": "MSN Ekani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Waluma",
+              "bowler": "L Moises",
+              "non_striker": "MSN Ekani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MSN Ekani",
+              "bowler": "L Moises",
+              "non_striker": "B Waluma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MSN Ekani",
+              "bowler": "L Moises",
+              "non_striker": "B Waluma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "B Waluma",
+              "bowler": "M Ribeiro",
+              "non_striker": "MSN Ekani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Waluma",
+              "bowler": "M Ribeiro",
+              "non_striker": "MSN Ekani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Waluma",
+              "bowler": "M Ribeiro",
+              "non_striker": "MSN Ekani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Waluma",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "CSN Mbelel",
+              "bowler": "M Ribeiro",
+              "non_striker": "MSN Ekani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CSN Mbelel",
+              "bowler": "M Ribeiro",
+              "non_striker": "MSN Ekani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CSN Mbelel",
+              "bowler": "M Ribeiro",
+              "non_striker": "MSN Ekani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "MSN Ekani",
+              "bowler": "L Moises",
+              "non_striker": "CSN Mbelel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MSN Ekani",
+              "bowler": "L Moises",
+              "non_striker": "CSN Mbelel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MSN Ekani",
+              "bowler": "L Moises",
+              "non_striker": "CSN Mbelel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CSN Mbelel",
+              "bowler": "L Moises",
+              "non_striker": "MSN Ekani",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MSN Ekani",
+              "bowler": "L Moises",
+              "non_striker": "CSN Mbelel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MSN Ekani",
+              "bowler": "L Moises",
+              "non_striker": "CSN Mbelel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "CSN Mbelel",
+              "bowler": "M Ribeiro",
+              "non_striker": "MSN Ekani",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "CSN Mbelel",
+              "bowler": "M Ribeiro",
+              "non_striker": "MSN Ekani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CSN Mbelel",
+              "bowler": "M Ribeiro",
+              "non_striker": "MSN Ekani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CSN Mbelel",
+              "bowler": "M Ribeiro",
+              "non_striker": "MSN Ekani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CSN Mbelel",
+              "bowler": "M Ribeiro",
+              "non_striker": "MSN Ekani",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MSN Ekani",
+                  "fielders": [
+                    {
+                      "name": "L Cardoso"
+                    },
+                    {
+                      "name": "MB dos Santos"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "EGS Kana",
+              "bowler": "M Ribeiro",
+              "non_striker": "CSN Mbelel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "EGS Kana",
+                  "fielders": [
+                    {
+                      "name": "RMAM Avery"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "CSN Mbelel",
+              "bowler": "LV Boas",
+              "non_striker": "BMA Mbida",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CSN Mbelel",
+              "bowler": "LV Boas",
+              "non_striker": "BMA Mbida",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CSN Mbelel",
+              "bowler": "LV Boas",
+              "non_striker": "BMA Mbida",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CSN Mbelel",
+              "bowler": "LV Boas",
+              "non_striker": "BMA Mbida",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CSN Mbelel",
+              "bowler": "LV Boas",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BMA Mbida",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CSN Mbelel",
+              "bowler": "LV Boas",
+              "non_striker": "BMA Mbida",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CSN Mbelel",
+              "bowler": "LV Boas",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BMA Mbida",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CSN Mbelel",
+              "bowler": "LV Boas",
+              "non_striker": "BMA Mbida",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "BMA Mbida",
+              "bowler": "M Ribeiro",
+              "non_striker": "CSN Mbelel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BMA Mbida",
+              "bowler": "M Ribeiro",
+              "non_striker": "CSN Mbelel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BMA Mbida",
+              "bowler": "M Ribeiro",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "CSN Mbelel",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "CSN Mbelel",
+              "bowler": "M Ribeiro",
+              "non_striker": "BMA Mbida",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CSN Mbelel",
+              "bowler": "M Ribeiro",
+              "non_striker": "BMA Mbida",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CSN Mbelel",
+              "bowler": "M Ribeiro",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "BMA Mbida",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BMA Mbida",
+              "bowler": "M Ribeiro",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "CSN Mbelel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "BMA Mbida",
+              "bowler": "L Cardoso",
+              "non_striker": "CSN Mbelel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BMA Mbida",
+              "bowler": "L Cardoso",
+              "non_striker": "CSN Mbelel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BMA Mbida",
+              "bowler": "L Cardoso",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "CSN Mbelel",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BMA Mbida",
+              "bowler": "L Cardoso",
+              "non_striker": "CSN Mbelel",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CSN Mbelel",
+              "bowler": "L Cardoso",
+              "non_striker": "BMA Mbida",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CSN Mbelel",
+              "bowler": "L Cardoso",
+              "non_striker": "BMA Mbida",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BMA Mbida",
+              "bowler": "L Cardoso",
+              "non_striker": "CSN Mbelel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "CSN Mbelel",
+              "bowler": "M Artur",
+              "non_striker": "BMA Mbida",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BMA Mbida",
+              "bowler": "M Artur",
+              "non_striker": "CSN Mbelel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BMA Mbida",
+              "bowler": "M Artur",
+              "non_striker": "CSN Mbelel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BMA Mbida",
+              "bowler": "M Artur",
+              "non_striker": "CSN Mbelel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BMA Mbida",
+              "bowler": "M Artur",
+              "non_striker": "CSN Mbelel",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "BMA Mbida",
+              "bowler": "M Artur",
+              "non_striker": "CSN Mbelel",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "CSN Mbelel",
+              "bowler": "CS Nascimento",
+              "non_striker": "BMA Mbida",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "CSN Mbelel",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "JAN Ngono",
+              "bowler": "CS Nascimento",
+              "non_striker": "BMA Mbida",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JAN Ngono",
+              "bowler": "CS Nascimento",
+              "non_striker": "BMA Mbida",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "JAN Ngono",
+              "bowler": "CS Nascimento",
+              "non_striker": "BMA Mbida",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JAN Ngono",
+              "bowler": "CS Nascimento",
+              "non_striker": "BMA Mbida",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "JAN Ngono",
+              "bowler": "CS Nascimento",
+              "non_striker": "BMA Mbida",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "BMA Mbida",
+              "bowler": "M Artur",
+              "non_striker": "JAN Ngono",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BMA Mbida",
+              "bowler": "M Artur",
+              "non_striker": "JAN Ngono",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JAN Ngono",
+              "bowler": "M Artur",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "BMA Mbida",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JAN Ngono",
+              "bowler": "M Artur",
+              "non_striker": "BMA Mbida",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BMA Mbida",
+              "bowler": "M Artur",
+              "non_striker": "JAN Ngono",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BMA Mbida",
+              "bowler": "M Artur",
+              "non_striker": "JAN Ngono",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "JAN Ngono",
+              "bowler": "M Artur",
+              "non_striker": "BMA Mbida",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "JAN Ngono",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "BMA Mbida",
+              "bowler": "CS Nascimento",
+              "non_striker": "MFD Douma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BMA Mbida",
+              "bowler": "CS Nascimento",
+              "non_striker": "MFD Douma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BMA Mbida",
+              "bowler": "CS Nascimento",
+              "non_striker": "MFD Douma",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "BMA Mbida",
+              "bowler": "CS Nascimento",
+              "non_striker": "MFD Douma",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MFD Douma",
+              "bowler": "CS Nascimento",
+              "non_striker": "BMA Mbida",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MFD Douma",
+              "bowler": "CS Nascimento",
+              "non_striker": "BMA Mbida",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MFD Douma",
+                  "fielders": [
+                    {
+                      "name": "MLG Silva",
+                      "substitute": true
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "BMA Mbida",
+              "bowler": "RMAM Avery",
+              "non_striker": "E Guehoada",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Guehoada",
+              "bowler": "RMAM Avery",
+              "non_striker": "BMA Mbida",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Guehoada",
+              "bowler": "RMAM Avery",
+              "non_striker": "BMA Mbida",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "E Guehoada",
+                  "fielders": [
+                    {
+                      "name": "CS Nascimento"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "AAM Eliane",
+              "bowler": "RMAM Avery",
+              "non_striker": "BMA Mbida",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AAM Eliane",
+              "bowler": "RMAM Avery",
+              "non_striker": "BMA Mbida",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AAM Eliane",
+              "bowler": "RMAM Avery",
+              "non_striker": "BMA Mbida",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "BMA Mbida",
+              "bowler": "LV Boas",
+              "non_striker": "AAM Eliane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AAM Eliane",
+              "bowler": "LV Boas",
+              "non_striker": "BMA Mbida",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AAM Eliane",
+              "bowler": "LV Boas",
+              "non_striker": "BMA Mbida",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "BMA Mbida",
+              "bowler": "LV Boas",
+              "non_striker": "AAM Eliane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "BMA Mbida",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.8,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 157
+      }
+    }
+  ]
+}

@@ -1,0 +1,2576 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-07-23",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Gaborone",
+    "dates": [
+      "2025-07-23"
+    ],
+    "event": {
+      "name": "ICC Women's T20 World Cup Africa Region Division Two Qualifier",
+      "match_number": 11,
+      "group": "B"
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2419,
+    "officials": {
+      "match_referees": [
+        "J Chibhabha"
+      ],
+      "reserve_umpires": [
+        "D Odhiambo"
+      ],
+      "umpires": [
+        "K Klaaste",
+        "S Dambanevana"
+      ]
+    },
+    "outcome": {
+      "winner": "Sierra Leone",
+      "by": {
+        "wickets": 5
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "E Kamara"
+    ],
+    "players": {
+      "Botswana": [
+        "L Mophakedi",
+        "O Kgeresi",
+        "G Matome",
+        "A Mokgotlhe",
+        "W Moutswi",
+        "P Mapotsane",
+        "K Inakale",
+        "M Phiase",
+        "O Keitsemang",
+        "G Setshwane",
+        "T Shadrack"
+      ],
+      "Sierra Leone": [
+        "E Kamara",
+        "Aminata Kamara",
+        "M Turay",
+        "C Bull",
+        "L Bull",
+        "Z Kamara",
+        "AM Kamara",
+        "F Pessima",
+        "H Sawanneh",
+        "AK Bangura",
+        "P Pratt"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Mokgotlhe": "781f1a40",
+        "AK Bangura": "36c0228f",
+        "AM Kamara": "4ca3d67d",
+        "Aminata Kamara": "f7aca3b3",
+        "C Bull": "a7b3bd26",
+        "D Odhiambo": "45994517",
+        "E Kamara": "3f8915a0",
+        "F Pessima": "9be80ea0",
+        "G Matome": "a6898f7a",
+        "G Setshwane": "3dbbe483",
+        "H Sawanneh": "89372586",
+        "J Chibhabha": "4c5c47a4",
+        "K Inakale": "eea862f6",
+        "K Klaaste": "6cc1d918",
+        "L Bull": "256d29e8",
+        "L Mophakedi": "c8cdbb92",
+        "M Phiase": "537cc79f",
+        "M Turay": "1eec6a0f",
+        "O Keitsemang": "5145239b",
+        "O Kgeresi": "cba01c28",
+        "P Mapotsane": "9ea555a4",
+        "P Pratt": "ccac9ed0",
+        "S Dambanevana": "039923bd",
+        "T Shadrack": "6d972d02",
+        "W Moutswi": "e8c42000",
+        "Z Kamara": "a4e98e6b"
+      }
+    },
+    "season": "2025",
+    "team_type": "international",
+    "teams": [
+      "Botswana",
+      "Sierra Leone"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Botswana"
+    },
+    "venue": "Botswana Cricket Association Oval 1, Gaborone"
+  },
+  "innings": [
+    {
+      "team": "Botswana",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "L Mophakedi",
+              "bowler": "AM Kamara",
+              "non_striker": "O Kgeresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Mophakedi",
+              "bowler": "AM Kamara",
+              "non_striker": "O Kgeresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Mophakedi",
+              "bowler": "AM Kamara",
+              "non_striker": "O Kgeresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Mophakedi",
+              "bowler": "AM Kamara",
+              "non_striker": "O Kgeresi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "O Kgeresi",
+              "bowler": "AM Kamara",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Kgeresi",
+              "bowler": "AM Kamara",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "L Mophakedi",
+              "bowler": "Aminata Kamara",
+              "non_striker": "O Kgeresi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "O Kgeresi",
+              "bowler": "Aminata Kamara",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Kgeresi",
+              "bowler": "Aminata Kamara",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Kgeresi",
+              "bowler": "Aminata Kamara",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "O Kgeresi",
+              "bowler": "Aminata Kamara",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Kgeresi",
+              "bowler": "Aminata Kamara",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Mophakedi",
+              "bowler": "Aminata Kamara",
+              "non_striker": "O Kgeresi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "O Kgeresi",
+              "bowler": "AM Kamara",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "O Kgeresi",
+              "bowler": "AM Kamara",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "O Kgeresi",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "AM Kamara",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "AM Kamara",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "AM Kamara",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Mophakedi",
+              "bowler": "AM Kamara",
+              "non_striker": "G Matome",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "G Matome",
+              "bowler": "Aminata Kamara",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "Aminata Kamara",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "Aminata Kamara",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "Aminata Kamara",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "Aminata Kamara",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "Aminata Kamara",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "G Matome",
+              "bowler": "AM Kamara",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "AM Kamara",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "AM Kamara",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "AM Kamara",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "AM Kamara",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "AM Kamara",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "L Mophakedi",
+              "bowler": "Aminata Kamara",
+              "non_striker": "G Matome",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Mophakedi",
+              "bowler": "Aminata Kamara",
+              "non_striker": "G Matome",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Mophakedi",
+              "bowler": "Aminata Kamara",
+              "non_striker": "G Matome",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "Aminata Kamara",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Mophakedi",
+              "bowler": "Aminata Kamara",
+              "non_striker": "G Matome",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Mophakedi",
+              "bowler": "Aminata Kamara",
+              "non_striker": "G Matome",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "G Matome",
+              "bowler": "L Bull",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "L Bull",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "L Bull",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "L Bull",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "L Bull",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Mophakedi",
+              "bowler": "L Bull",
+              "non_striker": "G Matome",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "L Mophakedi",
+              "bowler": "E Kamara",
+              "non_striker": "G Matome",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Mophakedi",
+              "bowler": "E Kamara",
+              "non_striker": "G Matome",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "E Kamara",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "E Kamara",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "E Kamara",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "E Kamara",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "G Matome",
+              "bowler": "L Bull",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "L Bull",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "L Bull",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "L Bull",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "L Bull",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "L Bull",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "L Mophakedi",
+              "bowler": "E Kamara",
+              "non_striker": "G Matome",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Mophakedi",
+              "bowler": "E Kamara",
+              "non_striker": "G Matome",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "E Kamara",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Mophakedi",
+              "bowler": "E Kamara",
+              "non_striker": "G Matome",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "E Kamara",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "E Kamara",
+              "non_striker": "L Mophakedi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "L Mophakedi",
+              "bowler": "L Bull",
+              "non_striker": "G Matome",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Mophakedi",
+              "bowler": "L Bull",
+              "non_striker": "G Matome",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Mophakedi",
+              "bowler": "L Bull",
+              "non_striker": "G Matome",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Mophakedi",
+              "bowler": "L Bull",
+              "non_striker": "G Matome",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Mophakedi",
+              "bowler": "L Bull",
+              "non_striker": "G Matome",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Mophakedi",
+                  "kind": "caught and bowled"
+                }
+              ]
+            },
+            {
+              "batter": "A Mokgotlhe",
+              "bowler": "L Bull",
+              "non_striker": "G Matome",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "G Matome",
+              "bowler": "E Kamara",
+              "non_striker": "A Mokgotlhe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "E Kamara",
+              "non_striker": "A Mokgotlhe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "E Kamara",
+              "non_striker": "A Mokgotlhe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "E Kamara",
+              "non_striker": "A Mokgotlhe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "E Kamara",
+              "non_striker": "A Mokgotlhe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "E Kamara",
+              "non_striker": "A Mokgotlhe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "G Matome",
+              "bowler": "L Bull",
+              "non_striker": "A Mokgotlhe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mokgotlhe",
+              "bowler": "L Bull",
+              "non_striker": "G Matome",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "L Bull",
+              "non_striker": "A Mokgotlhe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mokgotlhe",
+              "bowler": "L Bull",
+              "non_striker": "G Matome",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mokgotlhe",
+              "bowler": "L Bull",
+              "non_striker": "G Matome",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "L Bull",
+              "non_striker": "A Mokgotlhe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "G Matome",
+              "bowler": "C Bull",
+              "non_striker": "A Mokgotlhe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "C Bull",
+              "non_striker": "A Mokgotlhe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "C Bull",
+              "non_striker": "A Mokgotlhe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Matome",
+              "bowler": "C Bull",
+              "non_striker": "A Mokgotlhe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "G Matome",
+                  "fielders": [
+                    {
+                      "name": "H Sawanneh"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "W Moutswi",
+              "bowler": "C Bull",
+              "non_striker": "A Mokgotlhe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Moutswi",
+              "bowler": "C Bull",
+              "non_striker": "A Mokgotlhe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "A Mokgotlhe",
+              "bowler": "AK Bangura",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "W Moutswi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mokgotlhe",
+              "bowler": "AK Bangura",
+              "non_striker": "W Moutswi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mokgotlhe",
+              "bowler": "AK Bangura",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "W Moutswi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mokgotlhe",
+              "bowler": "AK Bangura",
+              "non_striker": "W Moutswi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Moutswi",
+              "bowler": "AK Bangura",
+              "non_striker": "A Mokgotlhe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Moutswi",
+              "bowler": "AK Bangura",
+              "non_striker": "A Mokgotlhe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mokgotlhe",
+              "bowler": "AK Bangura",
+              "non_striker": "W Moutswi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "A Mokgotlhe",
+              "bowler": "AK Bangura",
+              "non_striker": "W Moutswi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "A Mokgotlhe",
+              "bowler": "C Bull",
+              "non_striker": "W Moutswi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Mokgotlhe",
+              "bowler": "C Bull",
+              "non_striker": "W Moutswi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Moutswi",
+              "bowler": "C Bull",
+              "non_striker": "A Mokgotlhe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Moutswi",
+              "bowler": "C Bull",
+              "non_striker": "A Mokgotlhe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Moutswi",
+              "bowler": "C Bull",
+              "non_striker": "A Mokgotlhe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "W Moutswi",
+              "bowler": "C Bull",
+              "non_striker": "A Mokgotlhe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "A Mokgotlhe",
+              "bowler": "AM Kamara",
+              "non_striker": "W Moutswi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Moutswi",
+              "bowler": "AM Kamara",
+              "non_striker": "A Mokgotlhe",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "W Moutswi",
+              "bowler": "AM Kamara",
+              "non_striker": "A Mokgotlhe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Mokgotlhe",
+              "bowler": "AM Kamara",
+              "non_striker": "W Moutswi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Mokgotlhe",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "P Mapotsane",
+              "bowler": "AM Kamara",
+              "non_striker": "W Moutswi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Mapotsane",
+              "bowler": "AM Kamara",
+              "non_striker": "W Moutswi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "W Moutswi",
+              "bowler": "C Bull",
+              "non_striker": "P Mapotsane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Moutswi",
+              "bowler": "C Bull",
+              "non_striker": "P Mapotsane",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "W Moutswi",
+              "bowler": "C Bull",
+              "non_striker": "P Mapotsane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Mapotsane",
+              "bowler": "C Bull",
+              "non_striker": "W Moutswi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Mapotsane",
+              "bowler": "C Bull",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "W Moutswi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Mapotsane",
+              "bowler": "C Bull",
+              "non_striker": "W Moutswi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Mapotsane",
+              "bowler": "C Bull",
+              "non_striker": "W Moutswi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "W Moutswi",
+              "bowler": "Aminata Kamara",
+              "non_striker": "P Mapotsane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Moutswi",
+              "bowler": "Aminata Kamara",
+              "non_striker": "P Mapotsane",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Mapotsane",
+              "bowler": "Aminata Kamara",
+              "non_striker": "W Moutswi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Mapotsane",
+              "bowler": "Aminata Kamara",
+              "non_striker": "W Moutswi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "W Moutswi",
+              "bowler": "Aminata Kamara",
+              "non_striker": "P Mapotsane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "W Moutswi",
+              "bowler": "Aminata Kamara",
+              "non_striker": "P Mapotsane",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "P Mapotsane",
+              "bowler": "C Bull",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "W Moutswi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Mapotsane",
+              "bowler": "C Bull",
+              "non_striker": "W Moutswi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Mapotsane",
+              "bowler": "C Bull",
+              "non_striker": "W Moutswi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Mapotsane",
+              "bowler": "C Bull",
+              "non_striker": "W Moutswi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Mapotsane",
+              "bowler": "C Bull",
+              "non_striker": "W Moutswi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Mapotsane",
+              "bowler": "C Bull",
+              "non_striker": "W Moutswi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Mapotsane",
+              "bowler": "C Bull",
+              "non_striker": "W Moutswi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Sierra Leone",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "E Kamara",
+              "bowler": "T Shadrack",
+              "non_striker": "Aminata Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aminata Kamara",
+              "bowler": "T Shadrack",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aminata Kamara",
+              "bowler": "T Shadrack",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "T Shadrack",
+              "non_striker": "Aminata Kamara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "T Shadrack",
+              "non_striker": "Aminata Kamara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "T Shadrack",
+              "non_striker": "Aminata Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "E Kamara",
+              "bowler": "G Setshwane",
+              "non_striker": "Aminata Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aminata Kamara",
+              "bowler": "G Setshwane",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aminata Kamara",
+              "bowler": "G Setshwane",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "G Setshwane",
+              "non_striker": "Aminata Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aminata Kamara",
+              "bowler": "G Setshwane",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Aminata Kamara",
+              "bowler": "G Setshwane",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "E Kamara",
+              "bowler": "G Matome",
+              "non_striker": "Aminata Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aminata Kamara",
+              "bowler": "G Matome",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "G Matome",
+              "non_striker": "Aminata Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aminata Kamara",
+              "bowler": "G Matome",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Aminata Kamara",
+              "bowler": "G Matome",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Aminata Kamara",
+              "bowler": "G Matome",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "Aminata Kamara",
+              "bowler": "G Setshwane",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "Aminata Kamara",
+              "bowler": "G Setshwane",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Aminata Kamara",
+                  "fielders": [
+                    {
+                      "name": "L Mophakedi"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "M Turay",
+              "bowler": "G Setshwane",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Turay",
+              "bowler": "G Setshwane",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "G Setshwane",
+              "non_striker": "M Turay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Turay",
+              "bowler": "G Setshwane",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "E Kamara",
+              "bowler": "W Moutswi",
+              "non_striker": "M Turay",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "W Moutswi",
+              "non_striker": "M Turay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "W Moutswi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Turay",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "W Moutswi",
+              "non_striker": "M Turay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "W Moutswi",
+              "non_striker": "M Turay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Turay",
+              "bowler": "W Moutswi",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Turay",
+              "bowler": "W Moutswi",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "E Kamara",
+              "bowler": "G Setshwane",
+              "non_striker": "M Turay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "G Setshwane",
+              "non_striker": "M Turay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "G Setshwane",
+              "non_striker": "M Turay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Turay",
+              "bowler": "G Setshwane",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Turay",
+              "bowler": "G Setshwane",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "G Setshwane",
+              "non_striker": "M Turay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "E Kamara",
+              "bowler": "W Moutswi",
+              "non_striker": "M Turay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "W Moutswi",
+              "non_striker": "M Turay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Turay",
+              "bowler": "W Moutswi",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Turay",
+              "bowler": "W Moutswi",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Turay",
+              "bowler": "W Moutswi",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "W Moutswi",
+              "non_striker": "M Turay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "E Kamara",
+              "bowler": "K Inakale",
+              "non_striker": "M Turay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Turay",
+              "bowler": "K Inakale",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "K Inakale",
+              "non_striker": "M Turay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "K Inakale",
+              "non_striker": "M Turay",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "K Inakale",
+              "non_striker": "M Turay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Turay",
+              "bowler": "K Inakale",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "E Kamara",
+              "bowler": "W Moutswi",
+              "non_striker": "M Turay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "W Moutswi",
+              "non_striker": "M Turay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "W Moutswi",
+              "non_striker": "M Turay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "W Moutswi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Turay",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "W Moutswi",
+              "non_striker": "M Turay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bull",
+              "bowler": "W Moutswi",
+              "non_striker": "M Turay",
+              "replacements": {
+                "role": [
+                  {
+                    "in": "C Bull",
+                    "out": "E Kamara",
+                    "reason": "injury",
+                    "role": "batter"
+                  }
+                ]
+              },
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Turay",
+              "bowler": "W Moutswi",
+              "non_striker": "C Bull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "C Bull",
+              "bowler": "T Shadrack",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "M Turay",
+              "runs": {
+                "batter": 4,
+                "extras": 1,
+                "total": 5
+              }
+            },
+            {
+              "batter": "C Bull",
+              "bowler": "T Shadrack",
+              "non_striker": "M Turay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bull",
+              "bowler": "T Shadrack",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Turay",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Bull",
+              "bowler": "T Shadrack",
+              "non_striker": "M Turay",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Turay",
+              "bowler": "T Shadrack",
+              "non_striker": "C Bull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Turay",
+              "bowler": "T Shadrack",
+              "non_striker": "C Bull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Turay",
+              "bowler": "T Shadrack",
+              "non_striker": "C Bull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Turay",
+              "bowler": "T Shadrack",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "C Bull",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "M Turay",
+              "bowler": "P Mapotsane",
+              "non_striker": "C Bull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Turay",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "L Bull",
+              "bowler": "P Mapotsane",
+              "non_striker": "C Bull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Bull",
+              "bowler": "P Mapotsane",
+              "non_striker": "C Bull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Bull",
+              "bowler": "P Mapotsane",
+              "non_striker": "C Bull",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Bull",
+              "bowler": "P Mapotsane",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Bull",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Bull",
+              "bowler": "P Mapotsane",
+              "non_striker": "L Bull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bull",
+              "bowler": "P Mapotsane",
+              "non_striker": "L Bull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Bull",
+                  "kind": "caught and bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "L Bull",
+              "bowler": "M Phiase",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "L Bull",
+              "bowler": "M Phiase",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "M Phiase",
+              "non_striker": "L Bull",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "M Phiase",
+              "non_striker": "L Bull",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Bull",
+              "bowler": "M Phiase",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Bull",
+              "bowler": "M Phiase",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Bull",
+              "bowler": "M Phiase",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Bull",
+              "bowler": "M Phiase",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Bull",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "E Kamara",
+              "bowler": "P Mapotsane",
+              "non_striker": "Z Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Z Kamara",
+              "bowler": "P Mapotsane",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Z Kamara",
+              "bowler": "P Mapotsane",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Z Kamara",
+              "bowler": "P Mapotsane",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Z Kamara",
+              "bowler": "P Mapotsane",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "Z Kamara",
+              "bowler": "P Mapotsane",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "Z Kamara",
+              "bowler": "K Inakale",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Z Kamara",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "AM Kamara",
+              "bowler": "K Inakale",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "K Inakale",
+              "non_striker": "AM Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Kamara",
+              "bowler": "K Inakale",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Kamara",
+              "bowler": "K Inakale",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 90
+      }
+    }
+  ]
+}
