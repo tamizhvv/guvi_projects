@@ -53,7 +53,7 @@ cursor.execute('select student_id from students')
 rows=cursor.fetchall()
 student_ids=[]
 for row in rows:
-    student_ids.append(row[0]) 
+    student_ids.append(row[0])
 
 programming_data=[]
 languages=['Python','Java','SQL','C++']
