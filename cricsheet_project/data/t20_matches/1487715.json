@@ -1,0 +1,3126 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-06-10",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Kigali City",
+    "dates": [
+      "2025-06-08"
+    ],
+    "event": {
+      "name": "Kwibuka Women's Twenty20 Tournament",
+      "match_number": 23
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2352,
+    "officials": {
+      "match_referees": [
+        "ET Dube"
+      ],
+      "reserve_umpires": [
+        "Vicky Prajapati"
+      ],
+      "umpires": [
+        "D Hagenimana",
+        "V Iriho"
+      ]
+    },
+    "outcome": {
+      "winner": "Nigeria",
+      "by": {
+        "runs": 36
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "MK Amusa"
+    ],
+    "players": {
+      "Nigeria": [
+        "E Sandy",
+        "MK Amusa",
+        "S Etim",
+        "C Chukwuonye",
+        "S Sunday",
+        "L Udeh",
+        "OP Eguakun",
+        "U Peace",
+        "A Akhigbe",
+        "R Samson",
+        "R Abdulrasak"
+      ],
+      "Sierra Leone": [
+        "E Kamara",
+        "F Conteh",
+        "C Bull",
+        "Aminata Kamara",
+        "Z Kamara",
+        "L Bull",
+        "AM Kamara",
+        "M Turay",
+        "P Pratt",
+        "AK Bangura",
+        "H Sawanneh"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Akhigbe": "ed0ec1fe",
+        "AK Bangura": "36c0228f",
+        "AM Kamara": "4ca3d67d",
+        "Aminata Kamara": "f7aca3b3",
+        "C Bull": "a7b3bd26",
+        "C Chukwuonye": "bb0aac11",
+        "D Hagenimana": "de167462",
+        "E Kamara": "3f8915a0",
+        "E Sandy": "59063d6b",
+        "ET Dube": "4c0891bc",
+        "F Conteh": "1dac0c4a",
+        "H Sawanneh": "89372586",
+        "L Bull": "256d29e8",
+        "L Udeh": "8451562a",
+        "M Turay": "1eec6a0f",
+        "MK Amusa": "1eaf0ce1",
+        "OP Eguakun": "728b71eb",
+        "P Pratt": "ccac9ed0",
+        "R Abdulrasak": "65c9fc31",
+        "R Samson": "e63c08e9",
+        "S Etim": "aa197946",
+        "S Sunday": "594a0dec",
+        "U Peace": "3798b336",
+        "V Iriho": "2853eafb",
+        "Vicky Prajapati": "8926ed4e",
+        "Z Kamara": "a4e98e6b"
+      }
+    },
+    "season": "2025",
+    "team_type": "international",
+    "teams": [
+      "Nigeria",
+      "Sierra Leone"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Nigeria"
+    },
+    "venue": "Gahanga International Cricket Stadium, Rwanda"
+  },
+  "innings": [
+    {
+      "team": "Nigeria",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "E Sandy",
+              "bowler": "C Bull",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "E Sandy",
+              "bowler": "C Bull",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Sandy",
+              "bowler": "C Bull",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Sandy",
+              "bowler": "C Bull",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "E Sandy",
+              "bowler": "C Bull",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Sandy",
+              "bowler": "C Bull",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "MK Amusa",
+              "bowler": "AM Kamara",
+              "non_striker": "E Sandy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "AM Kamara",
+              "non_striker": "E Sandy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Sandy",
+              "bowler": "AM Kamara",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Sandy",
+              "bowler": "AM Kamara",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "E Sandy",
+              "bowler": "AM Kamara",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "E Sandy",
+              "bowler": "AM Kamara",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Sandy",
+              "bowler": "AM Kamara",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "MK Amusa",
+              "bowler": "Aminata Kamara",
+              "non_striker": "E Sandy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "Aminata Kamara",
+              "non_striker": "E Sandy",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "Aminata Kamara",
+              "non_striker": "E Sandy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Sandy",
+              "bowler": "Aminata Kamara",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Sandy",
+              "bowler": "Aminata Kamara",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "Aminata Kamara",
+              "non_striker": "E Sandy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "E Sandy",
+              "bowler": "L Bull",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "L Bull",
+              "non_striker": "E Sandy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "L Bull",
+              "non_striker": "E Sandy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "L Bull",
+              "non_striker": "E Sandy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "L Bull",
+              "non_striker": "E Sandy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "L Bull",
+              "non_striker": "E Sandy",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "E Sandy",
+              "bowler": "E Kamara",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Sandy",
+              "bowler": "E Kamara",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "E Kamara",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Sandy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "E Kamara",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "E Sandy",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "E Kamara",
+              "non_striker": "E Sandy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Sandy",
+              "bowler": "E Kamara",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "E Kamara",
+              "non_striker": "E Sandy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Sandy",
+              "bowler": "E Kamara",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "MK Amusa",
+              "bowler": "L Bull",
+              "non_striker": "E Sandy",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Sandy",
+              "bowler": "L Bull",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Sandy",
+              "bowler": "L Bull",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "E Sandy",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "S Etim",
+              "bowler": "L Bull",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Etim",
+              "bowler": "L Bull",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "L Bull",
+              "non_striker": "S Etim",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "S Etim",
+              "bowler": "E Kamara",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Etim",
+              "bowler": "E Kamara",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Etim",
+              "bowler": "E Kamara",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Etim",
+              "bowler": "E Kamara",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Etim",
+              "bowler": "E Kamara",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Etim",
+              "bowler": "E Kamara",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Etim",
+                  "kind": "caught and bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "MK Amusa",
+              "bowler": "L Bull",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "L Bull",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "L Bull",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "L Bull",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "L Bull",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "L Bull",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "MK Amusa",
+              "bowler": "E Kamara",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "E Kamara",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "E Kamara",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "E Kamara",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "E Kamara",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "E Kamara",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "E Kamara",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "MK Amusa",
+              "bowler": "L Bull",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "L Bull",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "L Bull",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "L Bull",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "L Bull",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "L Bull",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "E Kamara",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "E Kamara",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "E Kamara",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "E Kamara",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "E Kamara",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "E Kamara",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "E Kamara",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "M Turay",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "M Turay",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MK Amusa",
+              "bowler": "M Turay",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "M Turay",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "M Turay",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "M Turay",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "M Turay",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "M Turay",
+              "non_striker": "MK Amusa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "MK Amusa",
+              "bowler": "P Pratt",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MK Amusa",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "S Sunday",
+              "bowler": "P Pratt",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Sunday",
+              "bowler": "P Pratt",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "S Sunday",
+              "bowler": "P Pratt",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "S Sunday",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "L Udeh",
+              "bowler": "P Pratt",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Udeh",
+              "bowler": "P Pratt",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Udeh",
+              "bowler": "P Pratt",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "L Udeh",
+              "bowler": "M Turay",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Udeh",
+              "bowler": "M Turay",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Udeh",
+              "bowler": "M Turay",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "M Turay",
+              "non_striker": "L Udeh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "M Turay",
+              "non_striker": "L Udeh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "M Turay",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Udeh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "M Turay",
+              "non_striker": "L Udeh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "M Turay",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "L Udeh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "M Turay",
+              "non_striker": "L Udeh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "L Udeh",
+              "bowler": "P Pratt",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "P Pratt",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "L Udeh",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Udeh",
+              "bowler": "P Pratt",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "L Udeh",
+              "bowler": "P Pratt",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "P Pratt",
+              "non_striker": "L Udeh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "P Pratt",
+              "non_striker": "L Udeh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Udeh",
+              "bowler": "P Pratt",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "AK Bangura",
+              "non_striker": "L Udeh",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "L Udeh",
+              "bowler": "AK Bangura",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Udeh",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "OP Eguakun",
+              "bowler": "AK Bangura",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "OP Eguakun",
+              "bowler": "AK Bangura",
+              "non_striker": "C Chukwuonye",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Chukwuonye",
+              "bowler": "AK Bangura",
+              "non_striker": "OP Eguakun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Chukwuonye",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "U Peace",
+              "bowler": "AK Bangura",
+              "non_striker": "OP Eguakun",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "OP Eguakun",
+                  "fielders": [
+                    {
+                      "name": "Z Kamara"
+                    },
+                    {
+                      "name": "M Turay"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "U Peace",
+              "bowler": "P Pratt",
+              "non_striker": "A Akhigbe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "U Peace",
+              "bowler": "P Pratt",
+              "non_striker": "A Akhigbe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "U Peace",
+              "bowler": "P Pratt",
+              "non_striker": "A Akhigbe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "U Peace",
+              "bowler": "P Pratt",
+              "non_striker": "A Akhigbe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "U Peace",
+              "bowler": "P Pratt",
+              "non_striker": "A Akhigbe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "U Peace",
+              "bowler": "P Pratt",
+              "non_striker": "A Akhigbe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "U Peace",
+              "bowler": "AK Bangura",
+              "non_striker": "A Akhigbe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "U Peace",
+              "bowler": "AK Bangura",
+              "non_striker": "A Akhigbe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Akhigbe",
+              "bowler": "AK Bangura",
+              "non_striker": "U Peace",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Akhigbe",
+              "bowler": "AK Bangura",
+              "non_striker": "U Peace",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "A Akhigbe",
+              "bowler": "AK Bangura",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "U Peace",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Akhigbe",
+              "bowler": "AK Bangura",
+              "non_striker": "U Peace",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "U Peace",
+                  "fielders": [
+                    {
+                      "name": "AK Bangura"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "A Akhigbe",
+              "bowler": "AK Bangura",
+              "non_striker": "R Samson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "R Samson",
+              "bowler": "P Pratt",
+              "non_striker": "A Akhigbe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "R Samson",
+              "bowler": "P Pratt",
+              "non_striker": "A Akhigbe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Akhigbe",
+              "bowler": "P Pratt",
+              "non_striker": "R Samson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Samson",
+              "bowler": "P Pratt",
+              "non_striker": "A Akhigbe",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "A Akhigbe",
+              "bowler": "P Pratt",
+              "non_striker": "R Samson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Samson",
+              "bowler": "P Pratt",
+              "non_striker": "A Akhigbe",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "A Akhigbe",
+              "bowler": "C Bull",
+              "non_striker": "R Samson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "A Akhigbe",
+                  "fielders": [
+                    {
+                      "name": "M Turay"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "R Abdulrasak",
+              "bowler": "C Bull",
+              "non_striker": "R Samson",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Samson",
+              "bowler": "C Bull",
+              "non_striker": "R Abdulrasak",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "R Abdulrasak",
+              "bowler": "C Bull",
+              "non_striker": "R Samson",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Abdulrasak",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Sierra Leone",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "E Kamara",
+              "bowler": "L Udeh",
+              "non_striker": "F Conteh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "L Udeh",
+              "non_striker": "F Conteh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "L Udeh",
+              "non_striker": "F Conteh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F Conteh",
+              "bowler": "L Udeh",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "L Udeh",
+              "non_striker": "F Conteh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "L Udeh",
+              "non_striker": "F Conteh",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "F Conteh",
+              "bowler": "U Peace",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Conteh",
+              "bowler": "U Peace",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Conteh",
+              "bowler": "U Peace",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "F Conteh",
+              "bowler": "U Peace",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "U Peace",
+              "non_striker": "F Conteh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "F Conteh",
+              "bowler": "U Peace",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "F Conteh",
+                  "fielders": [
+                    {
+                      "name": "OP Eguakun"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "E Kamara",
+              "bowler": "L Udeh",
+              "non_striker": "C Bull",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Bull",
+              "bowler": "L Udeh",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bull",
+              "bowler": "L Udeh",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bull",
+              "bowler": "L Udeh",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bull",
+              "bowler": "L Udeh",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bull",
+              "bowler": "L Udeh",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "C Bull",
+              "bowler": "U Peace",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bull",
+              "bowler": "U Peace",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Bull",
+              "bowler": "U Peace",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bull",
+              "bowler": "U Peace",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "U Peace",
+              "non_striker": "C Bull",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Bull",
+              "bowler": "U Peace",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "E Kamara",
+              "bowler": "L Udeh",
+              "non_striker": "C Bull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "L Udeh",
+              "non_striker": "C Bull",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "L Udeh",
+              "non_striker": "C Bull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "L Udeh",
+              "non_striker": "C Bull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "L Udeh",
+              "non_striker": "C Bull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "L Udeh",
+              "non_striker": "C Bull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "C Bull",
+              "bowler": "U Peace",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bull",
+              "bowler": "U Peace",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bull",
+              "bowler": "U Peace",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "U Peace",
+              "non_striker": "C Bull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "U Peace",
+              "non_striker": "C Bull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "U Peace",
+              "non_striker": "C Bull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "C Bull",
+              "bowler": "R Samson",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bull",
+              "bowler": "R Samson",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "R Samson",
+              "non_striker": "C Bull",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "C Bull",
+              "bowler": "R Samson",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "C Bull",
+              "bowler": "R Samson",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "C Bull",
+              "bowler": "R Samson",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "E Kamara",
+              "bowler": "U Peace",
+              "non_striker": "C Bull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "U Peace",
+              "non_striker": "C Bull",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "U Peace",
+              "non_striker": "C Bull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "U Peace",
+              "non_striker": "C Bull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "U Peace",
+              "non_striker": "C Bull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "U Peace",
+              "non_striker": "C Bull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "C Bull",
+              "bowler": "R Samson",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "C Bull",
+                  "fielders": [
+                    {
+                      "name": "C Chukwuonye"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "Aminata Kamara",
+              "bowler": "R Samson",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "R Samson",
+              "non_striker": "Aminata Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aminata Kamara",
+              "bowler": "R Samson",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "R Samson",
+              "non_striker": "Aminata Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Aminata Kamara",
+              "bowler": "R Samson",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Aminata Kamara",
+                  "fielders": [
+                    {
+                      "name": "U Peace"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "E Kamara",
+              "bowler": "MK Amusa",
+              "non_striker": "Z Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Z Kamara",
+              "bowler": "MK Amusa",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Z Kamara",
+              "bowler": "MK Amusa",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Z Kamara",
+              "bowler": "MK Amusa",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Z Kamara",
+              "bowler": "MK Amusa",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Z Kamara",
+              "bowler": "MK Amusa",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "E Kamara",
+              "bowler": "A Akhigbe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "Z Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "A Akhigbe",
+              "non_striker": "Z Kamara",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "A Akhigbe",
+              "non_striker": "Z Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "A Akhigbe",
+              "non_striker": "Z Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "A Akhigbe",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "Z Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Z Kamara",
+              "bowler": "A Akhigbe",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "A Akhigbe",
+              "non_striker": "Z Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "E Kamara",
+              "bowler": "MK Amusa",
+              "non_striker": "Z Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "MK Amusa",
+              "non_striker": "Z Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "MK Amusa",
+              "non_striker": "Z Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "MK Amusa",
+              "non_striker": "Z Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "Z Kamara",
+              "bowler": "MK Amusa",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "Z Kamara",
+              "bowler": "MK Amusa",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Z Kamara",
+                  "fielders": [
+                    {
+                      "name": "E Sandy"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            {
+              "batter": "E Kamara",
+              "bowler": "A Akhigbe",
+              "non_striker": "L Bull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "A Akhigbe",
+              "non_striker": "L Bull",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "A Akhigbe",
+              "non_striker": "L Bull",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "L Bull",
+              "bowler": "A Akhigbe",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "L Bull",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "AM Kamara",
+              "bowler": "A Akhigbe",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            {
+              "batter": "E Kamara",
+              "bowler": "MK Amusa",
+              "non_striker": "AM Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "MK Amusa",
+              "non_striker": "AM Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Turay",
+              "bowler": "MK Amusa",
+              "non_striker": "AM Kamara",
+              "replacements": {
+                "role": [
+                  {
+                    "in": "M Turay",
+                    "out": "E Kamara",
+                    "reason": "injury",
+                    "role": "batter"
+                  }
+                ]
+              },
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Turay",
+              "bowler": "MK Amusa",
+              "non_striker": "AM Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Turay",
+              "bowler": "MK Amusa",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AM Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Turay",
+              "bowler": "MK Amusa",
+              "non_striker": "AM Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Turay",
+              "bowler": "MK Amusa",
+              "non_striker": "AM Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            {
+              "batter": "M Turay",
+              "bowler": "A Akhigbe",
+              "non_striker": "AM Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Turay",
+              "bowler": "A Akhigbe",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "AM Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Turay",
+              "bowler": "A Akhigbe",
+              "non_striker": "AM Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Turay",
+              "bowler": "A Akhigbe",
+              "non_striker": "AM Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Kamara",
+              "bowler": "A Akhigbe",
+              "non_striker": "M Turay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Kamara",
+              "bowler": "A Akhigbe",
+              "non_striker": "M Turay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Kamara",
+              "bowler": "A Akhigbe",
+              "non_striker": "M Turay",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            {
+              "batter": "M Turay",
+              "bowler": "MK Amusa",
+              "non_striker": "AM Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Turay",
+                  "fielders": [
+                    {
+                      "name": "S Sunday"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "MK Amusa",
+              "non_striker": "AM Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "MK Amusa",
+              "non_striker": "AM Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Kamara",
+              "bowler": "MK Amusa",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Kamara",
+              "bowler": "MK Amusa",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "MK Amusa",
+              "non_striker": "AM Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            {
+              "batter": "E Kamara",
+              "bowler": "A Akhigbe",
+              "non_striker": "AM Kamara",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "A Akhigbe",
+              "non_striker": "AM Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "A Akhigbe",
+              "non_striker": "AM Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "A Akhigbe",
+              "non_striker": "AM Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "A Akhigbe",
+              "non_striker": "AM Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Kamara",
+              "bowler": "A Akhigbe",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 17,
+          "deliveries": [
+            {
+              "batter": "AM Kamara",
+              "bowler": "R Samson",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Kamara",
+              "bowler": "R Samson",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AM Kamara",
+              "bowler": "R Samson",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "R Samson",
+              "non_striker": "AM Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "AM Kamara",
+              "bowler": "R Samson",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "R Samson",
+              "non_striker": "AM Kamara",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 18,
+          "deliveries": [
+            {
+              "batter": "E Kamara",
+              "bowler": "L Udeh",
+              "non_striker": "AM Kamara",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "AM Kamara",
+              "bowler": "L Udeh",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AM Kamara",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "P Pratt",
+              "bowler": "L Udeh",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "L Udeh",
+              "non_striker": "P Pratt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "L Udeh",
+              "non_striker": "P Pratt",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "L Udeh",
+              "non_striker": "P Pratt",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 19,
+          "deliveries": [
+            {
+              "batter": "P Pratt",
+              "bowler": "R Samson",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Pratt",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "AK Bangura",
+              "bowler": "R Samson",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "AK Bangura",
+              "bowler": "R Samson",
+              "non_striker": "E Kamara",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "AK Bangura",
+                  "fielders": [
+                    {
+                      "name": "C Chukwuonye"
+                    },
+                    {
+                      "name": "R Samson"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "R Samson",
+              "non_striker": "H Sawanneh",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "R Samson",
+              "non_striker": "H Sawanneh",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "E Kamara",
+              "bowler": "R Samson",
+              "non_striker": "H Sawanneh",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "H Sawanneh",
+                  "fielders": [
+                    {
+                      "name": "OP Eguakun"
+                    },
+                    {
+                      "name": "R Samson"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 105
+      },
+      "miscounted_overs": {
+        "12": {
+          "balls": "5"
+        }
+      }
+    }
+  ]
+}

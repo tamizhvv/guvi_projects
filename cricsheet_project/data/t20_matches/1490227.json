@@ -1,0 +1,1288 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-07-12",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Singapore",
+    "dates": [
+      "2025-07-05"
+    ],
+    "event": {
+      "name": "Indonesia Women tour of Singapore",
+      "match_number": 3
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2388,
+    "officials": {
+      "match_referees": [
+        "A Natarajan"
+      ],
+      "reserve_umpires": [
+        "Mahalakshmi"
+      ],
+      "umpires": [
+        "E Rajvengadesh",
+        "T Sathyendra Kumar"
+      ]
+    },
+    "outcome": {
+      "winner": "Indonesia",
+      "by": {
+        "runs": 18
+      },
+      "method": "D/L"
+    },
+    "overs": 20,
+    "player_of_match": [
+      "NLKWR Dewi"
+    ],
+    "players": {
+      "Indonesia": [
+        "M Corazon",
+        "RD Pangestuti",
+        "NLKWR Dewi",
+        "D Wulandari",
+        "NPAN Sakarini",
+        "Noorainah",
+        "SAN Maypriani",
+        "NK Ariani",
+        "KS Kasse",
+        "NW Sariani",
+        "DAL Paramitha"
+      ],
+      "Singapore": [
+        "Shafina Mahesh",
+        "RR Seth",
+        "GK Diviya",
+        "Ada Bhasin",
+        "CH Abeyratne",
+        "LAR Bommareddy",
+        "PSR Gurusinghe",
+        "NL Jacinta Si Ping",
+        "H Dhavina",
+        "Ananya Sarma",
+        "E Ungerman"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Natarajan": "a2b73ae0",
+        "Ada Bhasin": "b1c113d7",
+        "Ananya Sarma": "0bb03efc",
+        "CH Abeyratne": "ef423744",
+        "D Wulandari": "8c0d904e",
+        "DAL Paramitha": "84f831c3",
+        "E Rajvengadesh": "9b50c645",
+        "E Ungerman": "3959c505",
+        "GK Diviya": "992979fa",
+        "H Dhavina": "cd12f384",
+        "KS Kasse": "007a3773",
+        "LAR Bommareddy": "3da8cd3a",
+        "M Corazon": "0baa36e0",
+        "Mahalakshmi": "3204216e",
+        "NK Ariani": "382377a4",
+        "NL Jacinta Si Ping": "68c9a36f",
+        "NLKWR Dewi": "d04fc4a4",
+        "NPAN Sakarini": "72b5decf",
+        "NW Sariani": "e910d955",
+        "Noorainah": "26166475",
+        "PSR Gurusinghe": "591a7004",
+        "RD Pangestuti": "63fc4b92",
+        "RR Seth": "7ccc0a38",
+        "SAN Maypriani": "ad135bde",
+        "Shafina Mahesh": "0c40b02d",
+        "T Sathyendra Kumar": "f56197be"
+      }
+    },
+    "season": "2025",
+    "team_type": "international",
+    "teams": [
+      "Indonesia",
+      "Singapore"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Indonesia"
+    },
+    "venue": "Singapore National Cricket Ground"
+  },
+  "innings": [
+    {
+      "team": "Indonesia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "M Corazon",
+              "bowler": "Ada Bhasin",
+              "non_striker": "RD Pangestuti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Corazon",
+              "bowler": "Ada Bhasin",
+              "non_striker": "RD Pangestuti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Pangestuti",
+              "bowler": "Ada Bhasin",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "M Corazon",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Corazon",
+              "bowler": "Ada Bhasin",
+              "non_striker": "RD Pangestuti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Corazon",
+              "bowler": "Ada Bhasin",
+              "non_striker": "RD Pangestuti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Corazon",
+              "bowler": "Ada Bhasin",
+              "non_striker": "RD Pangestuti",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "RD Pangestuti",
+              "bowler": "E Ungerman",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Corazon",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Pangestuti",
+              "bowler": "E Ungerman",
+              "non_striker": "M Corazon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "RD Pangestuti",
+              "bowler": "E Ungerman",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "M Corazon",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Corazon",
+              "bowler": "E Ungerman",
+              "non_striker": "RD Pangestuti",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Corazon",
+              "bowler": "E Ungerman",
+              "non_striker": "RD Pangestuti",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RD Pangestuti",
+              "bowler": "E Ungerman",
+              "non_striker": "M Corazon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RD Pangestuti",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "E Ungerman",
+              "non_striker": "M Corazon",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "M Corazon",
+              "bowler": "Ada Bhasin",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Corazon",
+              "bowler": "Ada Bhasin",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Corazon",
+              "bowler": "Ada Bhasin",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Corazon",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "D Wulandari",
+              "bowler": "Ada Bhasin",
+              "extras": {
+                "wides": 5
+              },
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 0,
+                "extras": 5,
+                "total": 5
+              }
+            },
+            {
+              "batter": "D Wulandari",
+              "bowler": "Ada Bhasin",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "Ada Bhasin",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "Ada Bhasin",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "D Wulandari",
+              "bowler": "E Ungerman",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Wulandari",
+              "bowler": "E Ungerman",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Wulandari",
+              "bowler": "E Ungerman",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "E Ungerman",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Wulandari",
+              "bowler": "E Ungerman",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Wulandari",
+              "bowler": "E Ungerman",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Wulandari",
+              "bowler": "E Ungerman",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "E Ungerman",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "D Wulandari",
+              "bowler": "RR Seth",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "RR Seth",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "RR Seth",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Wulandari",
+              "bowler": "RR Seth",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Wulandari",
+              "bowler": "RR Seth",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Wulandari",
+              "bowler": "RR Seth",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "D Wulandari",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Wulandari",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "GK Diviya",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "GK Diviya",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "GK Diviya",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Wulandari",
+              "bowler": "GK Diviya",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "GK Diviya",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "GK Diviya",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "D Wulandari",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Wulandari",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Wulandari",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Wulandari",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Wulandari",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "GK Diviya",
+              "non_striker": "D Wulandari",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Wulandari",
+              "bowler": "GK Diviya",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Wulandari",
+              "bowler": "GK Diviya",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Wulandari",
+              "bowler": "GK Diviya",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Wulandari",
+              "bowler": "GK Diviya",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Wulandari",
+                  "fielders": [
+                    {
+                      "name": "NL Jacinta Si Ping"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "GK Diviya",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "Shafina Mahesh",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NLKWR Dewi",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "NPAN Sakarini",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "NPAN Sakarini",
+              "bowler": "Shafina Mahesh",
+              "non_striker": "NLKWR Dewi",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "NPAN Sakarini",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Singapore",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "Shafina Mahesh",
+              "bowler": "SAN Maypriani",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Shafina Mahesh",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "SAN Maypriani",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "SAN Maypriani",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "SAN Maypriani",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "SAN Maypriani",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "SAN Maypriani",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "RR Seth",
+              "bowler": "NLKWR Dewi",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "NLKWR Dewi",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "NLKWR Dewi",
+              "extras": {
+                "legbyes": 2
+              },
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "NLKWR Dewi",
+              "non_striker": "RR Seth",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "RR Seth",
+              "bowler": "NLKWR Dewi",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "RR Seth",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "Ada Bhasin",
+              "bowler": "NLKWR Dewi",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "Ada Bhasin",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "GK Diviya",
+              "bowler": "SAN Maypriani",
+              "non_striker": "CH Abeyratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "SAN Maypriani",
+              "non_striker": "CH Abeyratne",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "SAN Maypriani",
+              "non_striker": "CH Abeyratne",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "SAN Maypriani",
+              "non_striker": "CH Abeyratne",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "SAN Maypriani",
+              "non_striker": "CH Abeyratne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Abeyratne",
+              "bowler": "SAN Maypriani",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "GK Diviya",
+              "bowler": "NW Sariani",
+              "non_striker": "CH Abeyratne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Abeyratne",
+              "bowler": "NW Sariani",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "NW Sariani",
+              "non_striker": "CH Abeyratne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Abeyratne",
+              "bowler": "NW Sariani",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Abeyratne",
+              "bowler": "NW Sariani",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Abeyratne",
+              "bowler": "NW Sariani",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Abeyratne",
+              "bowler": "NW Sariani",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Abeyratne",
+              "bowler": "NW Sariani",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "CH Abeyratne",
+              "bowler": "NK Ariani",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Abeyratne",
+              "bowler": "NK Ariani",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "CH Abeyratne",
+              "bowler": "NK Ariani",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "NK Ariani",
+              "non_striker": "CH Abeyratne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "CH Abeyratne",
+              "bowler": "NK Ariani",
+              "non_striker": "GK Diviya",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "GK Diviya",
+              "bowler": "NK Ariani",
+              "non_striker": "CH Abeyratne",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "GK Diviya",
+                  "fielders": [
+                    {
+                      "name": "NPAN Sakarini"
+                    },
+                    {
+                      "name": "NW Sariani"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 1.6,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 5,
+        "runs": 44
+      }
+    }
+  ]
+}

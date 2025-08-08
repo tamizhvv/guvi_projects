@@ -1,0 +1,1211 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-07-23",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Gaborone",
+    "dates": [
+      "2025-07-20"
+    ],
+    "event": {
+      "name": "ICC Women's T20 World Cup Africa Region Division Two Qualifier",
+      "match_number": 1,
+      "group": "A"
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2406,
+    "officials": {
+      "match_referees": [
+        "J Chibhabha"
+      ],
+      "reserve_umpires": [
+        "VR Angara"
+      ],
+      "umpires": [
+        "Lauren Agenbag",
+        "Patric Makumbi"
+      ]
+    },
+    "outcome": {
+      "winner": "Rwanda",
+      "by": {
+        "wickets": 10
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "MD Bimenyimana"
+    ],
+    "players": {
+      "Lesotho": [
+        "KM Molapo",
+        "P Pheko",
+        "B Tlali",
+        "T Khabo",
+        "MA Nyabela",
+        "B Phelenyane",
+        "TJ Mahe",
+        "MM Mabathoana",
+        "T Ramabitsa",
+        "MA Tsemane",
+        "R Limema"
+      ],
+      "Rwanda": [
+        "MD Bimenyimana",
+        "M Uwase",
+        "G Ishimwe",
+        "C Uwase",
+        "S Niyomuhoza",
+        "H Ishimwe",
+        "A Ikuzwe",
+        "B Murekatete",
+        "Geovanis Uwase",
+        "R Shimwamana",
+        "Rosine Irera"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Ikuzwe": "6762a445",
+        "B Murekatete": "2d4317da",
+        "B Phelenyane": "c982ad6f",
+        "B Tlali": "a42cdf67",
+        "C Uwase": "808bb510",
+        "G Ishimwe": "b5ae57ee",
+        "Geovanis Uwase": "088f22fd",
+        "H Ishimwe": "ffa296f7",
+        "J Chibhabha": "4c5c47a4",
+        "KM Molapo": "dc5934a6",
+        "Lauren Agenbag": "40849abd",
+        "M Uwase": "7d6ce83f",
+        "MA Nyabela": "261fddca",
+        "MA Tsemane": "71eb9780",
+        "MD Bimenyimana": "c1a0cebe",
+        "MM Mabathoana": "fb432bd3",
+        "P Pheko": "24e0b90f",
+        "Patric Makumbi": "e4c69c16",
+        "R Limema": "95fdfe7e",
+        "R Shimwamana": "03fb10bd",
+        "Rosine Irera": "b84718fd",
+        "S Niyomuhoza": "a5424013",
+        "T Khabo": "7be9cb29",
+        "T Ramabitsa": "3a341948",
+        "TJ Mahe": "3c5b2e9e",
+        "VR Angara": "5b7b706f"
+      }
+    },
+    "season": "2025",
+    "team_type": "international",
+    "teams": [
+      "Lesotho",
+      "Rwanda"
+    ],
+    "toss": {
+      "decision": "bat",
+      "winner": "Lesotho"
+    },
+    "venue": "Botswana Cricket Association Oval 1, Gaborone"
+  },
+  "innings": [
+    {
+      "team": "Lesotho",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "KM Molapo",
+              "bowler": "B Murekatete",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Pheko",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KM Molapo",
+              "bowler": "B Murekatete",
+              "non_striker": "P Pheko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KM Molapo",
+              "bowler": "B Murekatete",
+              "non_striker": "P Pheko",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "KM Molapo",
+              "bowler": "B Murekatete",
+              "non_striker": "P Pheko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KM Molapo",
+              "bowler": "B Murekatete",
+              "non_striker": "P Pheko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KM Molapo",
+              "bowler": "B Murekatete",
+              "non_striker": "P Pheko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KM Molapo",
+              "bowler": "B Murekatete",
+              "non_striker": "P Pheko",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "P Pheko",
+              "bowler": "Geovanis Uwase",
+              "non_striker": "KM Molapo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Pheko",
+              "bowler": "Geovanis Uwase",
+              "non_striker": "KM Molapo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Pheko",
+              "bowler": "Geovanis Uwase",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KM Molapo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Pheko",
+              "bowler": "Geovanis Uwase",
+              "non_striker": "KM Molapo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Pheko",
+              "bowler": "Geovanis Uwase",
+              "non_striker": "KM Molapo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KM Molapo",
+              "bowler": "Geovanis Uwase",
+              "non_striker": "P Pheko",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Pheko",
+              "bowler": "Geovanis Uwase",
+              "non_striker": "KM Molapo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "KM Molapo",
+              "bowler": "B Murekatete",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "P Pheko",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "KM Molapo",
+              "bowler": "B Murekatete",
+              "non_striker": "P Pheko",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Pheko",
+              "bowler": "B Murekatete",
+              "non_striker": "KM Molapo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Pheko",
+              "bowler": "B Murekatete",
+              "non_striker": "KM Molapo",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "P Pheko",
+              "bowler": "B Murekatete",
+              "non_striker": "KM Molapo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Pheko",
+              "bowler": "B Murekatete",
+              "non_striker": "KM Molapo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Pheko",
+              "bowler": "B Murekatete",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "KM Molapo",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "P Pheko",
+              "bowler": "B Murekatete",
+              "non_striker": "KM Molapo",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "P Pheko",
+              "bowler": "Geovanis Uwase",
+              "non_striker": "KM Molapo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Pheko",
+              "bowler": "Geovanis Uwase",
+              "non_striker": "KM Molapo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Pheko",
+              "bowler": "Geovanis Uwase",
+              "non_striker": "KM Molapo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "P Pheko",
+              "bowler": "Geovanis Uwase",
+              "non_striker": "KM Molapo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "P Pheko",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "B Tlali",
+              "bowler": "Geovanis Uwase",
+              "non_striker": "KM Molapo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Tlali",
+              "bowler": "Geovanis Uwase",
+              "non_striker": "KM Molapo",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "KM Molapo",
+              "bowler": "Rosine Irera",
+              "non_striker": "B Tlali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "KM Molapo",
+              "bowler": "Rosine Irera",
+              "non_striker": "B Tlali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "KM Molapo",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "T Khabo",
+              "bowler": "Rosine Irera",
+              "non_striker": "B Tlali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Khabo",
+                  "fielders": [
+                    {
+                      "name": "R Shimwamana"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "MA Nyabela",
+              "bowler": "Rosine Irera",
+              "non_striker": "B Tlali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Nyabela",
+              "bowler": "Rosine Irera",
+              "non_striker": "B Tlali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MA Nyabela",
+              "bowler": "Rosine Irera",
+              "non_striker": "B Tlali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "B Tlali",
+              "bowler": "MD Bimenyimana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MA Nyabela",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Tlali",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "MA Nyabela",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Tlali",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "MA Nyabela",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Tlali",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "MA Nyabela",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Tlali",
+              "bowler": "MD Bimenyimana",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MA Nyabela",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Tlali",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "MA Nyabela",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MA Nyabela",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "B Tlali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MA Nyabela",
+                  "kind": "lbw"
+                }
+              ]
+            },
+            {
+              "batter": "B Phelenyane",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "B Tlali",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Phelenyane",
+                  "kind": "bowled"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "B Tlali",
+              "bowler": "Rosine Irera",
+              "non_striker": "TJ Mahe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Tlali",
+              "bowler": "Rosine Irera",
+              "non_striker": "TJ Mahe",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Tlali",
+                  "fielders": [
+                    {
+                      "name": "C Uwase"
+                    },
+                    {
+                      "name": "Rosine Irera"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "TJ Mahe",
+              "bowler": "Rosine Irera",
+              "non_striker": "MM Mabathoana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "TJ Mahe",
+              "bowler": "Rosine Irera",
+              "non_striker": "MM Mabathoana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "TJ Mahe",
+                  "fielders": [
+                    {
+                      "name": "Rosine Irera"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "T Ramabitsa",
+              "bowler": "Rosine Irera",
+              "non_striker": "MM Mabathoana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Ramabitsa",
+              "bowler": "Rosine Irera",
+              "non_striker": "MM Mabathoana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "MM Mabathoana",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "T Ramabitsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MM Mabathoana",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "T Ramabitsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MM Mabathoana",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "T Ramabitsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MM Mabathoana",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "T Ramabitsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MM Mabathoana",
+              "bowler": "MD Bimenyimana",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "T Ramabitsa",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Ramabitsa",
+              "bowler": "MD Bimenyimana",
+              "non_striker": "MM Mabathoana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "MM Mabathoana",
+              "bowler": "Rosine Irera",
+              "non_striker": "T Ramabitsa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Ramabitsa",
+              "bowler": "Rosine Irera",
+              "non_striker": "MM Mabathoana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MM Mabathoana",
+              "bowler": "Rosine Irera",
+              "non_striker": "T Ramabitsa",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Ramabitsa",
+              "bowler": "Rosine Irera",
+              "non_striker": "MM Mabathoana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Ramabitsa",
+              "bowler": "Rosine Irera",
+              "non_striker": "MM Mabathoana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MM Mabathoana",
+              "bowler": "Rosine Irera",
+              "non_striker": "T Ramabitsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "T Ramabitsa",
+              "bowler": "R Shimwamana",
+              "non_striker": "MM Mabathoana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MM Mabathoana",
+              "bowler": "R Shimwamana",
+              "non_striker": "T Ramabitsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MM Mabathoana",
+              "bowler": "R Shimwamana",
+              "non_striker": "T Ramabitsa",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Ramabitsa",
+                  "fielders": [
+                    {
+                      "name": "M Uwase"
+                    },
+                    {
+                      "name": "C Uwase"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "MA Tsemane",
+              "bowler": "R Shimwamana",
+              "non_striker": "MM Mabathoana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MM Mabathoana",
+              "bowler": "R Shimwamana",
+              "non_striker": "MA Tsemane",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "MA Tsemane",
+                  "fielders": [
+                    {
+                      "name": "M Uwase"
+                    },
+                    {
+                      "name": "Geovanis Uwase"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "R Limema",
+              "bowler": "R Shimwamana",
+              "non_striker": "MM Mabathoana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "R Limema",
+              "bowler": "Rosine Irera",
+              "non_striker": "MM Mabathoana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "R Limema",
+                  "fielders": [
+                    {
+                      "name": "B Murekatete"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 5.8,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Rwanda",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "B Tlali",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "B Tlali",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "B Tlali",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "B Tlali",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "B Tlali",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "B Tlali",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "B Tlali",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "MA Nyabela",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 3,
+                "extras": 0,
+                "total": 3
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "MA Nyabela",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "MA Nyabela",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "MA Nyabela",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "MA Nyabela",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "MA Nyabela",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "B Tlali",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "B Tlali",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Uwase",
+              "bowler": "B Tlali",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "B Tlali",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "B Tlali",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "MD Bimenyimana",
+              "bowler": "B Tlali",
+              "non_striker": "M Uwase",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "M Uwase",
+              "bowler": "MA Nyabela",
+              "non_striker": "MD Bimenyimana",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 3.1,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 20,
+        "runs": 24
+      }
+    }
+  ]
+}

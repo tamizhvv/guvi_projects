@@ -1,0 +1,2208 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2025-07-12",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Sofia",
+    "dates": [
+      "2025-07-09"
+    ],
+    "event": {
+      "name": "Women's T20 Quadrangular Series (in Bulgaria)",
+      "stage": "3rd Place Play-Off"
+    },
+    "gender": "female",
+    "match_type": "T20",
+    "match_type_number": 2396,
+    "missing": [
+      "umpires"
+    ],
+    "outcome": {
+      "winner": "Serbia",
+      "by": {
+        "wickets": 8
+      }
+    },
+    "overs": 20,
+    "player_of_match": [
+      "S Galabova"
+    ],
+    "players": {
+      "Bulgaria": [
+        "B Shotorova",
+        "S Sarandeva",
+        "M Abadjieva",
+        "D Ruynekova",
+        "V Nikolova",
+        "S Galabova",
+        "G Ilarionova",
+        "K Srandeva",
+        "A Stoilova",
+        "N Gocheva",
+        "V Atanasova"
+      ],
+      "Serbia": [
+        "T Trajkovic",
+        "M Perisic",
+        "M Nikolic",
+        "S Matijevic",
+        "D Demic",
+        "B Ercegovcevic",
+        "N Nojic",
+        "M Trajkovi",
+        "M Jevdjenovic",
+        "S Simic",
+        "E Prokic"
+      ]
+    },
+    "registry": {
+      "people": {
+        "A Stoilova": "c602c725",
+        "B Ercegovcevic": "be5b6d0d",
+        "B Shotorova": "cbef9f64",
+        "D Demic": "618327de",
+        "D Ruynekova": "c3890e1e",
+        "E Prokic": "6153ce0d",
+        "G Ilarionova": "b56786e5",
+        "K Srandeva": "38602b15",
+        "M Abadjieva": "f37f1c61",
+        "M Jevdjenovic": "3be2b0a3",
+        "M Nikolic": "852f74c8",
+        "M Perisic": "81599c08",
+        "M Trajkovi": "2f208ab6",
+        "N Gocheva": "1be8f244",
+        "N Nojic": "ef537c2e",
+        "S Galabova": "21bcbbdd",
+        "S Matijevic": "eae6959b",
+        "S Sarandeva": "dacecca3",
+        "S Simic": "c219a3c4",
+        "T Trajkovic": "1e630426",
+        "V Atanasova": "b97e474c",
+        "V Nikolova": "078d1eb5"
+      }
+    },
+    "season": "2025",
+    "team_type": "international",
+    "teams": [
+      "Bulgaria",
+      "Serbia"
+    ],
+    "toss": {
+      "decision": "field",
+      "winner": "Serbia"
+    },
+    "venue": "Vassil Levski National Sports Academy, Sofia"
+  },
+  "innings": [
+    {
+      "team": "Bulgaria",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "B Shotorova",
+              "bowler": "M Trajkovi",
+              "non_striker": "S Sarandeva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Sarandeva",
+              "bowler": "M Trajkovi",
+              "non_striker": "B Shotorova",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Shotorova",
+              "bowler": "M Trajkovi",
+              "non_striker": "S Sarandeva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              },
+              "wickets": [
+                {
+                  "player_out": "S Sarandeva",
+                  "fielders": [
+                    {
+                      "name": "S Matijevic"
+                    },
+                    {
+                      "name": "M Trajkovi"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "B Shotorova",
+              "bowler": "M Trajkovi",
+              "non_striker": "M Abadjieva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Shotorova",
+              "bowler": "M Trajkovi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Abadjieva",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "B Shotorova",
+              "bowler": "M Trajkovi",
+              "non_striker": "M Abadjieva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "B Shotorova",
+              "bowler": "M Trajkovi",
+              "non_striker": "M Abadjieva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "B Shotorova",
+              "bowler": "N Nojic",
+              "non_striker": "M Abadjieva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "B Shotorova",
+                  "fielders": [
+                    {
+                      "name": "T Trajkovic"
+                    },
+                    {
+                      "name": "N Nojic"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "M Abadjieva",
+              "bowler": "N Nojic",
+              "non_striker": "D Ruynekova",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Ruynekova",
+              "bowler": "N Nojic",
+              "non_striker": "M Abadjieva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Ruynekova",
+              "bowler": "N Nojic",
+              "non_striker": "M Abadjieva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Ruynekova",
+              "bowler": "N Nojic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Abadjieva",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Ruynekova",
+              "bowler": "N Nojic",
+              "non_striker": "M Abadjieva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Ruynekova",
+              "bowler": "N Nojic",
+              "non_striker": "M Abadjieva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "M Abadjieva",
+              "bowler": "M Trajkovi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "D Ruynekova",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Abadjieva",
+              "bowler": "M Trajkovi",
+              "non_striker": "D Ruynekova",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Ruynekova",
+              "bowler": "M Trajkovi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Abadjieva",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Ruynekova",
+              "bowler": "M Trajkovi",
+              "non_striker": "M Abadjieva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Ruynekova",
+              "bowler": "M Trajkovi",
+              "non_striker": "M Abadjieva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Abadjieva",
+              "bowler": "M Trajkovi",
+              "non_striker": "D Ruynekova",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "D Ruynekova",
+              "bowler": "M Trajkovi",
+              "non_striker": "M Abadjieva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "D Ruynekova",
+              "bowler": "M Trajkovi",
+              "non_striker": "M Abadjieva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "D Ruynekova",
+              "bowler": "N Nojic",
+              "non_striker": "M Abadjieva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Ruynekova",
+              "bowler": "N Nojic",
+              "non_striker": "M Abadjieva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Ruynekova",
+              "bowler": "N Nojic",
+              "non_striker": "M Abadjieva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Ruynekova",
+              "bowler": "N Nojic",
+              "non_striker": "M Abadjieva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "D Ruynekova",
+              "bowler": "N Nojic",
+              "non_striker": "M Abadjieva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "D Ruynekova",
+                  "fielders": [
+                    {
+                      "name": "T Trajkovic"
+                    }
+                  ],
+                  "kind": "run out"
+                }
+              ]
+            },
+            {
+              "batter": "M Abadjieva",
+              "bowler": "N Nojic",
+              "non_striker": "V Nikolova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "V Nikolova",
+              "bowler": "S Simic",
+              "non_striker": "M Abadjieva",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Abadjieva",
+              "bowler": "S Simic",
+              "non_striker": "V Nikolova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Abadjieva",
+              "bowler": "S Simic",
+              "non_striker": "V Nikolova",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Nikolova",
+              "bowler": "S Simic",
+              "non_striker": "M Abadjieva",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "V Nikolova",
+              "bowler": "S Simic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Abadjieva",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Nikolova",
+              "bowler": "S Simic",
+              "non_striker": "M Abadjieva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "V Nikolova",
+              "bowler": "S Simic",
+              "non_striker": "M Abadjieva",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "M Abadjieva",
+              "bowler": "S Matijevic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Nikolova",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Abadjieva",
+              "bowler": "S Matijevic",
+              "non_striker": "V Nikolova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Abadjieva",
+              "bowler": "S Matijevic",
+              "non_striker": "V Nikolova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Abadjieva",
+              "bowler": "S Matijevic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "V Nikolova",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Abadjieva",
+              "bowler": "S Matijevic",
+              "non_striker": "V Nikolova",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "V Nikolova",
+              "bowler": "S Matijevic",
+              "non_striker": "M Abadjieva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "V Nikolova",
+                  "fielders": [
+                    {
+                      "name": "D Demic"
+                    }
+                  ],
+                  "kind": "stumped"
+                }
+              ]
+            },
+            {
+              "batter": "S Galabova",
+              "bowler": "S Matijevic",
+              "non_striker": "M Abadjieva",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Galabova",
+              "bowler": "S Matijevic",
+              "non_striker": "M Abadjieva",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "M Abadjieva",
+              "bowler": "S Simic",
+              "non_striker": "S Galabova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Abadjieva",
+                  "kind": "bowled"
+                }
+              ]
+            },
+            {
+              "batter": "G Ilarionova",
+              "bowler": "S Simic",
+              "non_striker": "S Galabova",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Galabova",
+              "bowler": "S Simic",
+              "non_striker": "G Ilarionova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Galabova",
+              "bowler": "S Simic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Ilarionova",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Galabova",
+              "bowler": "S Simic",
+              "non_striker": "G Ilarionova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Galabova",
+              "bowler": "S Simic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Ilarionova",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Galabova",
+              "bowler": "S Simic",
+              "non_striker": "G Ilarionova",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Ilarionova",
+              "bowler": "S Simic",
+              "non_striker": "S Galabova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "S Galabova",
+              "bowler": "N Nojic",
+              "non_striker": "G Ilarionova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Galabova",
+              "bowler": "N Nojic",
+              "non_striker": "G Ilarionova",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Galabova",
+              "bowler": "N Nojic",
+              "non_striker": "G Ilarionova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Galabova",
+              "bowler": "N Nojic",
+              "non_striker": "G Ilarionova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Galabova",
+              "bowler": "N Nojic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Ilarionova",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Galabova",
+              "bowler": "N Nojic",
+              "extras": {
+                "byes": 1
+              },
+              "non_striker": "G Ilarionova",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Ilarionova",
+              "bowler": "N Nojic",
+              "non_striker": "S Galabova",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "G Ilarionova",
+              "bowler": "M Jevdjenovic",
+              "non_striker": "S Galabova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Ilarionova",
+              "bowler": "M Jevdjenovic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Galabova",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Ilarionova",
+              "bowler": "M Jevdjenovic",
+              "non_striker": "S Galabova",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Galabova",
+              "bowler": "M Jevdjenovic",
+              "non_striker": "G Ilarionova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Galabova",
+              "bowler": "M Jevdjenovic",
+              "non_striker": "G Ilarionova",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Ilarionova",
+              "bowler": "M Jevdjenovic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Galabova",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Ilarionova",
+              "bowler": "M Jevdjenovic",
+              "non_striker": "S Galabova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Ilarionova",
+              "bowler": "M Jevdjenovic",
+              "non_striker": "S Galabova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "S Galabova",
+              "bowler": "S Matijevic",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "G Ilarionova",
+              "runs": {
+                "batter": 1,
+                "extras": 1,
+                "total": 2
+              }
+            },
+            {
+              "batter": "G Ilarionova",
+              "bowler": "S Matijevic",
+              "non_striker": "S Galabova",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Galabova",
+              "bowler": "S Matijevic",
+              "non_striker": "G Ilarionova",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Ilarionova",
+              "bowler": "S Matijevic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Galabova",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Ilarionova",
+              "bowler": "S Matijevic",
+              "non_striker": "S Galabova",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Galabova",
+              "bowler": "S Matijevic",
+              "non_striker": "G Ilarionova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Galabova",
+              "bowler": "S Matijevic",
+              "non_striker": "G Ilarionova",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Ilarionova",
+              "bowler": "S Matijevic",
+              "non_striker": "S Galabova",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            {
+              "batter": "G Ilarionova",
+              "bowler": "M Jevdjenovic",
+              "non_striker": "S Galabova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Ilarionova",
+              "bowler": "M Jevdjenovic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Galabova",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Ilarionova",
+              "bowler": "M Jevdjenovic",
+              "non_striker": "S Galabova",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Galabova",
+              "bowler": "M Jevdjenovic",
+              "non_striker": "G Ilarionova",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Galabova",
+              "bowler": "M Jevdjenovic",
+              "non_striker": "G Ilarionova",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Galabova",
+              "bowler": "M Jevdjenovic",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Ilarionova",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Galabova",
+              "bowler": "M Jevdjenovic",
+              "non_striker": "G Ilarionova",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Ilarionova",
+              "bowler": "M Jevdjenovic",
+              "non_striker": "S Galabova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            {
+              "batter": "S Galabova",
+              "bowler": "M Trajkovi",
+              "non_striker": "G Ilarionova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Galabova",
+              "bowler": "M Trajkovi",
+              "non_striker": "G Ilarionova",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "G Ilarionova",
+              "bowler": "M Trajkovi",
+              "non_striker": "S Galabova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "G Ilarionova",
+              "bowler": "M Trajkovi",
+              "non_striker": "S Galabova",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Galabova",
+              "bowler": "M Trajkovi",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "G Ilarionova",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Galabova",
+              "bowler": "M Trajkovi",
+              "non_striker": "G Ilarionova",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Galabova",
+              "bowler": "M Trajkovi",
+              "non_striker": "G Ilarionova",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 3.6,
+          "type": "mandatory"
+        }
+      ]
+    },
+    {
+      "team": "Serbia",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            {
+              "batter": "T Trajkovic",
+              "bowler": "G Ilarionova",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Perisic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Trajkovic",
+              "bowler": "G Ilarionova",
+              "non_striker": "M Perisic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Trajkovic",
+              "bowler": "G Ilarionova",
+              "non_striker": "M Perisic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Perisic",
+              "bowler": "G Ilarionova",
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Perisic",
+              "bowler": "G Ilarionova",
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Perisic",
+              "bowler": "G Ilarionova",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Perisic",
+              "bowler": "G Ilarionova",
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Trajkovic",
+              "bowler": "G Ilarionova",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Perisic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Trajkovic",
+              "bowler": "G Ilarionova",
+              "extras": {
+                "byes": 4
+              },
+              "non_striker": "M Perisic",
+              "runs": {
+                "batter": 0,
+                "extras": 4,
+                "total": 4
+              }
+            }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            {
+              "batter": "M Perisic",
+              "bowler": "B Shotorova",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Perisic",
+              "bowler": "B Shotorova",
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Perisic",
+              "bowler": "B Shotorova",
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Perisic",
+              "bowler": "B Shotorova",
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Trajkovic",
+              "bowler": "B Shotorova",
+              "non_striker": "M Perisic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Trajkovic",
+              "bowler": "B Shotorova",
+              "non_striker": "M Perisic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Perisic",
+              "bowler": "B Shotorova",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Trajkovic",
+              "bowler": "B Shotorova",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Perisic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Trajkovic",
+              "bowler": "B Shotorova",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Perisic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Trajkovic",
+              "bowler": "B Shotorova",
+              "non_striker": "M Perisic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 2,
+          "deliveries": [
+            {
+              "batter": "M Perisic",
+              "bowler": "G Ilarionova",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Perisic",
+              "bowler": "G Ilarionova",
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Perisic",
+              "bowler": "G Ilarionova",
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Perisic",
+              "bowler": "G Ilarionova",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Perisic",
+              "bowler": "G Ilarionova",
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Trajkovic",
+              "bowler": "G Ilarionova",
+              "non_striker": "M Perisic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Trajkovic",
+              "bowler": "G Ilarionova",
+              "non_striker": "M Perisic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Perisic",
+              "bowler": "G Ilarionova",
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 3,
+          "deliveries": [
+            {
+              "batter": "T Trajkovic",
+              "bowler": "B Shotorova",
+              "non_striker": "M Perisic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Perisic",
+              "bowler": "B Shotorova",
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Perisic",
+              "bowler": "B Shotorova",
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Trajkovic",
+              "bowler": "B Shotorova",
+              "non_striker": "M Perisic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Trajkovic",
+              "bowler": "B Shotorova",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Perisic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Trajkovic",
+              "bowler": "B Shotorova",
+              "non_striker": "M Perisic",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "T Trajkovic",
+              "bowler": "B Shotorova",
+              "non_striker": "M Perisic",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            }
+          ]
+        },
+        {
+          "over": 4,
+          "deliveries": [
+            {
+              "batter": "M Perisic",
+              "bowler": "K Srandeva",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Perisic",
+              "bowler": "K Srandeva",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Perisic",
+              "bowler": "K Srandeva",
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Perisic",
+              "bowler": "K Srandeva",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Perisic",
+              "bowler": "K Srandeva",
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Trajkovic",
+              "bowler": "K Srandeva",
+              "non_striker": "M Perisic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Perisic",
+              "bowler": "K Srandeva",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Perisic",
+              "bowler": "K Srandeva",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Perisic",
+              "bowler": "K Srandeva",
+              "extras": {
+                "legbyes": 1
+              },
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Trajkovic",
+              "bowler": "K Srandeva",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Perisic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "T Trajkovic",
+              "bowler": "K Srandeva",
+              "non_striker": "M Perisic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Perisic",
+              "bowler": "K Srandeva",
+              "non_striker": "T Trajkovic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "M Perisic",
+                  "fielders": [
+                    {
+                      "name": "B Shotorova"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            {
+              "batter": "T Trajkovic",
+              "bowler": "D Ruynekova",
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Trajkovic",
+              "bowler": "D Ruynekova",
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "T Trajkovic",
+              "bowler": "D Ruynekova",
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              },
+              "wickets": [
+                {
+                  "player_out": "T Trajkovic",
+                  "fielders": [
+                    {
+                      "name": "S Galabova"
+                    }
+                  ],
+                  "kind": "caught"
+                }
+              ]
+            },
+            {
+              "batter": "S Matijevic",
+              "bowler": "D Ruynekova",
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Matijevic",
+              "bowler": "D Ruynekova",
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Matijevic",
+              "bowler": "D Ruynekova",
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            {
+              "batter": "S Matijevic",
+              "bowler": "S Sarandeva",
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Matijevic",
+              "bowler": "S Sarandeva",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Matijevic",
+              "bowler": "S Sarandeva",
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Matijevic",
+              "bowler": "S Sarandeva",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Matijevic",
+              "bowler": "S Sarandeva",
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Matijevic",
+              "bowler": "S Sarandeva",
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Matijevic",
+              "bowler": "S Sarandeva",
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Nikolic",
+              "bowler": "S Sarandeva",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "S Matijevic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Nikolic",
+              "bowler": "S Sarandeva",
+              "non_striker": "S Matijevic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            {
+              "batter": "M Nikolic",
+              "bowler": "D Ruynekova",
+              "non_striker": "S Matijevic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Nikolic",
+              "bowler": "D Ruynekova",
+              "non_striker": "S Matijevic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Nikolic",
+              "bowler": "D Ruynekova",
+              "non_striker": "S Matijevic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Matijevic",
+              "bowler": "D Ruynekova",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Matijevic",
+              "bowler": "D Ruynekova",
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Nikolic",
+              "bowler": "D Ruynekova",
+              "non_striker": "S Matijevic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Nikolic",
+              "bowler": "D Ruynekova",
+              "non_striker": "S Matijevic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            {
+              "batter": "S Matijevic",
+              "bowler": "B Shotorova",
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Matijevic",
+              "bowler": "B Shotorova",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Matijevic",
+              "bowler": "B Shotorova",
+              "extras": {
+                "wides": 2
+              },
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 0,
+                "extras": 2,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Nikolic",
+              "bowler": "B Shotorova",
+              "non_striker": "S Matijevic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Nikolic",
+              "bowler": "B Shotorova",
+              "non_striker": "S Matijevic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "M Nikolic",
+              "bowler": "B Shotorova",
+              "non_striker": "S Matijevic",
+              "runs": {
+                "batter": 2,
+                "extras": 0,
+                "total": 2
+              }
+            },
+            {
+              "batter": "M Nikolic",
+              "bowler": "B Shotorova",
+              "non_striker": "S Matijevic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Matijevic",
+              "bowler": "B Shotorova",
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            {
+              "batter": "M Nikolic",
+              "bowler": "D Ruynekova",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "S Matijevic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Nikolic",
+              "bowler": "D Ruynekova",
+              "non_striker": "S Matijevic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Matijevic",
+              "bowler": "D Ruynekova",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Matijevic",
+              "bowler": "D Ruynekova",
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "M Nikolic",
+              "bowler": "D Ruynekova",
+              "non_striker": "S Matijevic",
+              "runs": {
+                "batter": 1,
+                "extras": 0,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Matijevic",
+              "bowler": "D Ruynekova",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Matijevic",
+              "bowler": "D Ruynekova",
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 0,
+                "extras": 0,
+                "total": 0
+              }
+            },
+            {
+              "batter": "S Matijevic",
+              "bowler": "D Ruynekova",
+              "extras": {
+                "noballs": 1
+              },
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            },
+            {
+              "batter": "S Matijevic",
+              "bowler": "D Ruynekova",
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 4,
+                "extras": 0,
+                "total": 4
+              }
+            },
+            {
+              "batter": "S Matijevic",
+              "bowler": "D Ruynekova",
+              "extras": {
+                "wides": 1
+              },
+              "non_striker": "M Nikolic",
+              "runs": {
+                "batter": 0,
+                "extras": 1,
+                "total": 1
+              }
+            }
+          ]
+        }
+      ],
+      "powerplays": [
+        {
+          "from": 0.1,
+          "to": 3.7,
+          "type": "mandatory"
+        }
+      ],
+      "target": {
+        "overs": 12,
+        "runs": 74
+      }
+    }
+  ]
+}
